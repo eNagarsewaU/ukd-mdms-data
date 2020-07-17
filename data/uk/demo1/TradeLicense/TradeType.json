@@ -28,7 +28,48 @@
     },
     {
     "code": "TRADE.HOTELS.KA3STR",
-    "uom": null,
+    "uom": null,{
+  "tenantId": "uk.demo1",
+  "moduleName": "TradeLicense",
+  "TradeType": [
+    {
+      "code": "TRADE.LIVESTOCK.KACS",
+      "uom": null,
+      "applicationDocument": [
+        "AC002",
+        "AC028",
+        "OWNERPHOTO"
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL"
+    },
+    {
+      "code": "TRADE.STREETVENDOR.KATEAS",
+      "uom": null,
+      "applicationDocument": [
+        "AC002",
+        "AC028",
+        "OWNERPHOTO"
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL"
+    },
+    {
+      "code": "TRADE.HOTELS.KA3STR",
+      "uom": null,
+      "applicationDocument": [
+        "AC002",
+        "AC028",
+        "OWNERPHOTO"
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL"
+    }
+  ]
+}
     "applicationDocument": [
       "AC002",
       "AC028",
