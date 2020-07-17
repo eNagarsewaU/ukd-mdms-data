@@ -25,6 +25,18 @@
       "verificationDocument": [],
       "active": true,
       "type": "TL"
-    }
+    },
+    {
+    "code": "TRADE.HOTELS.KA3STR",
+    "uom": null,
+    "applicationDocument": [
+      "AC002",
+      "AC028",
+      "OWNERPHOTO"
+    ],
+    "verificationDocument": [],
+    "active": true,
+    "type": "TL"
+  }
   ]
 }
