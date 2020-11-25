@@ -33,7 +33,7 @@
     "uom": null,
     "applicationDocument": [
       {
-        "applicationType": "NEW",
+        "applicationType": "NEW ",
         "documentList": [
           "AADPANCARD",
           "AC056",
