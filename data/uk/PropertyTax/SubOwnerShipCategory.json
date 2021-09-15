@@ -1,16 +1,17 @@
 {
   "tenantId": "uk",
   "moduleName": "PropertyTax",
-  "SubOwnerShipCategory": [
+  "SubOwnerShipCategory":
+  [
     {
       "name": "Single Owner",
-      "code": "INDIVIDUAL.SINGLEOWNER",
+      "code": "SINGLEOWNER",
       "active": true,
       "ownerShipCategory": "INDIVIDUAL"
     },
     {
-      "name": "Multiple Owner",
-      "code": "INDIVIDUAL.MULTIPLEOWNERS",
+      "name": "Multiple Owners",
+      "code": "MULTIPLEOWNERS",
       "active": true,
       "ownerShipCategory": "INDIVIDUAL"
     },

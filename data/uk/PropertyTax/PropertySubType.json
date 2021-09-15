@@ -9,7 +9,7 @@
       "propertyType": "BUILTUP"
     },
     {
-      "name": "Independent House / Whole Building",
+      "name": "Independent Building",
       "code": "INDEPENDENTPROPERTY",
       "active": true,
       "propertyType": "BUILTUP"

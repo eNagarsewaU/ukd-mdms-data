@@ -1,14 +1,15 @@
 {
   "tenantId": "uk",
   "moduleName": "PropertyTax",
-  "OccupancyType": [
+  "OccupancyType":
+  [
     {
-      "name": "Rented/ Leased",
+      "name": "Tenanted/ Rented",
       "code": "RENTED",
       "active": true
     },
     {
-      "name": "Owner Occupied",
+      "name": "Self-Occupied",
       "code": "SELFOCCUPIED",
       "active": true
     },
