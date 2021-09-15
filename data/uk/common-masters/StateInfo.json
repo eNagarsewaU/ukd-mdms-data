@@ -74,6 +74,14 @@
         {
           "label": "rainmaker-receipt",
           "value": "rainmaker-receipt"
+        },
+        {
+          "label": "rainmaker-dss",
+          "value": "rainmaker-dss"
+        },
+        {
+          "label": "rainmaker-fsm",
+          "value": "rainmaker-fsm"
         }
       ],
       "userManuals": [

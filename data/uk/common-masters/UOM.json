@@ -1,10 +1,18 @@
 {
-    "tenantId": "uk",
-    "moduleName": "common-masters",
-    "UOM": [
-        {
-            "code": "HP",
-            "active": true
-        }
-    ]
+  "tenantId": "uk",
+  "moduleName": "common-masters",
+  "UOM": [
+    {
+      "code": "GALLONS",
+      "active": true
+    },
+    {
+      "code": "GROSSUNITS",
+      "active": true
+    },
+    {
+      "code": "HP",
+      "active": true
+    }
+  ]
 }
