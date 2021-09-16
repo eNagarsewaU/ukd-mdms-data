@@ -39,23 +39,14 @@
       "isStateLevel": true,
       "uniqueKeys": []
     },
-    "Ui-Common-Config": {
-      "masterName": "Ui-Common-Config",
+    "uiCommonConfig": {
+      "masterName": "uiCommonConfig",
       "moduleDefinition": null,
       "isStateLevel": true,
       "uniqueKeys": []
     },
     "Department": {
       "masterName": "Department",
-      "moduleDefinition": null,
-      "isStateLevel": true,
-      "uniqueKeys": [
-        "$.code",
-        "$.tenantId"
-      ]
-    },
-    "CensusYear": {
-      "masterName": "CensusYear",
       "moduleDefinition": null,
       "isStateLevel": true,
       "uniqueKeys": [
