@@ -23028,6 +23028,18 @@
       "actionid": 2312,
       "actioncode": "",
       "tenantId": "uk"
+    },
+    {
+      "rolecode": "HRMS_ADMIN",
+      "actionid": 1773,
+      "actioncode": "",
+      "tenantId": "uk"
+    },
+    {
+      "rolecode": "HRMS_ADMIN",
+      "actionid": 1779,
+      "actioncode": "",
+      "tenantId": "uk"
     }
   ]
 }
