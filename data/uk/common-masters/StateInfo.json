@@ -5,8 +5,8 @@
     {
       "name": "Uttarakhand",
       "code": "uk",
-      "bannerUrl": "https://ukd-dev.egovernments.org/ukd-egov-assets/Stateimages/banner.png",
-      "logoUrl": "https://ukd-dev.egovernments.org/ukd-egov-assets/Stateimages/logo.png",
+      "bannerUrl": "https://ukd-dev.egovernments.org/ukd-assets/Stateimages/banner.png",
+      "logoUrl": "https://ukd-dev.egovernments.org/ukd-assets/Stateimages/logo.png",
       "hasLocalisation": true,
       "hideDigitLogo": true,
       "defaultLanguage": "hi_IN",
@@ -90,11 +90,11 @@
           "manuals": [
             {
               "locale": "en_IN",
-              "url": "https://ukd-dev.egovernments.org/ukd-egov-assets/TL_English_UserManual_Citizen.pdf"
+              "url": "https://ukd-dev.egovernments.org/ukd-assets/TL_English_UserManual_Citizen.pdf"
             },
             {
               "locale": "hi_IN",
-              "url": "https://ukd-dev.egovernments.org/ukd-egov-assets/TL_Hindi_UserManual_Citizen.pdf"
+              "url": "https://ukd-dev.egovernments.org/ukd-assets/TL_Hindi_UserManual_Citizen.pdf"
             }
           ]
         },
@@ -103,11 +103,11 @@
           "manuals": [
             {
               "locale": "en_IN",
-              "url": "https://ukd-dev.egovernments.org/ukd-egov-assets/TL_English_UserManual_Citizen.pdf"
+              "url": "https://ukd-dev.egovernments.org/ukd-assets/TL_English_UserManual_Citizen.pdf"
             },
             {
               "locale": "hi_IN",
-              "url": "https://ukd-dev.egovernments.org/ukd-egov-assets/TL_Hindi_UserManual_Citizen.pdf"
+              "url": "https://ukd-dev.egovernments.org/ukd-assets/TL_Hindi_UserManual_Citizen.pdf"
             }
           ]
         }
