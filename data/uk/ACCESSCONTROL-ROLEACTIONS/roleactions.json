@@ -23004,6 +23004,30 @@
       "actionid": 2308,
       "actioncode": "",
       "tenantId": "uk"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 2309,
+      "actioncode": "",
+      "tenantId": "uk"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 2310,
+      "actioncode": "",
+      "tenantId": "uk"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 2311,
+      "actioncode": "",
+      "tenantId": "uk"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 2312,
+      "actioncode": "",
+      "tenantId": "uk"
     }
   ]
 }
