@@ -38,12 +38,12 @@
       "active": true
     },
     {
-      "name": "Individual - SingleOwner",
+      "name": "Single Owner",
       "code": "INDIVIDUAL.SINGLEOWNER",
       "active": true
     },
     {
-      "name": "Multiple Owners",
+      "name": "Multiple Owner",
       "code": "INDIVIDUAL.MULTIPLEOWNERS",
       "active": true
     },
