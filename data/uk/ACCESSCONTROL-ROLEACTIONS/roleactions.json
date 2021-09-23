@@ -23040,6 +23040,36 @@
       "actionid": 1779,
       "actioncode": "",
       "tenantId": "uk"
+    },
+    {
+      "rolecode": "HRMS_ADMIN",
+      "actionid": 1750,
+      "actioncode": "",
+      "tenantId": "uk"
+    },
+    {
+      "rolecode": "HRMS_ADMIN",
+      "actionid": 1751,
+      "actioncode": "",
+      "tenantId": "uk"
+    },
+    {
+      "rolecode": "HRMS_ADMIN",
+      "actionid": 1752,
+      "actioncode": "",
+      "tenantId": "uk"
+    },
+    {
+      "rolecode": "DATAENTRY_ADMIN",
+      "actionid": 1895,
+      "actioncode": "",
+      "tenantId": "uk"
+    },
+    {
+      "rolecode": "DATAENTRY_ADMIN",
+      "actionid": 1896,
+      "actioncode": "",
+      "tenantId": "uk"
     }
   ]
 }
