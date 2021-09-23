@@ -209,7 +209,7 @@
     },
     "Interest": {
       "masterName": "Interest",
-      "isStateLevel": true,
+      "isStateLevel": false,
       "uniqueKeys": [
         "$.fromFY"
       ]
@@ -300,7 +300,14 @@
     },
     "Rebate": {
       "masterName": "Rebate",
-      "isStateLevel": true,
+      "isStateLevel": false,
+      "uniqueKeys": [
+        "$.fromFY"
+      ]
+    },
+    "PromotionalRebate": {
+      "masterName": "PromotionalRebate",
+      "isStateLevel": false,
       "uniqueKeys": [
         "$.fromFY"
       ]
@@ -316,7 +323,33 @@
       "masterName": "CancerCess",
       "isStateLevel": true,
       "uniqueKeys": []
-    }
+    },
+    "TaxRate": {
+      "masterName": "TaxRate",
+      "isStateLevel": true,
+      "uniqueKeys": []
+    },
+    "RoadType": {
+      "masterName": "RoadType",
+      "isStateLevel": true,
+      "uniqueKeys": [
+        "$.code"
+      ]
+    },
+    "DepreciationAppreciation": {
+      "masterName": "DepreciationAppreciation",
+      "isStateLevel": true,
+      "uniqueKeys": [
+        "$.code"
+      ]
+    },
+    "MutationFee": {
+      "masterName": "MutationFee",
+      "isStateLevel": false,
+      "uniqueKeys": [
+        "$.forFy"
+      ]
+    }    
   },
   "TradeLicense": {
     "TradeType": {
@@ -346,6 +379,20 @@
     },
     "ApplicationType": {
       "masterName": "ApplicationType",
+      "isStateLevel": true,
+      "uniqueKeys": [
+        "$.code"
+      ]
+    },
+    "OccupancyType": {
+      "masterName": "OccupancyType",
+      "isStateLevel": true,
+      "uniqueKeys": [
+        "$.code"
+      ]
+    },
+    "RelationType": {
+      "masterName": "RelationType",
       "isStateLevel": true,
       "uniqueKeys": [
         "$.code"
