@@ -223,6 +223,22 @@
                     },
                     "withoutLabel": true,
                     "key": "TradeDetails",
+                    "nextStep": "OccupancyType",
+                    "type": "component",
+                    "hideInEmployee": true
+                },
+                {
+                    "route": "OccupancyType",
+                    "component": "SelectOccupancyType",
+                    "texts": {
+                        "headerCaption": "",
+                        "header": "TL_OCCUPANCYTYPE_HEADER",
+                        "cardText": "TL_OCCUPANCYTYPE_TEXT",
+                        "submitBarLabel": "CS_COMMON_NEXT",
+                        "skipText": ""
+                    },
+                    "withoutLabel": true,
+                    "key": "TradeDetails",
                     "nextStep": "structure-type",
                     "type": "component",
                     "hideInEmployee": true
