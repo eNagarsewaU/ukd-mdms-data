@@ -6,6 +6,10 @@
       "code": "SALEDEED",
       "active": true
     },
+     {
+      "code": "SALEPOWEROFATTORNEY",
+      "active": true
+    },
     {
       "code": "GIFTDEED",
       "active": true
@@ -42,12 +46,16 @@
       "code": "UNREGISTEREDWILLDEED",
       "active": true
     },
-    {
-      "code": "CORRECTIONINNAME",
+     {
+      "code": "NAMECORRECTION",
       "active": true
     },
     {
-      "code": "CHANGEINOWNERSPECIALCATEGORY",
+      "code": "FREEHOLDREGISTRY",
+      "active": true
+    },
+    {
+      "code": "NAMECORRECTIONCLERICAL",
       "active": true
     }
   ]
