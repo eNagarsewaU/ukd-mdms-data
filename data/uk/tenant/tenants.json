@@ -1004,7 +1004,7 @@
       "type": "CITY",
       "twitterUrl": "",
       "facebookUrl": "",
-      "emailId": "eo2014champawat@gmail.com",
+      "emailId": "eo.nagarpanchayatbanbasa@gmail.com",
       "OfficeTimings": {
         "Mon - Sat": "10.00 AM - 5.00 PM"
       },
@@ -1023,7 +1023,7 @@
         "regionCode": "2",
         "municipalityName": "Banbasa Nagar Panchayat"
       },
-      "address": "Nagar Panchayat Champawat",
+      "address": "Nagar Panchayat Banbasa",
       "contactNumber": ""
     },
     {
@@ -1059,7 +1059,7 @@
       "contactNumber": "9412907849"
     },
     {
-      "code": "uk.swargashram jonk",
+      "code": "uk.swargashramjonk",
       "name": "swargashram jonk",
       "description": "swargashram jonk",
       "logoId": "https://ukd-dev.egovernments.org/ukd-assets/uk.kotdwar/logo.png",
@@ -1531,7 +1531,7 @@
         "latitude": 29.2183,
         "shapeFileLocation": null,
         "captcha": null,
-        "code": "248459",
+        "code": "248499",
         "regionCode": "2",
         "municipalityName": "Testing Municipal Corporation"
       },
@@ -1859,7 +1859,7 @@
       "contactNumber": ""
     },
     {
-      "code": "uk.chamoli gopeshwar",
+      "code": "uk.chamoligopeshwar",
       "name": "Chamoli Gopeshwar",
       "description": "Chamoli Gopeshwar",
       "logoId": "https://ukd-dev.egovernments.org/ukd-assets/uk.kotdwar/logo.png",
@@ -2124,7 +2124,7 @@
       "type": "CITY",
       "twitterUrl": "",
       "facebookUrl": "",
-      "emailId": "pipalkoti@gmail.com",
+      "emailId": "nppipalkoti@gmail.com",
       "OfficeTimings": {
         "Mon - Sat": "10.00 AM - 5.00 PM"
       },
@@ -2139,11 +2139,11 @@
         "latitude": "",
         "shapeFileLocation": null,
         "captcha": null,
-        "code": "259921",
+        "code": "276459",
         "regionCode": "1",
         "municipalityName": "Nagar Panchayat Pipalkoti"
       },
-      "address": "Nagar Palika Parishad Pipalkoti",
+      "address": "Nagar Panchayat Pipalkoti",
       "contactNumber": ""
     },
     {
@@ -2408,11 +2408,11 @@
       "description": "Khatima",
       "logoId": "https://ukd-dev.egovernments.org/ukd-assets/uk.kotdwar/logo.png",
       "imageId": null,
-      "domainUrl": "khatimanpp.in",
+      "domainUrl": "",
       "type": "CITY",
       "twitterUrl": "",
       "facebookUrl": "",
-      "emailId": "npkhatima108@gmail.com",
+      "emailId": "khatimanpp@gmail.com",
       "OfficeTimings": {
         "Mon - Sat": "10.00 AM - 5.00 PM"
       },
@@ -2422,17 +2422,17 @@
         "districtCode": "56",
         "districtName": "Udham Singh Nagar",
         "regionName": "Kumaon",
-        "ulbGrade": "NP",
+        "ulbGrade": "NPP",
         "longitude": "",
         "latitude": "",
         "shapeFileLocation": null,
         "captcha": null,
-        "code": "263160",
+        "code": "248477",
         "regionCode": "2",
-        "municipalityName": "Nagar Panchayat khatima"
+        "municipalityName": "Nagar Palika Parishad, Khatima"
       },
-      "address": "Nagar Panchayat khatima",
-      "contactNumber": ""
+      "address": "Nagar Palika Parishad, Khatima",
+      "contactNumber": "05943-250126"
     },
     {
       "code": "uk.dineshpur",
@@ -2459,7 +2459,7 @@
         "latitude": "",
         "shapeFileLocation": null,
         "captcha": null,
-        "code": "263160",
+        "code": "248470",
         "regionCode": "2",
         "municipalityName": "Nagar Panchayat Dineshpur"
       },
@@ -2689,6 +2689,171 @@
       },
       "address": "Uttarakhand, India",
       "contactNumber": "-"
+    },
+    {
+      "code": "uk.mussorie",
+      "name": "Mussorie",
+      "description": "Mussorie",
+      "logoId": "https://nagarsewa-uat.uk.gov.in/ukd-assets/uk.mussorie/logo.png",
+      "imageId": null,
+      "domainUrl": "NA",
+      "type": "CITY",
+      "twitterUrl": null,
+      "facebookUrl": null,
+      "emailId": "nppmussoorie@gmail.com",
+      "OfficeTimings": {
+        "Mon - Sat": "10.00 AM - 5.00 PM"
+      },
+      "city": {
+        "name": "Mussorie",
+        "localName": "Mussorie",
+        "districtCode": "49",
+        "districtName": "Dehradun",
+        "regionName": "Garhwal",
+        "ulbGrade": "NPP",
+        "longitude": null,
+        "latitude": null,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "248429",
+        "regionCode": "1",
+        "municipalityName": "Nagar Palika Parishad Mussorie",
+        "ddrName": "Dehradun"
+      },
+      "address": "Nagar Palika Parishad Mussorie",
+      "contactNumber": "2632251"
+    },
+    {
+      "code": "uk.nainital",
+      "name": "Nainital",
+      "description": "Nainital",
+      "logoId": "https://nagarsewa-uat.uk.gov.in/ukd-assets/uk.nainital/logo.png",
+      "imageId": null,
+      "domainUrl": "http://www.nppnainital.in/",
+      "type": "CITY",
+      "twitterUrl": null,
+      "facebookUrl": null,
+      "emailId": "nppnainital@gmail.com",
+      "OfficeTimings": {
+        "Mon - Sat": "10.00 AM - 5.00 PM"
+      },
+      "city": {
+        "name": "Nainital",
+        "localName": "Nainital",
+        "districtCode": "51",
+        "districtName": "Nainital",
+        "regionName": "Kumaon",
+        "ulbGrade": "NPP",
+        "longitude": null,
+        "latitude": null,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "248454",
+        "regionCode": "2",
+        "municipalityName": "Nainital Nagar Palika Parishad",
+        "ddrName": "Nainital"
+      },
+      "address": "Nagar Palika Parishad Nainital",
+      "contactNumber": null
+    },
+    {
+      "code": "uk.landhaura",
+      "name": "Landhaura",
+      "description": "Landhaura",
+      "logoId": "https://nagarsewa-uat.uk.gov.in/ukd-assets/uk.landhaura/logo.png",
+      "imageId": null,
+      "domainUrl": "NA",
+      "type": "CITY",
+      "twitterUrl": null,
+      "facebookUrl": null,
+      "emailId": "eonplandhura@gmail.com",
+      "OfficeTimings": {
+        "Mon - Sat": "10.00 AM - 5.00 PM"
+      },
+      "city": {
+        "name": "Landhaura",
+        "localName": "Landhaura",
+        "districtCode": "50",
+        "districtName": "Haridwar",
+        "regionName": "Garhwal",
+        "ulbGrade": "NP",
+        "longitude": null,
+        "latitude": null,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "248483",
+        "regionCode": "1",
+        "municipalityName": "Landhaura Nagar Panchayat",
+        "ddrName": "Haridwar"
+      },
+      "address": "Nagar Panchayat Landhaura",
+      "contactNumber": null
+    },
+    {
+      "code": "uk.satpuli",
+      "name": "Satpuli",
+      "description": "Satpuli",
+      "logoId": "https://ukd-dev.egovernments.org/ukd-assets/uk.satpuli/logo.png",
+      "imageId": null,
+      "domainUrl": "NA",
+      "type": "CITY",
+      "twitterUrl": null,
+      "facebookUrl": null,
+      "emailId": "npsatpuli@gmail.com",
+      "OfficeTimings": {
+        "Mon - Sat": "10.00 AM - 5.00 PM"
+      },
+      "city": {
+        "name": "Satpuli",
+        "localName": "Satpuli",
+        "districtCode": "52",
+        "districtName": "Pauri Garhwal",
+        "regionName": "Garhwal",
+        "ulbGrade": "NP",
+        "longitude": null,
+        "latitude": null,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "262882",
+        "regionCode": "1",
+        "municipalityName": "Satpuli Nagar Panchayat",
+        "ddrName": "PauriGarhwal"
+      },
+      "address": "Nagar Panchayat Satpuli",
+      "contactNumber": null
+    },
+    {
+      "code": "uk.bhikiyasain",
+      "name": "Bhikiyasain",
+      "description": "Bhikiyasain",
+      "logoId": "https://ukd-dev.egovernments.org/ukd-assets/uk.bhikiyasain/logo.png",
+      "imageId": null,
+      "domainUrl": "NA",
+      "type": "CITY",
+      "twitterUrl": null,
+      "facebookUrl": null,
+      "emailId": "eonpbhikiyasain@gmail.com",
+      "OfficeTimings": {
+        "Mon - Sat": "10.00 AM - 5.00 PM"
+      },
+      "city": {
+        "name": "Bhikiyasain",
+        "localName": "Bhikiyasain",
+        "districtCode": "45",
+        "districtName": "Almora",
+        "regionName": "Kumaon",
+        "ulbGrade": "NP",
+        "longitude": null,
+        "latitude": null,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "274457",
+        "regionCode": "2",
+        "municipalityName": "Bhikiyasain Nagar Panchayat",
+        "ddrName": "Almora"
+      },
+      "address": "Nagar Panchayat Bhikiyasain",
+      "contactNumber": "8393951529"
     }
   ]
 }

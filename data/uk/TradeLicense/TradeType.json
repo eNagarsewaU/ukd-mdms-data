@@ -12,8 +12,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.LIQUOR.FLG",
@@ -25,8 +24,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.LIVESTOCK.BS",
@@ -38,8 +36,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.LIVESTOCK.CS",
@@ -51,8 +48,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.LIVESTOCK.ES",
@@ -64,8 +60,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.LIVESTOCK.MS",
@@ -77,8 +72,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.MEDICAL.DNTC",
@@ -90,8 +84,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.MEDICAL.MHA50",
@@ -103,8 +96,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.MEDICAL.MH20B",
@@ -116,8 +108,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.MEDICAL.NHA50",
@@ -129,8 +120,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.MEDICAL.NH20B",
@@ -142,8 +132,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.MEDICAL.PC",
@@ -155,8 +144,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.MEDICAL.PVTC",
@@ -168,8 +156,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.MEDICAL.PVTH",
@@ -181,8 +168,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.MEDICAL.XRYC",
@@ -194,8 +180,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.TRANSPORT.RAA",
@@ -207,8 +192,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.TRANSPORT.RLD",
@@ -220,8 +204,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.TRANSPORT.RLO",
@@ -233,8 +216,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.STREETVENDOR.HWK",
@@ -246,8 +228,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.INDUSTRY.SI",
@@ -259,8 +240,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.INDUSTRY.OM",
@@ -272,8 +252,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.TRANSPORT.RLOD",
@@ -285,8 +264,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.HOTEL.TR01",
@@ -298,8 +276,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.HOTEL.TR02",
@@ -311,8 +288,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.HOTEL.TR03",
@@ -324,8 +300,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.HOTEL.TR04",
@@ -337,8 +312,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.HOTEL.TR05",
@@ -350,8 +324,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.HOTEL.TR06",
@@ -363,8 +336,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.HOTEL.TR07",
@@ -376,8 +348,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.HOTEL.TR08",
@@ -389,8 +360,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.HOTEL.TR09",
@@ -402,8 +372,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.HOTEL.TR10",
@@ -415,8 +384,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.MEDICAL.TR11",
@@ -428,8 +396,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.MEDICAL.TR12",
@@ -441,8 +408,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.MEDICAL.TR13",
@@ -454,8 +420,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.MEDICAL.TR14",
@@ -467,8 +432,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.MEDICAL.TR15",
@@ -480,8 +444,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.MEDICAL.TR16",
@@ -493,8 +456,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.MEDICAL.TR17",
@@ -506,8 +468,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.MEDICAL.TR18",
@@ -519,8 +480,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.MEDICAL.TR19",
@@ -532,8 +492,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.MEDICAL.TR20",
@@ -545,8 +504,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.MEDICAL.TR21",
@@ -558,8 +516,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.TRANSPORT.TR22",
@@ -571,8 +528,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.TRANSPORT.TR23",
@@ -584,8 +540,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.TRANSPORT.TR24",
@@ -597,8 +552,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.TRANSPORT.TR25",
@@ -610,8 +564,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.TRANSPORT.TR26",
@@ -623,8 +576,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.TRANSPORT.TR27",
@@ -636,8 +588,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.PETROLEUM.TR28",
@@ -649,8 +600,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.PETROLEUM.TR29",
@@ -662,8 +612,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.PETROLEUM.TR30",
@@ -675,8 +624,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.PETROLEUM.TR31",
@@ -688,8 +636,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.SHOP.TR32",
@@ -701,8 +648,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.SHOP.TR33",
@@ -714,8 +660,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.SHOP.TR34",
@@ -727,8 +672,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.INDUSTRY.TR35",
@@ -740,8 +684,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.INDUSTRY.TR36",
@@ -753,8 +696,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.STREETVENDOR.TR37",
@@ -766,8 +708,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.SHOP.TR38",
@@ -779,8 +720,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.SHOP.TR39",
@@ -792,8 +732,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.SHOP.TR40",
@@ -805,8 +744,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.SHOP.TR41",
@@ -818,8 +756,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.SHOP.TR42",
@@ -831,8 +768,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.SHOP.TR43",
@@ -844,8 +780,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.SHOP.TR44",
@@ -857,8 +792,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.SHOP.TR45",
@@ -870,8 +804,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.SHOP.TR46",
@@ -883,8 +816,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.SHOP.TR47",
@@ -896,8 +828,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.SHOP.TR48",
@@ -909,8 +840,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.SHOP.TR49",
@@ -922,8 +852,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.SHOP.TR50",
@@ -935,8 +864,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.INDUSTRY.TR51",
@@ -948,8 +876,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.SHOP.TR52",
@@ -961,8 +888,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.SHOP.TR53",
@@ -974,8 +900,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.SHOP.TR54",
@@ -987,8 +912,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.FIRM.TR55",
@@ -1000,8 +924,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.LIVESTOCK.TR56",
@@ -1013,8 +936,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.INDUSTRY.TR57",
@@ -1026,8 +948,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.FIRM.TR58",
@@ -1039,8 +960,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.FIRM.TR59",
@@ -1052,8 +972,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.FIRM.TR60",
@@ -1065,8 +984,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.SHOP.TR61",
@@ -1078,8 +996,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.LIQUOR.TR62",
@@ -1091,8 +1008,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.INDUSTRY.TR63",
@@ -1104,8 +1020,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.SHOP.TR64",
@@ -1117,8 +1032,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.SHOP.TR65",
@@ -1130,8 +1044,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.SHOP.TR66",
@@ -1143,8 +1056,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.SHOP.TR67",
@@ -1156,8 +1068,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.SHOP.TR68",
@@ -1169,8 +1080,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.SHOP.TR69",
@@ -1182,8 +1092,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.SHOP.TR70",
@@ -1195,8 +1104,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.LIQUOR.TR71",
@@ -1208,8 +1116,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.LIQUOR.TR72",
@@ -1221,8 +1128,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.SHOP.TR73",
@@ -1234,8 +1140,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.SHOP.TR74",
@@ -1247,8 +1152,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.INDUSTRY.TR75",
@@ -1260,8 +1164,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.SHOP.TR76",
@@ -1273,8 +1176,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.SHOP.TR77",
@@ -1286,8 +1188,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.SHOP.TR78",
@@ -1299,8 +1200,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.SHOP.TR79",
@@ -1312,8 +1212,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.INDUSTRY.TR80",
@@ -1325,8 +1224,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.FIRM.TR81",
@@ -1338,8 +1236,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.FIRM.TR82",
@@ -1351,8 +1248,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.FIRM.TR83",
@@ -1364,8 +1260,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.FIRM.TR84",
@@ -1377,8 +1272,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.FIRM.TR85",
@@ -1390,8 +1284,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.FIRM.TR86",
@@ -1403,8 +1296,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.TRANSPORT.TR87",
@@ -1416,8 +1308,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.TRANSPORT.TR88",
@@ -1429,8 +1320,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.TRANSPORT.TR89",
@@ -1442,8 +1332,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.TRANSPORT.TR90",
@@ -1455,8 +1344,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.TRANSPORT.TR91",
@@ -1468,8 +1356,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.SHOP.TR92",
@@ -1481,8 +1368,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.SHOP.TR93",
@@ -1494,8 +1380,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.TRANSPORT.TR94",
@@ -1507,8 +1392,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.TRANSPORT.TR95",
@@ -1520,8 +1404,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.FIRM.TR96",
@@ -1533,8 +1416,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.FIRM.TR97",
@@ -1546,8 +1428,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.FIRM.TR98",
@@ -1559,8 +1440,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.HEALTH.TR99",
@@ -1572,8 +1452,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.HEALTH.TR100",
@@ -1585,8 +1464,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.HEALTH.TR101",
@@ -1598,8 +1476,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.HEALTH.TR102",
@@ -1611,8 +1488,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.PETROLEUM.PUMP",
@@ -1624,8 +1500,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.RETAIL.CD",
@@ -1637,8 +1512,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.HOTEL.BH",
@@ -1650,8 +1524,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.INDUSTRY.MILL",
@@ -1663,8 +1536,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.INDUSTRY.BHS",
@@ -1676,8 +1548,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.STREETVENDOR.TSIF",
@@ -1689,8 +1560,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.STREETVENDOR.HW",
@@ -1702,8 +1572,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.RETAIL.LA",
@@ -1715,8 +1584,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.RETAIL.HW",
@@ -1728,8 +1596,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.PETROLEUM.KSA",
@@ -1741,8 +1608,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.SHOP.RDRDRYC",
@@ -1754,8 +1620,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.WORKSHOP.FAB",
@@ -1767,8 +1632,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.HOTELS.OTH",
@@ -1780,8 +1644,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.REST.RESTS",
@@ -1793,8 +1656,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.STREETVENDOR.FTVEG",
@@ -1806,8 +1668,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.POWER.100H",
@@ -1819,8 +1680,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.BANK.RDRFINC",
@@ -1832,8 +1692,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.LIQUOR.RDRFLS",
@@ -1845,8 +1704,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.LIQUOR.RDRCLG",
@@ -1858,8 +1716,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.REST.BAC",
@@ -1871,8 +1728,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.STREETVENDOR.RDRTEAS",
@@ -1884,8 +1740,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.MEDICAL.NH",
@@ -1897,8 +1752,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.MEDICAL.RDRPC",
@@ -1910,8 +1764,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.HOTELS.MRGH",
@@ -1923,8 +1776,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.BANK.RDRINSC",
@@ -1936,8 +1788,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.MEDICAL.RDRXRYC",
@@ -1949,8 +1800,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.SHOP.WASH",
@@ -1962,8 +1812,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.POWER.10HP",
@@ -1975,8 +1824,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.POWER.20HP",
@@ -1988,8 +1836,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.POWER.50HP",
@@ -2001,8 +1848,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.MEDICAL.RDRPVTC",
@@ -2014,8 +1860,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.MEDICAL.RDRDNTC",
@@ -2027,8 +1872,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.MEDICAL.PH20B",
@@ -2040,8 +1884,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.MEDICAL.PHA20",
@@ -2053,8 +1896,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.HOTELS.HL30B",
@@ -2066,8 +1908,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.HOTELS.HL60B",
@@ -2079,8 +1920,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.HOTELS.HL90B",
@@ -2092,8 +1932,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.HOTELS.HA90B",
@@ -2105,8 +1944,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.HOTELS.HAR3STR",
@@ -2118,8 +1956,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.HOTELS.HAR5STR",
@@ -2131,8 +1968,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.MEDICAL.HARNH20B",
@@ -2144,8 +1980,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.MEDICAL.NHA20",
@@ -2157,8 +1992,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.MEDICAL.HARMH20B",
@@ -2170,8 +2004,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.MEDICAL.MHA20",
@@ -2183,8 +2016,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.MEDICAL.HARPVTH",
@@ -2196,8 +2028,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.MEDICAL.HARPC",
@@ -2209,8 +2040,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.MEDICAL.HARXRYC",
@@ -2222,8 +2052,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.MEDICAL.HARDNTC",
@@ -2235,8 +2064,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.MEDICAL.HARPVTC",
@@ -2248,8 +2076,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.TRANSPORT.HARAU2S",
@@ -2262,8 +2089,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.TRANSPORT.HARAU4S",
@@ -2276,8 +2102,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.TRANSPORT.HARAU7S",
@@ -2290,8 +2115,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.TRANSPORT.MBUS",
@@ -2304,8 +2128,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.TRANSPORT.BUS",
@@ -2318,8 +2141,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.TRANSPORT.HARTBHW",
@@ -2331,8 +2153,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.TRANSPORT.RIKOR",
@@ -2344,8 +2165,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.TRANSPORT.RIK",
@@ -2357,8 +2177,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.TRANSPORT.THELA",
@@ -2370,8 +2189,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.MEDICAL.KANH20B",
@@ -2383,8 +2201,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.MEDICAL.NH30B",
@@ -2396,8 +2213,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.MEDICAL.KAMH20B",
@@ -2409,8 +2225,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.MEDICAL.MH30B",
@@ -2422,8 +2237,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.MEDICAL.KAPC",
@@ -2435,8 +2249,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.MEDICAL.KAXRYC",
@@ -2448,8 +2261,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.MEDICAL.KADNTC",
@@ -2461,8 +2273,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.MEDICAL.KAPVTC",
@@ -2474,8 +2285,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.MEDICAL.KAPVTH",
@@ -2487,8 +2297,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.HOTELS.HL10B",
@@ -2500,8 +2309,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.HOTELS.KA3STR",
@@ -2513,8 +2321,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.HOTELS.KA5STR",
@@ -2526,8 +2333,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.SHOP.WODT",
@@ -2539,8 +2345,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.BANK.OTH",
@@ -2552,8 +2357,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.TRANSPORT.KAAU2S",
@@ -2565,8 +2369,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.TRANSPORT.KAAU4S",
@@ -2578,8 +2381,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.TRANSPORT.KAAU7S",
@@ -2591,8 +2393,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.TRANSPORT.KATBHW",
@@ -2604,8 +2405,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.TRANSPORT.KAOTH",
@@ -2617,8 +2417,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.REST.DHAB",
@@ -2630,8 +2429,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.REST.OTH",
@@ -2643,8 +2441,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.INDUSTRY.OTH",
@@ -2656,8 +2453,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.INDUSTRY.IF",
@@ -2669,8 +2465,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.INDUSTRY.CD",
@@ -2682,8 +2477,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.INDUSTRY.KAFM",
@@ -2695,8 +2489,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.INDUSTRY.GM",
@@ -2708,8 +2501,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.INDUSTRY.KABS",
@@ -2721,8 +2513,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.INDUSTRY.KM",
@@ -2734,8 +2525,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.WORKSHOP.ELEW",
@@ -2747,8 +2537,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.WORKSHOP.KMDM",
@@ -2760,8 +2549,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.WORKSHOP.WELD",
@@ -2773,8 +2561,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.WORKSHOP.COMP",
@@ -2786,8 +2573,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.WORKSHOP.TRRE",
@@ -2799,8 +2585,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.WORKSHOP.DENT",
@@ -2812,8 +2597,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.WORKSHOP.OTHW",
@@ -2825,8 +2609,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.WORKSHOP.EX6V",
@@ -2838,8 +2621,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.WORKSHOP.EX9V",
@@ -2851,8 +2633,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.WORKSHOP.KAFAB",
@@ -2864,8 +2645,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.WORKSHOP.OTH",
@@ -2877,8 +2657,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.BANK.KAFINC",
@@ -2890,8 +2669,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.BANK.KAINSC",
@@ -2903,8 +2681,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.LIVESTOCK.OTH",
@@ -2916,8 +2693,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.LIVESTOCK.KABS",
@@ -2929,8 +2705,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.LIVESTOCK.KACS",
@@ -2942,8 +2717,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.LIVESTOCK.MCS",
@@ -2955,8 +2729,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.LIVESTOCK.FS",
@@ -2968,8 +2741,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.LIVESTOCK.PMS",
@@ -2981,8 +2753,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.LIVESTOCK.GMD",
@@ -2994,8 +2765,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.FIRM.BUILD",
@@ -3007,8 +2777,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.STREETVENDOR.KATEAS",
@@ -3020,8 +2789,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.STREETVENDOR.JUST",
@@ -3033,8 +2801,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.STREETVENDOR.IRON",
@@ -3046,8 +2813,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.STREETVENDOR.KATSIF",
@@ -3059,8 +2825,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.STREETVENDOR.OTH",
@@ -3072,8 +2837,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.LIQUOR.FLS",
@@ -3085,8 +2849,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.LIQUOR.CLS",
@@ -3098,8 +2861,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.LIQUOR.OTH",
@@ -3111,8 +2873,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.SHOP.BAKE",
@@ -3124,8 +2885,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.SHOP.CONF",
@@ -3137,8 +2897,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.SHOP.SWSH",
@@ -3150,8 +2909,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.SHOP.KACOAL",
@@ -3163,8 +2921,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.SHOP.KADRYC",
@@ -3176,8 +2933,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.SHOP.PRES",
@@ -3189,8 +2945,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.SHOP.OTH",
@@ -3202,8 +2957,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.HOTELS.RIHL10B",
@@ -3216,8 +2970,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.HOTELS.HL20B",
@@ -3230,8 +2983,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.HOTELS.RIHL30B",
@@ -3244,8 +2996,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.HOTELS.HL40B",
@@ -3258,8 +3009,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.HOTELS.HL50B",
@@ -3272,8 +3022,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.HOTELS.HSA50",
@@ -3286,8 +3035,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.HOTELS.RI3STR",
@@ -3300,8 +3048,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.HOTELS.RI5STR",
@@ -3314,8 +3061,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.REST.RIRESTS",
@@ -3328,8 +3074,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.MEDICAL.RINH20B",
@@ -3342,8 +3087,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.MEDICAL.RIMH20B",
@@ -3356,8 +3100,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.MEDICAL.RIMHA20",
@@ -3370,8 +3113,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.MEDICAL.RIPVTH",
@@ -3384,8 +3126,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.MEDICAL.RIPC",
@@ -3398,8 +3139,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.MEDICAL.RIXRYC",
@@ -3412,8 +3152,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.MEDICAL.RIDNTC",
@@ -3426,8 +3165,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.MEDICAL.RIPVTC",
@@ -3440,8 +3178,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.TRANSPORT.AWOTV",
@@ -3454,8 +3191,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.TRANSPORT.AWITV",
@@ -3468,8 +3204,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.TRANSPORT.RIAU2S",
@@ -3482,8 +3217,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.TRANSPORT.RIAU4S",
@@ -3496,8 +3230,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.TRANSPORT.RIAU7S",
@@ -3510,8 +3243,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.TRANSPORT.RIMBUS",
@@ -3524,8 +3256,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.TRANSPORT.RIBUS",
@@ -3538,8 +3269,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.TRANSPORT.RLR",
@@ -3552,8 +3282,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.TRANSPORT.RIRLO",
@@ -3566,8 +3295,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.STREETVENDOR.THLA",
@@ -3580,8 +3308,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.STREETVENDOR.HTHLA",
@@ -3594,8 +3321,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.TRANSPORT.RITBHW",
@@ -3608,8 +3334,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.GOODS.TRLY",
@@ -3622,8 +3347,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.GOODS.OTHFW",
@@ -3636,8 +3360,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.INDUSTRY.MTRG",
@@ -3650,8 +3373,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.INDUSTRY.SCTRG",
@@ -3664,8 +3386,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.INDUSTRY.SCTRA",
@@ -3678,8 +3399,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.INDUSTRY.MTRA",
@@ -3692,8 +3412,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.SHOP.CYCA",
@@ -3706,8 +3425,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.PETROLEUM.KSAB",
@@ -3720,8 +3438,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.PETROLEUM.RIKSAR",
@@ -3734,8 +3451,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.PETROLEUM.RIPDB",
@@ -3748,8 +3464,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.PETROLEUM.PDR",
@@ -3762,8 +3477,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.BANK.RIOTH",
@@ -3776,8 +3490,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.INDUSTRY.RIGM",
@@ -3790,8 +3503,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.SHOP.LNDRY",
@@ -3804,8 +3516,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.SHOP.RIDRYC",
@@ -3818,8 +3529,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.INDUSTRY.SF",
@@ -3832,8 +3542,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.INDUSTRY.CDSWF",
@@ -3846,8 +3555,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.SHOP.GUDAR",
@@ -3860,8 +3568,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.SHOP.SOPAT",
@@ -3874,8 +3581,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.INDUSTRY.LMEKL",
@@ -3888,8 +3594,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.INDUSTRY.BRKKL",
@@ -3902,8 +3607,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.INDUSTRY.PTAFC",
@@ -3916,8 +3620,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.INDUSTRY.SAFFC",
@@ -3930,8 +3633,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.SHOP.CBMB",
@@ -3944,8 +3646,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.SHOP.CBMR",
@@ -3958,8 +3659,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.SHOP.ELEI",
@@ -3972,8 +3672,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.INDUSTRY.CLTBS",
@@ -3986,8 +3685,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.INDUSTRY.GUTF",
@@ -4000,8 +3698,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.SHOP.TEABS",
@@ -4014,8 +3711,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.INDUSTRY.BKRYP",
@@ -4028,8 +3724,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.REST.CATE",
@@ -4042,8 +3737,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.SHOP.BAKRY",
@@ -4056,8 +3750,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.SHOP.HCB",
@@ -4070,8 +3763,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.SHOP.BPS",
@@ -4084,8 +3776,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.SHOP.CKGSA",
@@ -4098,8 +3789,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.SHOP.GENMB",
@@ -4112,8 +3802,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.SHOP.TH3A",
@@ -4126,8 +3815,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.SHOP.TH5A",
@@ -4140,8 +3828,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.SHOP.COLWS",
@@ -4154,8 +3841,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.SHOP.COLR",
@@ -4168,8 +3854,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.TRANSPORT.FLTBT",
@@ -4182,8 +3867,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.INDUSTRY.PANMF",
@@ -4196,8 +3880,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.SHOP.PAINT",
@@ -4210,8 +3893,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.TRANSPORT.BOATL",
@@ -4224,8 +3906,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.TRANSPORT.BPLI",
@@ -4238,8 +3919,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.SHOP.JE3A",
@@ -4252,8 +3932,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.SHOP.JE5A",
@@ -4266,8 +3945,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.FIRM.ADVA",
@@ -4280,8 +3958,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.INDUSTRY.DARYF",
@@ -4294,8 +3971,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.INDUSTRY.BHUSB",
@@ -4308,8 +3984,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.SHOP.BHUSR",
@@ -4322,8 +3997,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.SHOP.ADLIB",
@@ -4336,8 +4010,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.SHOP.VDLIB",
@@ -4350,8 +4023,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.INDUSTRY.CBLEO",
@@ -4364,8 +4036,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.FIRM.ARCH",
@@ -4378,8 +4049,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.BANK.RIFINC",
@@ -4392,8 +4062,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.BANK.RIINSC",
@@ -4406,8 +4075,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.INDUSTRY.ENGST",
@@ -4420,8 +4088,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.INDUSTRY.CMTWH",
@@ -4434,8 +4101,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.SHOP.GOSB",
@@ -4448,8 +4114,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.INDUSTRY.RIIF",
@@ -4462,8 +4127,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.SHOP.TENT",
@@ -4476,8 +4140,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.STREETVENDOR.PAAN",
@@ -4490,8 +4153,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.STREETVENDOR.RITEAS",
@@ -4504,8 +4166,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.SHOP.GMS",
@@ -4518,8 +4179,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.SHOP.BOOKB",
@@ -4532,8 +4192,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.SHOP.BOOKR",
@@ -4546,8 +4205,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.SHOP.NEWS",
@@ -4560,8 +4218,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.SHOP.WOODB",
@@ -4574,8 +4231,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.SHOP.WOODR",
@@ -4588,8 +4244,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.INDUSTRY.TIMBM",
@@ -4602,8 +4257,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.SHOP.WCRS",
@@ -4616,8 +4270,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.INDUSTRY.TARW",
@@ -4630,8 +4283,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.SHOP.FERT",
@@ -4644,8 +4296,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.INDUSTRY.PLSTF",
@@ -4658,8 +4309,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.INDUSTRY.PLSTT",
@@ -4672,8 +4322,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.SHOP.SWEET",
@@ -4686,8 +4335,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.SHOP.DYFSB",
@@ -4700,8 +4348,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.SHOP.DYFSR",
@@ -4714,8 +4361,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.SHOP.FVS",
@@ -4728,8 +4374,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.SHOP.CRKSH",
@@ -4742,8 +4387,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.SHOP.SPCSB",
@@ -4756,8 +4400,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.SHOP.SPCSR",
@@ -4770,8 +4413,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.SHOP.FURSR",
@@ -4784,8 +4426,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.SHOP.FURSE",
@@ -4798,8 +4439,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.SHOP.CRKSE",
@@ -4812,8 +4452,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.LIVESTOCK.DEDCL",
@@ -4826,8 +4465,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.SHOP.BANG",
@@ -4840,8 +4478,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.LIVESTOCK.PACQA",
@@ -4854,8 +4491,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.SHOP.WEDPT",
@@ -4868,8 +4504,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.HEALTH.PVPBS",
@@ -4882,8 +4517,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.SHOP.CHEWR",
@@ -4896,8 +4530,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.SHOP.LOTYS",
@@ -4910,8 +4543,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.INDUSTRY.SHOEM",
@@ -4924,8 +4556,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.STREETVENDOR.STDPC",
@@ -4938,8 +4569,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.FIRM.ORCHT",
@@ -4952,8 +4582,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.HEALTH.CTYSC",
@@ -4966,8 +4595,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.INDUSTRY.SPICM",
@@ -4980,8 +4608,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.INDUSTRY.SCRPT",
@@ -4994,8 +4621,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.INDUSTRY.BXFCB",
@@ -5008,8 +4634,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.INDUSTRY.FABIW",
@@ -5022,8 +4647,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.HEALTH.COMPC",
@@ -5036,8 +4660,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.HEALTH.TYPEC",
@@ -5050,8 +4673,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.SHOP.POTH",
@@ -5064,8 +4686,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.SHOP.SHOES",
@@ -5078,8 +4699,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.HOTELS.HLGHR",
@@ -5091,8 +4711,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.PETROLEUM.PGAG",
@@ -5104,8 +4723,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.PETROLEUM.OPOS",
@@ -5117,8 +4735,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     },
     {
       "code": "TRADE.HOTELS.KAHL50B",
@@ -5130,8 +4747,7 @@
       ],
       "verificationDocument": [],
       "active": true,
-      "type": "TL",
-      "validityPeriod": null
+      "type": "TL"
     }
   ]
 }
