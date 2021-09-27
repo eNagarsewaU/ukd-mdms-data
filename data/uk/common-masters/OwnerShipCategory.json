@@ -69,30 +69,6 @@
     {
       "code": "INSTITUTIONALGOVERNMENT.LOCALGOVUNDERTAKING",
       "active": true
-    },
-    {
-      "code": "INSTITUTIONALPRIVATE.PRIVATECOMPANY",
-      "active": true
-    },
-    {
-      "code": "INSTITUTIONALPRIVATE.NGO",
-      "active": true
-    },
-    {
-      "code": "INSTITUTIONALPRIVATE.PRIVATETRUST",
-      "active": true
-    },
-    {
-      "code": "INSTITUTIONALPRIVATE.PRIVATEBOARD",
-      "active": true
-    },
-    {
-      "code": "INSTITUTIONALPRIVATE.OTHERSPRIVATEINSTITUITION",
-      "active": true
-    },
-    {
-      "code": "INSTITUTIONALGOVERNMENT.OTHERGOVERNMENTINSTITUITION",
-      "active": true
     }
   ]
 }
