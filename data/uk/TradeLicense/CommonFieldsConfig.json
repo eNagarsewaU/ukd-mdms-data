@@ -93,10 +93,24 @@
                         "submitBarLabel": "CS_COMMON_NEXT"
                     },
                     "key": "address",
-                    "nextStep": "street",
+                    "nextStep": "propertyid",
                     "isMandatory": true,
                     "type": "component"
                 },
+                {
+                    "route": "propertyid",
+                    "component": "TLSelectPropertyID",
+                    "withoutLabel": true,
+                    "texts": {
+                        "headerCaption": "TL_LOCATION_CAPTION",
+                        "header": "TL_PROPERTY_ID_HEADER",
+                        "cardText": "TL_PROPERTY_ID_TEXT",
+                        "submitBarLabel": "CS_COMMON_NEXT"
+                    },
+                    "key": "propertyid",
+                    "nextStep": "street",
+                    "type": "component"
+                },                
                 {
                     "type": "component",
                     "route": "street",
@@ -134,7 +148,7 @@
                         {
                             "label": "TL_LOCALIZATION_BUILDING_NO",
                             "type": "text",
-                            "name": "doorNo",
+                            "name": "buildingno",
                             "disable": "window.location.href.includes(`edit-application`)||window.location.href.includes(`renew-trade`)",
                             "validation": {
                                 "maxlength": 256,
