@@ -111,6 +111,16 @@
                         "submitBarLabel": "CS_COMMON_NEXT"
                     },
                     "inputs": [
+                         {
+                            "label": "TL_LOCALIZATION_DOORNO",
+                            "type": "text",
+                            "name": "doorno",
+                            "disable": "window.location.href.includes(`edit-application`)||window.location.href.includes(`renew-trade`)",
+                            "validation": {
+                                "maxlength": 256,
+                                "title": "CORE_COMMON_DOORNO_IS_INVALID"
+                            }
+                        },
                         {
                             "label": "TL_LOCALIZATION_STREET_NAME",
                             "type": "text",
@@ -129,6 +139,16 @@
                             "validation": {
                                 "maxlength": 256,
                                 "title": "CORE_COMMON_DOOR_INVALID"
+                            }
+                        },
+                         {
+                            "label": "TL_LOCALIZATION_ELECTRICITY_CONNECTION_NO",
+                            "type": "text",
+                            "name": "electricityconnectionno",
+                            "disable": "window.location.href.includes(`edit-application`)||window.location.href.includes(`renew-trade`)",
+                            "validation": {
+                                "maxlength": 256,
+                                "title": "CORE_COMMON_ELECTRICITY_CONNECTION_NO_INVALID"
                             }
                         }
                     ],
