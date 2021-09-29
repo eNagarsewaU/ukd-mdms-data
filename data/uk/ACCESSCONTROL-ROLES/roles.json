@@ -407,22 +407,22 @@
       "description": "BPA Service NOC verifier"
     },
     {
-      "code": "PT_CEMP",
+      "code": "PTCEMP",
       "name": "PT Counter Employee",
       "description": "Property Counter Employee"
     },
     {
-      "code": "PT_DOC_VERIFIER",
+      "code": "PTDOCVERIFIER",
       "name": "PT Doc Verifier",
       "description": "Property Document Verifier"
     },
     {
-      "code": "PT_FIELD_INSPECTOR",
+      "code": "PTFEMP",
       "name": "PT Field Inspector",
       "description": "Property Field Inspector"
     },
     {
-      "code": "PT_APPROVER",
+      "code": "PTAPPROVER",
       "name": "PT Counter Approver",
       "description": "PT Approver"
     },
