@@ -108,6 +108,7 @@
                         "submitBarLabel": "CS_COMMON_NEXT"
                     },
                     "key": "propertyid",
+                    "hideInEmployee": true,
                     "nextStep": "street",
                     "type": "component"
                 },                
