@@ -180,10 +180,20 @@
                         "submitBarLabel": "CS_COMMON_NEXT"
                     },
                     "inputs": [
+                        
+                        {
+                            "label": "TL_LOCALIZATION_STREET_NAME",
+                            "type": "text",
+                            "name": "doorNo",
+                            "validation": {
+                                "maxlength": 256,
+                                "title": "CORE_COMMON_STREET_INVALID"
+                            }
+                        },
                         {
                             "label": "TL_LOCALIZATION_BUILDING_NO",
                             "type": "text",
-                            "name": "doorNo",
+                            "name": "buildingName",
                             "validation": {
                                 "maxlength": 256,
                                 "title": "CORE_COMMON_DOOR_INVALID"
@@ -193,6 +203,15 @@
                             "label": "TL_LOCALIZATION_STREET_NAME",
                             "type": "text",
                             "name": "street",
+                            "validation": {
+                                "maxlength": 256,
+                                "title": "CORE_COMMON_STREET_INVALID"
+                            }
+                        },
+                        {
+                            "label": "TL_ELECTRICITY_CONNECTION_N0",
+                            "type": "text",
+                            "name": "electricityConnectionNo",
                             "validation": {
                                 "maxlength": 256,
                                 "title": "CORE_COMMON_STREET_INVALID"
