@@ -5707,7 +5707,7 @@
       "enabled": true,
       "serviceCode": "HRMS",
       "code": "null",
-      "navigationURL": "digit-ui/employee/hrms/inbox",
+      "navigationURL": "/digit-ui/employee/hrms/inbox",
       "path": "HRMS.Search",
       "leftIcon": "social:people"
     },
@@ -5786,7 +5786,7 @@
       "serviceCode": "",
       "code": "",
       "path": "",
-      "navigationURL": "digit-ui/employee/hrms/inbox",
+      "navigationURL": "/digit-ui/employee/hrms/inbox",
       "leftIcon": "social:people",
       "rightIcon": "",
       "queryParams": ""
@@ -6045,7 +6045,7 @@
       "enabled": true,
       "serviceCode": "UC",
       "code": "null",
-      "navigationURL": "digit-ui/employee/mcollect/inbox",
+      "navigationURL": "/digit-ui/employee/mcollect/inbox",
       "path": "UC",
       "leftIcon": "image:collections-bookmark"
     },
@@ -6115,7 +6115,7 @@
       "enabled": true,
       "serviceCode": "TradeLicense",
       "code": "null",
-      "navigationURL": "digit-ui/citizen/",
+      "navigationURL": "/digit-ui/citizen/",
       "path": "TradeLicense",
       "leftIcon": "places:business-center",
       "rightIcon": ""
@@ -6555,7 +6555,7 @@
       "enabled": true,
       "serviceCode": "TradeLicense",
       "code": "null",
-      "navigationURL": "digit-ui/employee/tl/new-application",
+      "navigationURL": "/digit-ui/employee/tl/new-application",
       "path": "TradeLicense.Apply",
       "leftIcon": "places:business-center"
     },
@@ -7611,7 +7611,7 @@
       "enabled": true,
       "serviceCode": "TradeLicense",
       "code": "null",
-      "navigationURL": "digit-ui/employee/tl/new-application",
+      "navigationURL": "/digit-ui/employee/tl/new-application",
       "path": "TradeLicense.Apply",
       "leftIcon": "places:business-center"
     },
@@ -9340,7 +9340,7 @@
       "url": "url",
       "name": "FSM EMPLOYEE CREATE NEW APPLICATION",
       "enabled": true,
-      "navigationURL": "digit-ui/employee/fsm/new-application",
+      "navigationURL": "/digit-ui/employee/fsm/new-application",
       "parentModule": "",
       "serviceCode": "",
       "code": "null",
@@ -9354,7 +9354,7 @@
       "url": "url",
       "name": "FSM EMPLOYEE INBOX",
       "enabled": true,
-      "navigationURL": "digit-ui/employee/fsm/Inbox",
+      "navigationURL": "/digit-ui/employee/fsm/Inbox",
       "parentModule": "",
       "serviceCode": "",
       "code": "null",
