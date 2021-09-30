@@ -129,7 +129,7 @@
                          {
                             "label": "TL_LOCALIZATION_DOORNO",
                             "type": "text",
-                            "name": "doorno",
+                            "name": "doorNo",
                             "disable": false,
                             "validation": {
                                 "maxlength": 256,
@@ -158,7 +158,7 @@
                          {
                             "label": "TL_LOCALIZATION_ELECTRICITY_CONNECTION_NO",
                             "type": "text",
-                            "name": "electricityconnectionno",
+                            "name": "electricityConnectionNo",
                             "validation": {
                                 "maxlength": 256,
                                 "title": "CORE_COMMON_ELECTRICITY_CONNECTION_NO_INVALID"
@@ -182,12 +182,12 @@
                     "inputs": [
                         
                         {
-                            "label": "TL_LOCALIZATION_STREET_NAME",
+                            "label": "TL_LOCALIZATION_DOORNO",
                             "type": "text",
                             "name": "doorNo",
                             "validation": {
                                 "maxlength": 256,
-                                "title": "CORE_COMMON_STREET_INVALID"
+                                "title": "CORE_COMMON_DOORNO_INVALID"
                             }
                         },
                         {
@@ -196,7 +196,7 @@
                             "name": "buildingName",
                             "validation": {
                                 "maxlength": 256,
-                                "title": "CORE_COMMON_DOOR_INVALID"
+                                "title": "CORE_COMMON_BUILDING_NO_INVALID"
                             }
                         },
                         {
@@ -214,7 +214,7 @@
                             "name": "electricityConnectionNo",
                             "validation": {
                                 "maxlength": 256,
-                                "title": "CORE_COMMON_STREET_INVALID"
+                                "title": "CORE_COMMON_ELECTRICITY_CONNECTION_NO_INVALID"
                             }
                         }
                     ]
