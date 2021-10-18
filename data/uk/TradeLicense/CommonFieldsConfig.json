@@ -79,7 +79,7 @@
                     },
                     "withoutLabel": true,
                     "key": "address",
-                    "nextStep": "address",
+                    "nextStep": "units-details",
                     "type": "component"
                 },
                 {
@@ -93,7 +93,7 @@
                         "submitBarLabel": "CS_COMMON_NEXT"
                     },
                     "key": "address",
-                    "nextStep": "propertyid",
+                    "nextStep": "isAccessories",
                     "isMandatory": true,
                     "type": "component"
                 },
@@ -376,7 +376,7 @@
                     "key": "TradeDetails",
                     "withoutLabel": true,
                     "hideInEmployee": true,
-                    "nextStep": "units-details"
+                    "nextStep": "address"
                 },
                 {
                     "isMandatory": true,
@@ -391,7 +391,7 @@
                         "submitBarLabel": "CS_COMMON_NEXT"
                     },
                     "withoutLabel": true,
-                    "nextStep": "isAccessories",
+                    "nextStep": "propertyid",
                     "hideInEmployee": true
                 },
                 {
