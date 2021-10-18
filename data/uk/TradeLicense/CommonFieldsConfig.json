@@ -291,6 +291,22 @@
                     },
                     "withoutLabel": true,
                     "key": "TradeDetails",
+                    "nextStep": "gst-no",
+                    "type": "component",
+                    "hideInEmployee": true
+                },
+                 {
+                    "route": "gst-no",
+                    "component": "TLGSTNumber",
+                    "texts": {
+                        "headerCaption": "",
+                        "header": "TL_GST_HEADER",
+                        "cardText": "TL_GST_TEXT",
+                        "submitBarLabel": "CS_COMMON_NEXT",
+                        "skipText": ""
+                    },
+                    "withoutLabel": true,
+                    "key": "TradeDetails",
                     "nextStep": "structure-type",
                     "type": "component",
                     "hideInEmployee": true
