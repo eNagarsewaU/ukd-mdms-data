@@ -98,36 +98,6 @@
                     "type": "component"
                 },
                 {
-                    "route": "operationalarea",
-                    "component": "TLOperationalArea",
-                    "withoutLabel": true,
-                    "texts": {
-                        "headerCaption": "TL_LOCATION_CAPTION",
-                        "header": "TL_OPERATIONAL_AREA_HEADER",
-                        "cardText": "TL_OPERATIONAL_AREA_TEXT",
-                        "submitBarLabel": "CS_COMMON_NEXT"
-                    },
-                    "key": "operationalarea",
-                    "hideInEmployee": true,
-                    "nextStep": "noofemployees",
-                    "type": "component"
-                },
-                {
-                    "route": "noofemployees",
-                    "component": "TLNoOfEmployees",
-                    "withoutLabel": true,
-                    "texts": {
-                        "headerCaption": "TL_LOCATION_CAPTION",
-                        "header": "TL_NO_OF_EMPLOYEES_HEADER",
-                        "cardText": "TL_NO_OF_EMPLOYEES_TEXT",
-                        "submitBarLabel": "CS_COMMON_NEXT"
-                    },
-                    "key": "noofemployees",
-                    "hideInEmployee": true,
-                    "nextStep": "propertyid",
-                    "type": "component"
-                },
-                {
                     "route": "propertyid",
                     "component": "TLSelectPropertyID",
                     "withoutLabel": true,
@@ -141,7 +111,7 @@
                     "hideInEmployee": true,
                     "nextStep": "street",
                     "type": "component"
-                },                                
+                },                
                 {
                     "type": "component",
                     "route": "street",
@@ -406,7 +376,37 @@
                     "key": "TradeDetails",
                     "withoutLabel": true,
                     "hideInEmployee": true,
-                    "nextStep": "address"
+                    "nextStep": "operationalarea"
+                },
+                {
+                    "route": "operationalarea",
+                    "component": "TLOperationalArea",
+                    "withoutLabel": true,
+                    "texts": {
+                        "headerCaption": "TL_LOCATION_CAPTION",
+                        "header": "TL_OPERATIONAL_AREA_HEADER",
+                        "cardText": "TL_OPERATIONAL_AREA_TEXT",
+                        "submitBarLabel": "CS_COMMON_NEXT"
+                    },
+                    "key": "operationalarea",
+                    "hideInEmployee": true,
+                    "nextStep": "noofemployees",
+                    "type": "component"
+                },
+                {
+                    "route": "noofemployees",
+                    "component": "TLNoOfEmployees",
+                    "withoutLabel": true,
+                    "texts": {
+                        "headerCaption": "TL_LOCATION_CAPTION",
+                        "header": "TL_NO_OF_EMPLOYEES_HEADER",
+                        "cardText": "TL_NO_OF_EMPLOYEES_TEXT",
+                        "submitBarLabel": "CS_COMMON_NEXT"
+                    },
+                    "key": "noofemployees",
+                    "hideInEmployee": true,
+                    "nextStep": "address",
+                    "type": "component"
                 },
                 {
                     "isMandatory": true,
@@ -421,7 +421,7 @@
                         "submitBarLabel": "CS_COMMON_NEXT"
                     },
                     "withoutLabel": true,
-                    "nextStep": "operationalarea",
+                    "nextStep": "propertyid",
                     "hideInEmployee": true
                 },
                 {
