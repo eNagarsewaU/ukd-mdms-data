@@ -98,6 +98,21 @@
                     "type": "component"
                 },
                 {
+                    "route": "operationalarea",
+                    "component": "TLOperationalArea",
+                    "withoutLabel": true,
+                    "texts": {
+                        "headerCaption": "TL_LOCATION_CAPTION",
+                        "header": "TL_OPERATIONAL_AREA_HEADER",
+                        "cardText": "TL_OPERATIONAL_AREA_TEXT",
+                        "submitBarLabel": "CS_COMMON_NEXT"
+                    },
+                    "key": "operationalarea",
+                    "hideInEmployee": true,
+                    "nextStep": "noofemployees",
+                    "type": "component"
+                },
+                {
                     "route": "noofemployees",
                     "component": "TLNoOfEmployees",
                     "withoutLabel": true,
@@ -406,7 +421,7 @@
                         "submitBarLabel": "CS_COMMON_NEXT"
                     },
                     "withoutLabel": true,
-                    "nextStep": "propertyid",
+                    "nextStep": "operationalarea",
                     "hideInEmployee": true
                 },
                 {
