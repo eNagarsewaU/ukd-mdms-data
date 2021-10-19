@@ -98,6 +98,21 @@
                     "type": "component"
                 },
                 {
+                    "route": "noofemployees",
+                    "component": "TLNoOfEmployees",
+                    "withoutLabel": true,
+                    "texts": {
+                        "headerCaption": "TL_LOCATION_CAPTION",
+                        "header": "TL_NO_OF_EMPLOYEES_HEADER",
+                        "cardText": "TL_NO_OF_EMPLOYEES_TEXT",
+                        "submitBarLabel": "CS_COMMON_NEXT"
+                    },
+                    "key": "noofemployees",
+                    "hideInEmployee": true,
+                    "nextStep": "propertyid",
+                    "type": "component"
+                },
+                {
                     "route": "propertyid",
                     "component": "TLSelectPropertyID",
                     "withoutLabel": true,
@@ -111,7 +126,7 @@
                     "hideInEmployee": true,
                     "nextStep": "street",
                     "type": "component"
-                },                
+                },                                
                 {
                     "type": "component",
                     "route": "street",
