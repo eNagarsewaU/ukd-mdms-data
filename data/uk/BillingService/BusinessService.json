@@ -6,7 +6,7 @@
       "businessService": "PropertyTax",
       "code": "PT",
       "collectionModesNotAllowed": [
-        "DD",
+        
         "CREDIT",
         "DEBIT",
         "CARD"
@@ -33,7 +33,7 @@
       "businessService": "TradeLicense",
       "code": "TL",
       "collectionModesNotAllowed": [
-        "DD"
+        
       ],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
@@ -2066,9 +2066,8 @@
       "businessService": "PT.MUTATION",
       "code": "PT.MUTATION",
       "collectionModesNotAllowed": [
-        "DD",
-        "OFFLINE_NEFT",
-        "OFFLINE_RTGS",
+        
+ 
         "POSTAL_ORDER"
       ],
       "partPaymentAllowed": false,
