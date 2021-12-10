@@ -81,7 +81,7 @@
                         "submitBarLabel": "CS_COMMON_NEXT"
                     },
                     "key": "address",
-                    "nextStep": "isAccessories",
+                    "nextStep": "map",
                     "isMandatory": true,
                     "type": "component"
                 },
@@ -414,41 +414,6 @@
                     },
                     "withoutLabel": true,
                     "nextStep": "propertyid",
-                    "hideInEmployee": true
-                },
-                {
-                    "type": "component",
-                    "route": "isAccessories",
-                    "isMandatory": true,
-                    "component": "SelectAccessories",
-                    "texts": {
-                        "headerCaption": "",
-                        "header": "TL_ISACCESSORIES_HEADER",
-                        "cardText": "TL_ISACCESSORIES_TEXT",
-                        "submitBarLabel": "CS_COMMON_NEXT"
-                    },
-                    "key": "TradeDetails",
-                    "withoutLabel": true,
-                    "hideInEmployee": true,
-                    "nextStep": {
-                        "TL_COMMON_YES": "accessories-details",
-                        "TL_COMMON_NO": "map"
-                    }
-                },
-                {
-                    "isMandatory": true,
-                    "type": "component",
-                    "route": "accessories-details",
-                    "key": "TradeDetails",
-                    "component": "SelectAccessoriesDetails",
-                    "texts": {
-                        "headerCaption": "",
-                        "header": "TL_TRADE_ACCESSORIES_HEADER",
-                        "cardText": "TL_TRADE_ACCESSORIES_TEXT",
-                        "submitBarLabel": "CS_COMMON_NEXT"
-                    },
-                    "withoutLabel": true,
-                    "nextStep": "map",
                     "hideInEmployee": true
                 }
             ]
