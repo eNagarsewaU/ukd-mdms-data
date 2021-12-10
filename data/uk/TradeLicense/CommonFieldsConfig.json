@@ -39,18 +39,6 @@
             ]
         },
         {
-            "head": "TL_NEW_TRADE_DETAILS_HEADER_ACC",
-            "body": [
-                {
-                    "type": "component",
-                    "component": "TLAccessoriesEmployee",
-                    "key": "accessories",
-                    "withoutLabel": true,
-                    "hideInCitizen": true
-                }
-            ]
-        },
-        {
             "head": "ES_NEW_APPLICATION_LOCATION_DETAILS",
             "body": [
                 {
