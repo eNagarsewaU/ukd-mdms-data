@@ -52,10 +52,10 @@
       "code": "2018-19",
       "startingDate": 1522540800000,
       "endingDate": 1554076799000,
-      "active": false,
-      "isActiveForPosting": false,
-      "isClosed": true,
-      "transferClosingBalance": true,
+      "active": true,
+      "isActiveForPosting": true,
+      "isClosed": false,
+      "transferClosingBalance": false,
       "module": "TL"
     },
     {
