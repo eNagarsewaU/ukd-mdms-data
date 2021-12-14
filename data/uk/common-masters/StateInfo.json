@@ -7,6 +7,7 @@
       "code": "uk",
       "bannerUrl": "https://ukd-dev.egovernments.org/ukd-assets/Stateimages/banner.png",
       "logoUrl": "https://ukd-dev.egovernments.org/ukd-assets/Stateimages/logo.png",
+      "logoUrlWhite": "https://ukd-dev.egovernments.org/ukd-assets/Stateimages/logo.png",
       "hasLocalisation": true,
       "hideDigitLogo": true,
       "defaultLanguage": "hi_IN",
