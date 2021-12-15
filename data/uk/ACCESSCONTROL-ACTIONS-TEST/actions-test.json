@@ -8303,9 +8303,9 @@
     },
     {
       "id": 1991,
-      "name": "misc-receipt search",
-      "url": "/egov-pdf/download/PAYMENT/misc-receipt",
-      "displayName": "misc-receipt search",
+      "name": "consolidatedreceipt search",
+      "url": "/egov-pdf/download/PAYMENT/consolidatedreceipt",
+      "displayName": "consolidatedreceipt search",
       "orderNumber": 1,
       "enabled": false,
       "serviceCode": "egov-pdf",
