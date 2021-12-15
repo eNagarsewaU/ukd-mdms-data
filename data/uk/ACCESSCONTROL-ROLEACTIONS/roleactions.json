@@ -23088,6 +23088,12 @@
       "actionid": 1945,
       "actioncode": "",
       "tenantId": "uk"
+    },
+    {
+      "rolecode": "DATAENTRY_ADMIN",
+      "actionid": 706,
+      "actioncode": "",
+      "tenantId": "uk"
     }
   ]
 }
