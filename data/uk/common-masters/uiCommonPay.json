@@ -51,7 +51,7 @@
       "code": "ADMN.Election_rally_fees",
       "headerBandLabel": "PAYMENT_COMMON_CONSUMER_CODE",
       "receiptKey": "misc-receipt",
-      "billKey": "misc-bill",
+      "billKey": "mcollect-bill",
       "cancelReceipt":false,
       "arrears": false,
       "buttons": [
