@@ -23100,7 +23100,283 @@
       "actionid": 706,
       "actioncode": "",
       "tenantId": "uk"
-    }
+    },
     
+  {
+    "rolecode": "UC_EMP",
+    "actionid": "2313",
+    "actioncode": "",
+    "tenantId": "uk"
+  },
+  {
+    "rolecode": "UC_EMP",
+    "actionid": "2314",
+    "actioncode": "",
+    "tenantId": "uk"
+  },
+  {
+    "rolecode": "UC_EMP",
+    "actionid": "2315",
+    "actioncode": "",
+    "tenantId": "uk"
+  },
+  {
+    "rolecode": "UC_EMP",
+    "actionid": "2316",
+    "actioncode": "",
+    "tenantId": "uk"
+  },
+  {
+    "rolecode": "UC_EMP",
+    "actionid": "2317",
+    "actioncode": "",
+    "tenantId": "uk"
+  },
+  {
+    "rolecode": "UC_EMP",
+    "actionid": "2318",
+    "actioncode": "",
+    "tenantId": "uk"
+  },
+  {
+    "rolecode": "UC_EMP",
+    "actionid": "2319",
+    "actioncode": "",
+    "tenantId": "uk"
+  },
+  {
+    "rolecode": "UC_EMP",
+    "actionid": "2320",
+    "actioncode": "",
+    "tenantId": "uk"
+  },
+  {
+    "rolecode": "UC_EMP",
+    "actionid": "2321",
+    "actioncode": "",
+    "tenantId": "uk"
+  },
+  {
+    "rolecode": "UC_EMP",
+    "actionid": "2322",
+    "actioncode": "",
+    "tenantId": "uk"
+  },
+  {
+    "rolecode": "UC_EMP",
+    "actionid": "2323",
+    "actioncode": "",
+    "tenantId": "uk"
+  },
+  {
+    "rolecode": "UC_EMP",
+    "actionid": "2324",
+    "actioncode": "",
+    "tenantId": "uk"
+  },
+  {
+    "rolecode": "UC_EMP",
+    "actionid": "2325",
+    "actioncode": "",
+    "tenantId": "uk"
+  },
+  {
+    "rolecode": "UC_EMP",
+    "actionid": "2326",
+    "actioncode": "",
+    "tenantId": "uk"
+  },
+  {
+    "rolecode": "UC_EMP",
+    "actionid": "2327",
+    "actioncode": "",
+    "tenantId": "uk"
+  },
+  {
+    "rolecode": "UC_EMP",
+    "actionid": "2328",
+    "actioncode": "",
+    "tenantId": "uk"
+  },
+  {
+    "rolecode": "UC_EMP",
+    "actionid": "2329",
+    "actioncode": "",
+    "tenantId": "uk"
+  },
+  {
+    "rolecode": "UC_EMP",
+    "actionid": "2330",
+    "actioncode": "",
+    "tenantId": "uk"
+  },
+  {
+    "rolecode": "UC_EMP",
+    "actionid": "2331",
+    "actioncode": "",
+    "tenantId": "uk"
+  },
+  {
+    "rolecode": "UC_EMP",
+    "actionid": "2332",
+    "actioncode": "",
+    "tenantId": "uk"
+  },
+  {
+    "rolecode": "UC_EMP",
+    "actionid": "2333",
+    "actioncode": "",
+    "tenantId": "uk"
+  },
+  {
+    "rolecode": "UC_EMP",
+    "actionid": "2334",
+    "actioncode": "",
+    "tenantId": "uk"
+  },
+  {
+    "rolecode": "UC_EMP",
+    "actionid": "2335",
+    "actioncode": "",
+    "tenantId": "uk"
+  },
+  {
+    "rolecode": "UC_EMP",
+    "actionid": "2336",
+    "actioncode": "",
+    "tenantId": "uk"
+  },
+  {
+    "rolecode": "UC_EMP",
+    "actionid": "2337",
+    "actioncode": "",
+    "tenantId": "uk"
+  },
+  {
+    "rolecode": "UC_EMP",
+    "actionid": "2338",
+    "actioncode": "",
+    "tenantId": "uk"
+  },
+  {
+    "rolecode": "UC_EMP",
+    "actionid": "2339",
+    "actioncode": "",
+    "tenantId": "uk"
+  },
+  {
+    "rolecode": "UC_EMP",
+    "actionid": "2340",
+    "actioncode": "",
+    "tenantId": "uk"
+  },
+  {
+    "rolecode": "UC_EMP",
+    "actionid": "2341",
+    "actioncode": "",
+    "tenantId": "uk"
+  },
+  {
+    "rolecode": "UC_EMP",
+    "actionid": "2342",
+    "actioncode": "",
+    "tenantId": "uk"
+  },
+  {
+    "rolecode": "UC_EMP",
+    "actionid": "2343",
+    "actioncode": "",
+    "tenantId": "uk"
+  },
+  {
+    "rolecode": "UC_EMP",
+    "actionid": "2344",
+    "actioncode": "",
+    "tenantId": "uk"
+  },
+  {
+    "rolecode": "UC_EMP",
+    "actionid": "2345",
+    "actioncode": "",
+    "tenantId": "uk"
+  },
+  {
+    "rolecode": "UC_EMP",
+    "actionid": "2346",
+    "actioncode": "",
+    "tenantId": "uk"
+  },
+  {
+    "rolecode": "UC_EMP",
+    "actionid": "2347",
+    "actioncode": "",
+    "tenantId": "uk"
+  },
+  {
+    "rolecode": "UC_EMP",
+    "actionid": "2348",
+    "actioncode": "",
+    "tenantId": "uk"
+  },
+  {
+    "rolecode": "UC_EMP",
+    "actionid": "2349",
+    "actioncode": "",
+    "tenantId": "uk"
+  },
+  {
+    "rolecode": "UC_EMP",
+    "actionid": "2350",
+    "actioncode": "",
+    "tenantId": "uk"
+  },
+  {
+    "rolecode": "UC_EMP",
+    "actionid": "2351",
+    "actioncode": "",
+    "tenantId": "uk"
+  },
+  {
+    "rolecode": "UC_EMP",
+    "actionid": "2352",
+    "actioncode": "",
+    "tenantId": "uk"
+  },
+  {
+    "rolecode": "UC_EMP",
+    "actionid": "2353",
+    "actioncode": "",
+    "tenantId": "uk"
+  },
+  {
+    "rolecode": "UC_EMP",
+    "actionid": "2354",
+    "actioncode": "",
+    "tenantId": "uk"
+  },
+  {
+    "rolecode": "UC_EMP",
+    "actionid": "2355",
+    "actioncode": "",
+    "tenantId": "uk"
+  },
+  {
+    "rolecode": "UC_EMP",
+    "actionid": "2356",
+    "actioncode": "",
+    "tenantId": "uk"
+  },
+  {
+    "rolecode": "UC_EMP",
+    "actionid": "2357",
+    "actioncode": "",
+    "tenantId": "uk"
+  },
+  {
+    "rolecode": "UC_EMP",
+    "actionid": "2358",
+    "actioncode": "",
+    "tenantId": "uk"
+  } 
   ]
 }
