@@ -23377,6 +23377,126 @@
     "actionid": "2358",
     "actioncode": "",
     "tenantId": "uk"
-  } 
+  },
+  {
+    "rolecode": "PTCEMP",
+    "actionid": "1580",
+    "actioncode": "",
+    "tenantId": "uk"
+  },
+  {
+    "rolecode": "PTCEMP",
+    "actionid": "1584",
+    "actioncode": "",
+    "tenantId": "uk"
+  },
+  {
+    "rolecode": "PTCEMP",
+    "actionid": "2361",
+    "actioncode": "",
+    "tenantId": "uk"
+  },
+  {
+    "rolecode": "PTCEMP",
+    "actionid": "2362",
+    "actioncode": "",
+    "tenantId": "uk"
+  },
+  {
+    "rolecode": "PTCEMP",
+    "actionid": "2363",
+    "actioncode": "",
+    "tenantId": "uk"
+  },
+  {
+    "rolecode": "PTCEMP",
+    "actionid": "2364",
+    "actioncode": "",
+    "tenantId": "uk"
+  }, 
+   {
+    "rolecode": "PTCEMP",
+    "actionid": "2365",
+    "actioncode": "",
+    "tenantId": "uk"
+  },
+    {
+    "rolecode": "PTCEMP",
+    "actionid": "2366",
+    "actioncode": "",
+    "tenantId": "uk"
+  },
+  {
+    "rolecode": "SUPERUSER",
+    "actionid": "2365",
+    "actioncode": "",
+    "tenantId": "uk"
+  },
+    {
+    "rolecode": "SUPERUSER",
+    "actionid": "2366",
+    "actioncode": "",
+    "tenantId": "uk"
+  },
+  {
+    "rolecode": "STADMIN",
+    "actionid": "2367",
+    "actioncode": "",
+    "tenantId": "uk"
+  },
+    {
+    "rolecode": "STADMIN",
+    "actionid": "2368",
+    "actioncode": "",
+    "tenantId": "uk"
+  },
+  {
+    "rolecode": "STADMIN",
+    "actionid": "2369",
+    "actioncode": "",
+    "tenantId": "uk"
+  },
+    {
+    "rolecode": "STADMIN",
+    "actionid": "2370",
+    "actioncode": "",
+    "tenantId": "uk"
+  },
+  {
+    "rolecode": "STADMIN",
+    "actionid": "2371",
+    "actioncode": "",
+    "tenantId": "uk"
+  },
+    {
+    "rolecode": "STADMIN",
+    "actionid": "2372",
+    "actioncode": "",
+    "tenantId": "uk"
+  },
+  {
+    "rolecode": "STADMIN",
+    "actionid": "2359",
+    "actioncode": "",
+    "tenantId": "uk"
+  },
+    {
+    "rolecode": "STADMIN",
+    "actionid": "2360",
+    "actioncode": "",
+    "tenantId": "uk"
+  },
+  {
+    "rolecode": "PTCEMP",
+    "actionid": "2373",
+    "actioncode": "",
+    "tenantId": "uk"
+  },
+    {
+    "rolecode": "PTCEMP",
+    "actionid": "2374",
+    "actioncode": "",
+    "tenantId": "uk"
+  }
   ]
 }
