@@ -5,7 +5,6 @@
     {
       "module": "TL",
       "code": "TL",
-      "active":true,
       "tenants": [
         {
           "code": "uk.dehradun"
