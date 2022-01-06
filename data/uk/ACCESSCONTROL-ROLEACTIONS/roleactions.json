@@ -11965,13 +11965,7 @@
       "actionid": 1813,
       "actioncode": "",
       "tenantId": "uk"
-    },
-    {
-      "rolecode": "CITIZEN",
-      "actionid": 1814,
-      "actioncode": "",
-      "tenantId": "uk"
-    },
+    },    
     {
       "rolecode": "CITIZEN",
       "actionid": 1815,
