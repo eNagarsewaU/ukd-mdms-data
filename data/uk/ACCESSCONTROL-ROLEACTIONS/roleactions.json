@@ -11923,7 +11923,13 @@
       "actionid": 1806,
       "actioncode": "",
       "tenantId": "uk"
-    },   
+    }, 
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 1807,
+      "actioncode": "",
+      "tenantId": "uk"
+    }, 
     {
       "rolecode": "EMPLOYEE",
       "actionid": 1808,
@@ -11971,13 +11977,7 @@
       "actionid": 1815,
       "actioncode": "",
       "tenantId": "uk"
-    },
-    {
-      "rolecode": "CITIZEN",
-      "actionid": 1816,
-      "actioncode": "",
-      "tenantId": "uk"
-    },
+    },   
     {
       "rolecode": "CITIZEN",
       "actionid": 1817,
