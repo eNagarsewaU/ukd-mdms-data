@@ -18981,6 +18981,36 @@
       "tenantId": "uk"
     },
     {
+      "rolecode": "PTDOCVERIFIER",
+      "actionid": 2104,
+      "actioncode": "",
+      "tenantId": "uk"
+    },
+    {
+      "rolecode": "TL_CEMP",
+      "actionid": 2104,
+      "actioncode": "",
+      "tenantId": "uk"
+    },
+    {
+      "rolecode": "PTAPPROVER",
+      "actionid": 2104,
+      "actioncode": "",
+      "tenantId": "uk"
+    },
+    {
+      "rolecode": "PTCEMP",
+      "actionid": 2104,
+      "actioncode": "",
+      "tenantId": "uk"
+    },
+    {
+      "rolecode": "TL_APPROVER",
+      "actionid": 2104,
+      "actioncode": "",
+      "tenantId": "uk"
+    },
+    {
       "rolecode": "UC_EMP",
       "actionid": 2105,
       "actioncode": "",
