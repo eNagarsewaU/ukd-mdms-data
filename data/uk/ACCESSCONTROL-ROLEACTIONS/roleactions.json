@@ -23527,6 +23527,13 @@
     "actionid": "2374",
     "actioncode": "",
     "tenantId": "uk"
+  },
+    {
+    "rolecode": "UC_EMP",
+    "actionid": "2375",
+    "actioncode": "",
+    "tenantId": "uk"
   }
+    
   ]
 }
