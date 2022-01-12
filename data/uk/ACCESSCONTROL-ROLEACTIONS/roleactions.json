@@ -19072,6 +19072,12 @@
       "tenantId": "uk"
     },
     {
+      "rolecode": "UC_EMP",
+      "actionid": 2377,
+      "actioncode": "",
+      "tenantId": "uk"
+    },
+    {
       "rolecode": "NOC_CEMP",
       "actionid": 1743,
       "actioncode": "",
