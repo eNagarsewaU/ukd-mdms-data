@@ -13060,6 +13060,19 @@
          "leftIcon":"action:description",
          "navigationURL":"report/rainmaker-uc/MiscReceiptULBShort",
          "path":"Miscellaneous Collection.Reports.miscellaneous Receipt Register"
+      },
+    {
+         "id":2377,
+         "name":"MiscReceiptULBCancelled",
+         "url":"/report/rainmaker-uc/MiscReceiptULBCancelled/metadata/_get",
+         "displayName":"Miscellaneous Cancelled Receipts",
+         "orderNumber":1,
+         "enabled":true,
+         "serviceCode":"MiscReceipt",
+         "code":"null",
+         "leftIcon":"action:description",
+         "navigationURL":"report/rainmaker-uc/MiscReceiptULBCancelled",
+         "path":"Miscellaneous Collection.Reports.miscellaneous Receipt Register"
       }
   ]
 }
