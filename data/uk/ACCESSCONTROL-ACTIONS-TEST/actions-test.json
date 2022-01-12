@@ -9753,7 +9753,7 @@
       "displayName": "Challan Register",
       "orderNumber": 9,
       "parentModule": "rainmaker-uc",
-      "enabled": true,
+      "enabled": false,
       "serviceCode": "PGR",
       "code": "null",
       "path": "Reports.ChallanStatusRegistry",
