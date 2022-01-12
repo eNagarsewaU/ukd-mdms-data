@@ -13047,6 +13047,19 @@
       "serviceCode": "egov-pdf",
       "code": "null",
       "path": ""
-    }
+    },
+    {
+         "id":2376,
+         "name":"MiscReceiptULBShort",
+         "url":"/report/rainmaker-uc/MiscReceiptULBShort/metadata/_get",
+         "displayName":"Miscellaneous Consumer Receipts",
+         "orderNumber":1,
+         "enabled":true,
+         "serviceCode":"MiscReceipt",
+         "code":"null",
+         "leftIcon":"action:description",
+         "navigationURL":"report/rainmaker-uc/MiscReceiptULBShort",
+         "path":"Miscellaneous Collection.Reports.miscellaneous Receipt Register"
+      }
   ]
 }
