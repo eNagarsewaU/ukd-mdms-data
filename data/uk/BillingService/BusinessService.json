@@ -10,6 +10,7 @@
       "isAdvanceAllowed": true,
       "demandUpdateTime": 86400000,
       "isVoucherCreationEnabled": true,
+      "isBillAmendmentEnabled":"true",
       "hasOnlinePayment": true,
       "billGineiURL": "egov-searcher/bill-genie/billswithaddranduser/_get"
     },
