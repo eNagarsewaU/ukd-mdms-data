@@ -9541,7 +9541,7 @@
       "url": "url",
       "displayName": "Miscellaneous Receipt Register ULB",
       "orderNumber": 1,
-      "enabled": true,
+      "enabled": false,
       "serviceCode": "MiscReceipt",
       "code": "null",
       "leftIcon": "action:description",
@@ -13073,6 +13073,19 @@
          "leftIcon":"action:description",
          "navigationURL":"report/rainmaker-uc/MiscReceiptULBCancelled",
          "path":"Miscellaneous Collection.Reports.miscellaneous Receipt Register"
+      },
+    {
+         "id":2378,
+         "name":"MiscReceiptULB",
+         "url":"/report/rainmaker-uc/MiscReceiptULB/metadata/_get",
+         "displayName":"Miscellaneous Receipt Register ULB",
+         "orderNumber":1,
+         "enabled":true,
+         "serviceCode":"MiscReceipt",
+         "code":"null",
+         "leftIcon":"action:description",
+         "navigationURL":"report/rainmaker-uc/MiscReceiptULB",
+         "path":"Miscellaneous Collection.Reports.Miscellaneous Receipt Register"
       }
   ]
 }
