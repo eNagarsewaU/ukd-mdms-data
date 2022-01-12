@@ -20572,6 +20572,12 @@
     "tenantId": "uk"
   },
   {
+    "rolecode": "UC_EMP",
+    "actionid": 2376,
+    "actioncode": "",
+    "tenantId": "uk"
+  },
+  {
     "rolecode": "FSM_CREATOR_EMP",
     "actionid": 2155,
     "actioncode": "",
