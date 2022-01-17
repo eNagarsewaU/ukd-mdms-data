@@ -22443,6 +22443,24 @@
       "tenantId": "uk"
     },
     {
+      "rolecode": "UC_EMP",
+      "actionid": 2379,
+      "actioncode": "",
+      "tenantId": "uk"
+    },
+    {
+      "rolecode": "UC_EMP",
+      "actionid": 2380,
+      "actioncode": "",
+      "tenantId": "uk"
+    },
+    {
+      "rolecode": "UC_EMP",
+      "actionid": 2381,
+      "actioncode": "",
+      "tenantId": "uk"
+    },
+    {
       "rolecode": "SUPERUSER",
       "actionid": 2220,
       "actioncode": "",
