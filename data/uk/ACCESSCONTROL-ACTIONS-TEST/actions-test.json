@@ -6046,7 +6046,7 @@
       "serviceCode": "UC",
       "code": "null",
       "navigationURL": "/digit-ui/employee/mcollect/inbox",
-      "path": "UC",
+      "path": "Miscellaneous Collection.UC",
       "leftIcon": "image:collections-bookmark"
     },
     {
@@ -6184,7 +6184,7 @@
       "url": "/report/rainmaker-common/_get",
       "displayName": "Universal Collection Report",
       "orderNumber": 0,
-      "enabled": true,
+      "enabled": false,
       "serviceCode": "REPORTS",
       "code": "null",
       "path": "UC Report"
@@ -6195,7 +6195,7 @@
       "url": "/report/rainmaker-common/metadata/_get",
       "displayName": "Universal Collection Report metadata",
       "orderNumber": 1,
-      "enabled": true,
+      "enabled": false,
       "serviceCode": "UCREPORTS",
       "code": "null",
       "path": "UC Collection Metadata "
@@ -9546,7 +9546,7 @@
       "code": "null",
       "leftIcon": "action:description",
       "navigationURL": "report/rainmaker-uc/MiscReceipt",
-      "path": "Reports.Miscellaneous Receipt Register"
+      "path": ".Reports.Miscellaneous Receipt Register"
     },
     {
       "id": 2093,
@@ -9571,7 +9571,7 @@
       "enabled": true,
       "serviceCode": "UCREPORTS",
       "code": "null",
-      "path": "UC Collection Metadata"
+      "path": "Miscellaneous Collection.Reports.UC Collection Metadata"
     },
     {
       "id": 2095,
@@ -9595,7 +9595,7 @@
       "code": "null",
       "leftIcon": "action:description",
       "navigationURL": "report/rainmaker-uc/MiscBusinessServiceCollectionTenant",
-      "path": "Reports.Misc Business Service Collections"
+      "path": "Miscellaneous Collection.Reports.Misc Business Service Collections"
     },
     {
       "id": 2097,
@@ -9608,7 +9608,7 @@
       "code": "null",
       "leftIcon": "action:description",
       "navigationURL": "report/rainmaker-uc/MiscReceiptCB",
-      "path": "Reports.miscellaneous Receipt Register"
+      "path": "Miscellaneous Collection.Reports.miscellaneous Receipt Register"
     },
     {
       "id": 2098,
@@ -9619,7 +9619,7 @@
       "enabled": true,
       "serviceCode": "UCREPORTS",
       "code": "null",
-      "path": "MiscBusinessServiceCollectionTenant Metadata"
+      "path": "Miscellaneous Collection.Reports.MiscBusinessServiceCollectionTenant Metadata"
     },
     {
       "id": 2099,
@@ -9630,7 +9630,7 @@
       "enabled": true,
       "serviceCode": "REPORTS",
       "code": "null",
-      "path": "MiscBusinessServiceCollectionTenant"
+      "path": "Miscellaneous Collection.Reports.MiscBusinessServiceCollectionTenant"
     },
     {
       "id": 2100,
@@ -9641,7 +9641,7 @@
       "enabled": true,
       "serviceCode": "UCREPORTS",
       "code": "null",
-      "path": "MiscReceiptCBCancelled Metadata"
+      "path": "Miscellaneous Collection.Reports.MiscReceiptCBCancelled Metadata"
     },
     {
       "id": 2101,
@@ -9652,7 +9652,7 @@
       "enabled": true,
       "serviceCode": "REPORTS",
       "code": "null",
-      "path": "MiscReceiptCBCancelled"
+      "path": "Miscellaneous Collection.Reports.MiscReceiptCBCancelled"
     },
     {
       "id": 2102,
@@ -9663,7 +9663,7 @@
       "enabled": true,
       "serviceCode": "UCREPORTS",
       "code": "null",
-      "path": "MiscReceiptCB Metadata"
+      "path": "Miscellaneous Collection.Reports.MiscReceiptCB Metadata"
     },
     {
       "id": 2103,
@@ -9674,7 +9674,7 @@
       "enabled": true,
       "serviceCode": "REPORTS",
       "code": "null",
-      "path": "MiscReceiptCB"
+      "path": "Miscellaneous Collection.Reports.MiscReceiptCB"
     },
     {
       "id": 2104,
@@ -9756,7 +9756,7 @@
       "enabled": false,
       "serviceCode": "PGR",
       "code": "null",
-      "path": "Reports.ChallanStatusRegistry",
+      "path": "Miscellaneous Collection.Reports.ChallanStatusRegistry",
       "navigationURL": "report/rainmaker-uc/ChallanStatusRegistry",
       "leftIcon": "action:description",
       "rightIcon": ""
@@ -9771,7 +9771,7 @@
       "enabled": false,
       "serviceCode": "UCREPORTS",
       "code": "null",
-      "path": "ChallanStatusRegistry"
+      "path": "Miscellaneous Collection.Reports.ChallanStatusRegistry"
     },
     {
       "id": 2112,
@@ -9782,7 +9782,7 @@
       "enabled": false,
       "serviceCode": "UCREPORTS",
       "code": "null",
-      "path": "ChallanStatusRegistry"
+      "path": "Miscellaneous Collection.Reports.ChallanStatusRegistry"
     },
     {
       "id": 2113,
@@ -9795,7 +9795,7 @@
       "serviceCode": "UC",
       "code": "",
       "path": "",
-      "navigationURL": "/digit-ui/employee/mcollect/inbox",
+      "navigationURL": "/digit-ui/employee/mcollect/new-application",
       "leftIcon": "places:business-center",
       "rightIcon": "",
       "queryParams": ""
@@ -9832,7 +9832,7 @@
       "displayName": "Receipts",
       "orderNumber": 14,
       "parentModule": "",
-      "enabled": true,
+      "enabled": false,
       "serviceCode": "UC",
       "code": "null",
       "navigationURL": "/digit-ui/employee/mcollect/inbox",
@@ -9857,7 +9857,7 @@
       "displayName": "Universal Collection(MCollect)",
       "orderNumber": 3,
       "parentModule": "",
-      "enabled": true,
+      "enabled": false,
       "serviceCode": "UC",
       "code": "null",
       "navigationURL": "/digit-ui/employee/mcollect/inbox",
@@ -10325,7 +10325,7 @@
       "enabled": true,
       "serviceCode": "",
       "code": "null",
-      "path": "UC.Reports.ChallanRegister",
+      "path": "Miscellaneous Collection.Reports.ChallanRegister",
       "navigationURL": "report/mcollect/MCollectChallanRegister",
       "leftIcon": "action:assignment",
       "rightIcon": ""
@@ -10470,7 +10470,7 @@
       "displayName": "Collection Report",
       "orderNumber": 1,
       "parentModule": "",
-      "enabled": true,
+      "enabled": false,
       "serviceCode": "",
       "code": "null",
       "path": "UC.Reports.CollectionReport",
@@ -10529,7 +10529,7 @@
       "displayName": "Recepit Register",
       "orderNumber": 1,
       "parentModule": "",
-      "enabled": true,
+      "enabled": false,
       "serviceCode": "",
       "code": "null",
       "path": "UC.Reports.ReceiptRegister",
