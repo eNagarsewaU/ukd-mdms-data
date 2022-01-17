@@ -10322,7 +10322,7 @@
         "displayName": "Challan Register Report",
         "orderNumber": 1,
         "parentModule": "",
-        "enabled": true,
+        "enabled": false,
         "serviceCode": "",
         "code": "null",
         "path": "Miscellaneous Collection.Reports.ChallanRegister",
