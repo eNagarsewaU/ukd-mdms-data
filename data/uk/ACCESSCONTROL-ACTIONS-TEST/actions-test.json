@@ -9590,7 +9590,7 @@
         "url": "url",
         "displayName": "Misc Business Service Collections",
         "orderNumber": 1,
-        "enabled": false,
+        "enabled": true,
         "serviceCode": "MiscReceipt",
         "code": "null",
         "leftIcon": "action:description",
@@ -9612,7 +9612,7 @@
       },
       {
         "id": 2098,
-        "name": "MiscBusinessServiceCollectionTenant",
+        "name": "MiscBusinessServiceCollectionTenantMetadata",
         "url": "/report/rainmaker-uc/MiscBusinessServiceCollectionTenant/metadata/_get",
         "displayName": "MiscBusinessServiceCollectionTenant metadata",
         "orderNumber": 1,
@@ -10336,7 +10336,7 @@
         "url": "/report/mcollect/MCollectChallanRegister/_get",
         "displayName": "Challan Register Report",
         "orderNumber": 0,
-        "enabled": true,
+        "enabled": false,
         "serviceCode": "MCOLLECTCHALLANREGISTER",
         "code": "null",
         "path": "Challan Register"
@@ -10347,7 +10347,7 @@
         "url": "/report/mcollect/MCollectChallanRegister/metadata/_get",
         "displayName": "Challan Register Report",
         "orderNumber": 1,
-        "enabled": true,
+        "enabled": false,
         "serviceCode": "MCOLLECTCHALLANREGISTERMETADATA",
         "code": "null",
         "path": "Challan Register"
