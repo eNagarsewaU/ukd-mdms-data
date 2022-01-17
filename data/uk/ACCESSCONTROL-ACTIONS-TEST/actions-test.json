@@ -9568,7 +9568,7 @@
         "url": "/report/rainmaker-uc/MiscReceiptRegister/metadata/_get",
         "displayName": "Universal Collection Report metadata",
         "orderNumber": 1,
-        "enabled": true,
+        "enabled": false,
         "serviceCode": "UCREPORTS",
         "code": "null",
         "path": "Miscellaneous Collection.Reports.UC Collection Metadata"
@@ -9579,7 +9579,7 @@
         "url": "/report/rainmaker-uc/MiscReceiptRegister/_get",
         "displayName": "Universal Collection Report",
         "orderNumber": 0,
-        "enabled": true,
+        "enabled": false,
         "serviceCode": "REPORTS",
         "code": "null",
         "path": "UC Report"
@@ -9590,7 +9590,7 @@
         "url": "url",
         "displayName": "Misc Business Service Collections",
         "orderNumber": 1,
-        "enabled": true,
+        "enabled": false,
         "serviceCode": "MiscReceipt",
         "code": "null",
         "leftIcon": "action:description",
@@ -9603,7 +9603,7 @@
         "url": "url",
         "displayName": "Miscellaneous Consumer Receipts",
         "orderNumber": 1,
-        "enabled": true,
+        "enabled": false,
         "serviceCode": "MiscReceipt",
         "code": "null",
         "leftIcon": "action:description",
@@ -9612,7 +9612,7 @@
       },
       {
         "id": 2098,
-        "name": "MiscBusinessServiceCollectionTenantMetadata",
+        "name": "MiscBusinessServiceCollectionTenant",
         "url": "/report/rainmaker-uc/MiscBusinessServiceCollectionTenant/metadata/_get",
         "displayName": "MiscBusinessServiceCollectionTenant metadata",
         "orderNumber": 1,
@@ -9627,7 +9627,7 @@
         "url": "/report/rainmaker-uc/MiscBusinessServiceCollectionTenant/_get",
         "displayName": "Misc BusinessService Collection Tenant Report",
         "orderNumber": 1,
-        "enabled": true,
+        "enabled": false,
         "serviceCode": "REPORTS",
         "code": "null",
         "path": "Miscellaneous Collection.Reports.MiscBusinessServiceCollectionTenant"
@@ -9638,7 +9638,7 @@
         "url": "/report/rainmaker-uc/MiscReceiptCBCancelled/metadata/_get",
         "displayName": "MiscReceiptCBCancelled metadata",
         "orderNumber": 1,
-        "enabled": true,
+        "enabled": false,
         "serviceCode": "UCREPORTS",
         "code": "null",
         "path": "Miscellaneous Collection.Reports.MiscReceiptCBCancelled Metadata"
@@ -9649,7 +9649,7 @@
         "url": "/report/rainmaker-uc/MiscReceiptCBCancelled/_get",
         "displayName": "Misc BusinessService Collection Tenant Report",
         "orderNumber": 1,
-        "enabled": true,
+        "enabled": false,
         "serviceCode": "REPORTS",
         "code": "null",
         "path": "Miscellaneous Collection.Reports.MiscReceiptCBCancelled"
@@ -9660,7 +9660,7 @@
         "url": "/report/rainmaker-uc/MiscReceiptCB/metadata/_get",
         "displayName": "MiscReceiptCB metadata",
         "orderNumber": 2,
-        "enabled": true,
+        "enabled": false,
         "serviceCode": "UCREPORTS",
         "code": "null",
         "path": "Miscellaneous Collection.Reports.MiscReceiptCB Metadata"
@@ -9671,7 +9671,7 @@
         "url": "/report/rainmaker-uc/MiscReceiptCB/_get",
         "displayName": "Misc Receipt Report",
         "orderNumber": 2,
-        "enabled": true,
+        "enabled": false,
         "serviceCode": "REPORTS",
         "code": "null",
         "path": "Miscellaneous Collection.Reports.MiscReceiptCB"
