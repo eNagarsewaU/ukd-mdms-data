@@ -9587,7 +9587,7 @@
       {
         "id": 2096,
         "name": "MiscBusinessServiceCollectionTenant",
-        "url": "url",
+        "url": "/report/rainmaker-uc/MiscBusinessServiceCollectionTenant/metadata/_get",
         "displayName": "Misc Business Service Collections",
         "orderNumber": 1,
         "enabled": true,
@@ -9616,7 +9616,7 @@
         "url": "/report/rainmaker-uc/MiscBusinessServiceCollectionTenant/metadata/_get",
         "displayName": "MiscBusinessServiceCollectionTenant metadata",
         "orderNumber": 1,
-        "enabled": true,
+        "enabled": false,
         "serviceCode": "UCREPORTS",
         "code": "null",
         "path": "Miscellaneous Collection.Reports.MiscBusinessServiceCollectionTenant Metadata"
