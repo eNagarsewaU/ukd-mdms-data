@@ -9590,7 +9590,7 @@
         "url": "url",
         "displayName": "Misc Business Service Collections",
         "orderNumber": 1,
-        "enabled": false,
+        "enabled": true,
         "serviceCode": "MiscReceipt",
         "code": "null",
         "leftIcon": "action:description",
