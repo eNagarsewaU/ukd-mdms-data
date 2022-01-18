@@ -13043,7 +13043,7 @@
         "url": "/egov-pdf/download/PAYMENT/misc-receipt",
         "displayName": "misc-receipt search",
         "orderNumber": 1,
-        "enabled": false,
+        "enabled": true,
         "serviceCode": "egov-pdf",
         "code": "null",
         "path": ""
