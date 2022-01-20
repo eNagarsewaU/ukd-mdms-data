@@ -9621,6 +9621,30 @@
       "tenantId": "uk"
     },
     {
+      "rolecode": "TL_CEMP",
+      "actionid": 2382,
+      "actioncode": "",
+      "tenantId": "uk"
+    },
+    {
+      "rolecode": "TL_CEMP",
+      "actionid": 2383,
+      "actioncode": "",
+      "tenantId": "uk"
+    },
+    {
+      "rolecode": "TL_CEMP",
+      "actionid": 2384,
+      "actioncode": "",
+      "tenantId": "uk"
+    },
+    {
+      "rolecode": "TL_CEMP",
+      "actionid": 2385,
+      "actioncode": "",
+      "tenantId": "uk"
+    },
+    {
       "rolecode": "TL_APPROVER",
       "actionid": 1690,
       "actioncode": "",
