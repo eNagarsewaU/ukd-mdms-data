@@ -13119,6 +13119,66 @@
             "serviceCode":"MiscReceipt",
             "code":"null",
             "path":"Reports.miscellaneous Receipt Register"
-         }
+         },
+        {
+         "id":2382,
+         "name":"Cancelled Receipt Register",
+         "url":"/report/rainmaker-tl/TradeLicenseCancelledRegistryReport/metadata/_get",
+         "displayName":"Cancelled Receipt Register",
+         "orderNumber":2,
+         "queryParams":"",
+         "parentModule":"",
+         "enabled":true,
+         "serviceCode":"",
+         "path":"Trade License.TL Reports.Cancelled Receipt Register",
+         "navigationURL":"report/rainmaker-tl/TradeLicenseCancelledRegistryReport",
+         "leftIcon":"action:assignment",
+         "rightIcon":""
+      },
+      {
+         "id":2383,
+         "name":"Cancelled Receipt Register",
+         "url":"/report/rainmaker-tl/TradeLicenseCancelledRegistryReport/_get",
+         "displayName":"Cancelled Receipt Register",
+         "orderNumber":2,
+         "queryParams":"",
+         "parentModule":"",
+         "enabled":false,
+         "serviceCode":"",
+         "path":"Trade License.TL Reports.Cancelled Receipt Register",
+         "navigationURL":"report/rainmaker-tl/TradeLicenseCancelledRegistryReport",
+         "leftIcon":"action:assignment",
+         "rightIcon":""
+      },
+{
+         "id":2384,
+         "name":"TradeLicenseRegistryReport",
+         "url":"/report/rainmaker-tl/TradeLicenseRegistryReport/metadata/_get",
+         "displayName":"Receipt Register",
+         "orderNumber":2,
+         "queryParams":"",
+         "parentModule":"",
+         "enabled":true,
+         "serviceCode":"",
+         "path":"Trade License.TL Reports.Receipt Register",
+         "navigationURL":"report/rainmaker-tl/TradeLicenseRegistryReport",
+         "leftIcon":"action:assignment",
+         "rightIcon":""
+      },
+ {
+         "id":2385,
+         "name":"TradeLicenseRegistryReport",
+         "url":"/report/rainmaker-tl/TradeLicenseRegistryReport/_get",
+         "displayName":"Receipt Register",
+         "orderNumber":2,
+         "queryParams":"",
+         "parentModule":"",
+         "enabled":false,
+         "serviceCode":"",
+         "path":"Trade License.TL Reports.Receipt Register",
+         "navigationURL":"report/rainmaker-tl/TradeLicenseRegistryReport",
+         "leftIcon":"action:assignment",
+         "rightIcon":""
+      },
     ]
   }
