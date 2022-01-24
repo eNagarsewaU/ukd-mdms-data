@@ -490,6 +490,43 @@
           "code": "uk.bhikiyasain"
         }
       ]
+    },
+    {
+      "module": "MCollect",
+      "code": "MCollect",
+      "active":true,
+      "tenants": [
+        {
+          "code": "uk.dehradun"
+        },
+        {
+          "code": "uk.haridwar"
+        },
+        {
+          "code": "uk.haldwani"
+        },
+        {
+          "code": "uk.roorkee"
+        },
+        {
+          "code": "uk.rudrapur"
+        },
+        {
+          "code": "uk.kashipur"
+        },
+        {
+          "code": "uk.rishikesh"
+        },
+        {
+          "code": "uk.kotdwar"
+        },
+        {
+          "code": "uk.champawat"
+        },
+        {
+          "code": "uk.bhikiyasain"
+        }
+      ]
     }
   ]
 }
