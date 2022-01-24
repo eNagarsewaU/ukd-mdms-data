@@ -9060,7 +9060,7 @@
         "displayName": "BillAmendment",
         "orderNumber": 22,
         "parentModule": "",
-        "enabled": false,
+        "enabled": true,
         "serviceCode": "",
         "code": "",
         "path": "",
