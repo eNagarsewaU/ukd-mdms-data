@@ -60,6 +60,7 @@
       "isVoucherCreationEnabled": true,
       "isActive": true,
       "type": "Adhoc"
+      "billGineiURL": "egov-searcher/bill-genie/billswithaddranduser/_get"
     },
     {
       "businessService": "ADMIN Fees.Parking during election",
