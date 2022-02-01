@@ -59,7 +59,7 @@
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
       "isBillAmendmentEnabled":"true",
-      "billGineiURL": "egov-searcher/bill-genie/billswithaddranduser/_get"
+      "billGineiURL": "egov-searcher/bill-genie/billswithaddranduser/_get",
       "isActive": true,
       "type": "Adhoc"
     },
