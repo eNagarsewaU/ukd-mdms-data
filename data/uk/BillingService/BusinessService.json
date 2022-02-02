@@ -10,7 +10,7 @@
       "isAdvanceAllowed": true,
       "demandUpdateTime": 86400000,
       "isVoucherCreationEnabled": true,
-      "isBillAmendmentEnabled":"true",
+      "isBillAmendmentEnabled": "true",
       "hasOnlinePayment": true,
       "billGineiURL": "egov-searcher/bill-genie/billswithaddranduser/_get"
     },
@@ -58,10 +58,10 @@
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
-      "isBillAmendmentEnabled":"true",
-      "billGineiURL": "egov-searcher/bill-genie/billswithaddranduser/_get",
+      "isBillAmendmentEnabled": "true",
       "isActive": true,
-      "type": "Adhoc"
+      "type": "Adhoc",
+      "billGineiURL": "egov-searcher/bill-genie/billswithaddranduser/_get"
     },
     {
       "businessService": "ADMIN Fees.Parking during election",
@@ -71,7 +71,8 @@
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
       "isActive": true,
-      "type": "Adhoc"
+      "type": "Adhoc",
+      "billGineiURL": "egov-searcher/bill-genie/billswithaddranduser/_get"
     },
     {
       "businessService": "ADMIN Fees.Road show",
@@ -81,7 +82,8 @@
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
       "isActive": true,
-      "type": "Adhoc"
+      "type": "Adhoc",
+      "billGineiURL": "egov-searcher/bill-genie/billswithaddranduser/_get"
     },
     {
       "businessService": "ADMIN Fees.other show fee",
@@ -91,7 +93,8 @@
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
       "isActive": true,
-      "type": "Adhoc"
+      "type": "Adhoc",
+      "billGineiURL": "egov-searcher/bill-genie/billswithaddranduser/_get"
     },
     {
       "businessService": "ADMIN Fees.RTI",
@@ -101,7 +104,8 @@
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
       "isActive": true,
-      "type": "Adhoc"
+      "type": "Adhoc",
+      "billGineiURL": "egov-searcher/bill-genie/billswithaddranduser/_get"
     },
     {
       "businessService": "ADMIN Fees.No Due Certificate fees",
@@ -111,7 +115,8 @@
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
       "isActive": true,
-      "type": "Adhoc"
+      "type": "Adhoc",
+      "billGineiURL": "egov-searcher/bill-genie/billswithaddranduser/_get"
     },
     {
       "businessService": "Advertisement Tax.Hoardings",
@@ -121,7 +126,8 @@
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
       "isActive": true,
-      "type": "Adhoc"
+      "type": "Adhoc",
+      "billGineiURL": "egov-searcher/bill-genie/billswithaddranduser/_get"
     },
     {
       "businessService": "Advertisement Tax.Unipolls",
@@ -131,7 +137,8 @@
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
       "isActive": true,
-      "type": "Adhoc"
+      "type": "Adhoc",
+      "billGineiURL": "egov-searcher/bill-genie/billswithaddranduser/_get"
     },
     {
       "businessService": "Advertisement Tax.Wall Paint Advertisement",
@@ -141,7 +148,8 @@
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
       "isActive": true,
-      "type": "Adhoc"
+      "type": "Adhoc",
+      "billGineiURL": "egov-searcher/bill-genie/billswithaddranduser/_get"
     },
     {
       "businessService": "Advertisement Tax.Gas Balloon Advertisement",
@@ -151,7 +159,8 @@
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
       "isActive": true,
-      "type": "Adhoc"
+      "type": "Adhoc",
+      "billGineiURL": "egov-searcher/bill-genie/billswithaddranduser/_get"
     },
     {
       "businessService": "Challans.Rehri Challan",
@@ -161,7 +170,8 @@
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
       "isActive": true,
-      "type": "Adhoc"
+      "type": "Adhoc",
+      "billGineiURL": "egov-searcher/bill-genie/billswithaddranduser/_get"
     },
     {
       "businessService": "Challans.Cattle Challan",
@@ -171,7 +181,8 @@
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
       "isActive": true,
-      "type": "Adhoc"
+      "type": "Adhoc",
+      "billGineiURL": "egov-searcher/bill-genie/billswithaddranduser/_get"
     },
     {
       "businessService": "Challans.Dairy Animals Challan",
@@ -181,7 +192,8 @@
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
       "isActive": true,
-      "type": "Adhoc"
+      "type": "Adhoc",
+      "billGineiURL": "egov-searcher/bill-genie/billswithaddranduser/_get"
     },
     {
       "businessService": "Finance Fees.Leave encashment and gratuity",
@@ -191,7 +203,8 @@
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
       "isActive": true,
-      "type": "Adhoc"
+      "type": "Adhoc",
+      "billGineiURL": "egov-searcher/bill-genie/billswithaddranduser/_get"
     },
     {
       "businessService": "Finance Fees.Advance Provident Fund",
@@ -201,7 +214,8 @@
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
       "isActive": true,
-      "type": "Adhoc"
+      "type": "Adhoc",
+      "billGineiURL": "egov-searcher/bill-genie/billswithaddranduser/_get"
     },
     {
       "businessService": "Finance Fees.Recovery employee_contractor",
@@ -211,7 +225,8 @@
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
       "isActive": true,
-      "type": "Adhoc"
+      "type": "Adhoc",
+      "billGineiURL": "egov-searcher/bill-genie/billswithaddranduser/_get"
     },
     {
       "businessService": "Finance Fees.Grants cheque",
@@ -221,7 +236,8 @@
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
       "isActive": true,
-      "type": "Adhoc"
+      "type": "Adhoc",
+      "billGineiURL": "egov-searcher/bill-genie/billswithaddranduser/_get"
     },
     {
       "businessService": "Finance Fees.CPF received check",
@@ -231,7 +247,8 @@
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
       "isActive": true,
-      "type": "Adhoc"
+      "type": "Adhoc",
+      "billGineiURL": "egov-searcher/bill-genie/billswithaddranduser/_get"
     },
     {
       "businessService": "Finance Fees.Tender Form Fee",
@@ -241,7 +258,8 @@
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
       "isActive": true,
-      "type": "Adhoc"
+      "type": "Adhoc",
+      "billGineiURL": "egov-searcher/bill-genie/billswithaddranduser/_get"
     },
     {
       "businessService": "Finance Fees.Tender Earnest Money Deposit",
@@ -251,7 +269,8 @@
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
       "isActive": true,
-      "type": "Adhoc"
+      "type": "Adhoc",
+      "billGineiURL": "egov-searcher/bill-genie/billswithaddranduser/_get"
     },
     {
       "businessService": "Finance Fees.Tender Security Deposit Fee",
@@ -261,7 +280,8 @@
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
       "isActive": true,
-      "type": "Adhoc"
+      "type": "Adhoc",
+      "billGineiURL": "egov-searcher/bill-genie/billswithaddranduser/_get"
     },
     {
       "businessService": "Naksha_Building Manual Fees.Regularisation of Buildings",
@@ -271,7 +291,8 @@
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
       "isActive": true,
-      "type": "Adhoc"
+      "type": "Adhoc",
+      "billGineiURL": "egov-searcher/bill-genie/billswithaddranduser/_get"
     },
     {
       "businessService": "OTHER.Misc Challans",
@@ -281,7 +302,8 @@
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
       "isActive": true,
-      "type": "Adhoc"
+      "type": "Adhoc",
+      "billGineiURL": "egov-searcher/bill-genie/billswithaddranduser/_get"
     },
     {
       "businessService": "OTHER.Registery and bank loan",
@@ -291,7 +313,8 @@
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
       "isActive": true,
-      "type": "Adhoc"
+      "type": "Adhoc",
+      "billGineiURL": "egov-searcher/bill-genie/billswithaddranduser/_get"
     },
     {
       "businessService": "Rents.ULB Shops Rent",
@@ -301,7 +324,8 @@
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
       "isActive": true,
-      "type": "Adhoc"
+      "type": "Adhoc",
+      "billGineiURL": "egov-searcher/bill-genie/billswithaddranduser/_get"
     },
     {
       "businessService": "Rents.ULB Land Rent",
@@ -311,7 +335,8 @@
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
       "isActive": true,
-      "type": "Adhoc"
+      "type": "Adhoc",
+      "billGineiURL": "egov-searcher/bill-genie/billswithaddranduser/_get"
     },
     {
       "businessService": "Rents.Nazool Land Rent",
@@ -321,7 +346,8 @@
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
       "isActive": true,
-      "type": "Adhoc"
+      "type": "Adhoc",
+      "billGineiURL": "egov-searcher/bill-genie/billswithaddranduser/_get"
     },
     {
       "businessService": "Rents.ULB  Parking Fee",
@@ -331,7 +357,8 @@
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
       "isActive": true,
-      "type": "Adhoc"
+      "type": "Adhoc",
+      "billGineiURL": "egov-searcher/bill-genie/billswithaddranduser/_get"
     },
     {
       "businessService": "Rents.Jamin Theka",
@@ -341,7 +368,8 @@
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
       "isActive": true,
-      "type": "Adhoc"
+      "type": "Adhoc",
+      "billGineiURL": "egov-searcher/bill-genie/billswithaddranduser/_get"
     },
     {
       "businessService": "Rents.Telecom Tower Annual Rent",
@@ -351,7 +379,8 @@
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
       "isActive": true,
-      "type": "Adhoc"
+      "type": "Adhoc",
+      "billGineiURL": "egov-searcher/bill-genie/billswithaddranduser/_get"
     },
     {
       "businessService": "Rents.Community Centre Booking Fee",
@@ -361,7 +390,8 @@
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
       "isActive": true,
-      "type": "Adhoc"
+      "type": "Adhoc",
+      "billGineiURL": "egov-searcher/bill-genie/billswithaddranduser/_get"
     },
     {
       "businessService": "Rents.Commercial Use of Municipal Land",
@@ -371,7 +401,8 @@
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
       "isActive": true,
-      "type": "Adhoc"
+      "type": "Adhoc",
+      "billGineiURL": "egov-searcher/bill-genie/billswithaddranduser/_get"
     },
     {
       "businessService": "Rents.Street Vendor",
@@ -381,7 +412,8 @@
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
       "isActive": true,
-      "type": "Adhoc"
+      "type": "Adhoc",
+      "billGineiURL": "egov-searcher/bill-genie/billswithaddranduser/_get"
     },
     {
       "businessService": "Health.Licence Pure food",
@@ -391,7 +423,8 @@
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
       "isActive": true,
-      "type": "Adhoc"
+      "type": "Adhoc",
+      "billGineiURL": "egov-searcher/bill-genie/billswithaddranduser/_get"
     },
     {
       "businessService": "Health.Dead animals contract",
@@ -401,7 +434,8 @@
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
       "isActive": true,
-      "type": "Adhoc"
+      "type": "Adhoc",
+      "billGineiURL": "egov-searcher/bill-genie/billswithaddranduser/_get"
     },
     {
       "businessService": "Health.Sanitation Tax",
@@ -411,7 +445,8 @@
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
       "isActive": true,
-      "type": "Adhoc"
+      "type": "Adhoc",
+      "billGineiURL": "egov-searcher/bill-genie/billswithaddranduser/_get"
     },
     {
       "businessService": "Health.Birth Registration Fees",
@@ -421,7 +456,8 @@
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
       "isActive": true,
-      "type": "Adhoc"
+      "type": "Adhoc",
+      "billGineiURL": "egov-searcher/bill-genie/billswithaddranduser/_get"
     },
     {
       "businessService": "Health.Death Registration Fees",
@@ -431,7 +467,8 @@
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
       "isActive": true,
-      "type": "Adhoc"
+      "type": "Adhoc",
+      "billGineiURL": "egov-searcher/bill-genie/billswithaddranduser/_get"
     },
     {
       "businessService": "Health.Dumping garbage Challan",
@@ -441,7 +478,8 @@
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
       "isActive": true,
-      "type": "Adhoc"
+      "type": "Adhoc",
+      "billGineiURL": "egov-searcher/bill-genie/billswithaddranduser/_get"
     },
     {
       "businessService": "Health.Plastic polythene Challan",
@@ -451,7 +489,8 @@
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
       "isActive": true,
-      "type": "Adhoc"
+      "type": "Adhoc",
+      "billGineiURL": "egov-searcher/bill-genie/billswithaddranduser/_get"
     },
     {
       "businessService": "Health.Dengue Challan",
@@ -461,7 +500,8 @@
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
       "isActive": true,
-      "type": "Adhoc"
+      "type": "Adhoc",
+      "billGineiURL": "egov-searcher/bill-genie/billswithaddranduser/_get"
     },
     {
       "businessService": "Health.Littering Challan",
@@ -471,7 +511,8 @@
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
       "isActive": true,
-      "type": "Adhoc"
+      "type": "Adhoc",
+      "billGineiURL": "egov-searcher/bill-genie/billswithaddranduser/_get"
     },
     {
       "businessService": "Health.Construction Waste",
@@ -481,7 +522,8 @@
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
       "isActive": true,
-      "type": "Adhoc"
+      "type": "Adhoc",
+      "billGineiURL": "egov-searcher/bill-genie/billswithaddranduser/_get"
     },
     {
       "businessService": "Health.Demolition Waste",
@@ -491,7 +533,8 @@
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
       "isActive": true,
-      "type": "Adhoc"
+      "type": "Adhoc",
+      "billGineiURL": "egov-searcher/bill-genie/billswithaddranduser/_get"
     },
     {
       "businessService": "Taxes.No Dues Certificate",
@@ -501,7 +544,8 @@
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
       "isActive": false,
-      "type": "Adhoc"
+      "type": "Adhoc",
+      "billGineiURL": "egov-searcher/bill-genie/billswithaddranduser/_get"
     },
     {
       "businessService": "Taxes.Mutation Fees",
@@ -511,7 +555,8 @@
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
       "isActive": true,
-      "type": "Adhoc"
+      "type": "Adhoc",
+      "billGineiURL": "egov-searcher/bill-genie/billswithaddranduser/_get"
     },
     {
       "businessService": "Taxes.Naqal Fees",
@@ -521,7 +566,8 @@
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
       "isActive": true,
-      "type": "Adhoc"
+      "type": "Adhoc",
+      "billGineiURL": "egov-searcher/bill-genie/billswithaddranduser/_get"
     },
     {
       "businessService": "Taxes.Encroachment Challan ",
@@ -531,7 +577,8 @@
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
       "isActive": true,
-      "type": "Adhoc"
+      "type": "Adhoc",
+      "billGineiURL": "egov-searcher/bill-genie/billswithaddranduser/_get"
     },
     {
       "businessService": "Tehbazaari Fee.Tehbazaari",
@@ -541,7 +588,8 @@
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
       "isActive": true,
-      "type": "Adhoc"
+      "type": "Adhoc",
+      "billGineiURL": "egov-searcher/bill-genie/billswithaddranduser/_get"
     },
     {
       "businessService": "Tehbazaari Fee.Challan Under section 156",
@@ -551,7 +599,8 @@
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
       "isActive": true,
-      "type": "Adhoc"
+      "type": "Adhoc",
+      "billGineiURL": "egov-searcher/bill-genie/billswithaddranduser/_get"
     },
     {
       "businessService": "Cess.Cess",
@@ -561,7 +610,8 @@
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
       "isActive": true,
-      "type": "Adhoc"
+      "type": "Adhoc",
+      "billGineiURL": "egov-searcher/bill-genie/billswithaddranduser/_get"
     },
     {
       "businessService": "Rents.Municipal Shops Rent",
@@ -571,7 +621,8 @@
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
       "isActive": true,
-      "type": "Adhoc"
+      "type": "Adhoc",
+      "billGineiURL": "egov-searcher/bill-genie/billswithaddranduser/_get"
     },
     {
       "businessService": "Rents.Land Rent",
@@ -581,7 +632,8 @@
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
       "isActive": true,
-      "type": "Adhoc"
+      "type": "Adhoc",
+      "billGineiURL": "egov-searcher/bill-genie/billswithaddranduser/_get"
     },
     {
       "businessService": "Rents.Tower Rent",
@@ -591,7 +643,8 @@
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
       "isActive": true,
-      "type": "Adhoc"
+      "type": "Adhoc",
+      "billGineiURL": "egov-searcher/bill-genie/billswithaddranduser/_get"
     },
     {
       "businessService": "Rents.Parking Fee",
@@ -601,7 +654,8 @@
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
       "isActive": true,
-      "type": "Adhoc"
+      "type": "Adhoc",
+      "billGineiURL": "egov-searcher/bill-genie/billswithaddranduser/_get"
     },
     {
       "businessService": "Stationary.Stationary (Not Income)",
@@ -611,7 +665,8 @@
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
       "isActive": true,
-      "type": "Adhoc"
+      "type": "Adhoc",
+      "billGineiURL": "egov-searcher/bill-genie/billswithaddranduser/_get"
     },
     {
       "businessService": "Stationary.Expenditure santitation (Not Income)",
@@ -621,7 +676,8 @@
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
       "isActive": true,
-      "type": "Adhoc"
+      "type": "Adhoc",
+      "billGineiURL": "egov-searcher/bill-genie/billswithaddranduser/_get"
     },
     {
       "businessService": "Challans.Santitation dumping garbage",
@@ -631,7 +687,8 @@
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
       "isActive": true,
-      "type": "Adhoc"
+      "type": "Adhoc",
+      "billGineiURL": "egov-searcher/bill-genie/billswithaddranduser/_get"
     },
     {
       "businessService": "Fee Town Planning.Telecom tower fees",
@@ -641,7 +698,8 @@
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
       "isActive": true,
-      "type": "Adhoc"
+      "type": "Adhoc",
+      "billGineiURL": "egov-searcher/bill-genie/billswithaddranduser/_get"
     },
     {
       "businessService": "Taxes.Electricity Chungi",
@@ -651,7 +709,8 @@
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
       "isActive": true,
-      "type": "Adhoc"
+      "type": "Adhoc",
+      "billGineiURL": "egov-searcher/bill-genie/billswithaddranduser/_get"
     },
     {
       "businessService": "Fee Town Planning.Draftsmen fees",
@@ -661,7 +720,8 @@
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
       "isActive": true,
-      "type": "Adhoc"
+      "type": "Adhoc",
+      "billGineiURL": "egov-searcher/bill-genie/billswithaddranduser/_get"
     },
     {
       "businessService": "Fee Town Planning.Compremasing fees",
@@ -671,7 +731,8 @@
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
       "isActive": true,
-      "type": "Adhoc"
+      "type": "Adhoc",
+      "billGineiURL": "egov-searcher/bill-genie/billswithaddranduser/_get"
     },
     {
       "businessService": "Fee Town Planning.Building planner renew",
@@ -681,7 +742,8 @@
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
       "isActive": true,
-      "type": "Adhoc"
+      "type": "Adhoc",
+      "billGineiURL": "egov-searcher/bill-genie/billswithaddranduser/_get"
     },
     {
       "businessService": "Naksha_Building Manual Fees.Naksha samjota fees",
@@ -691,7 +753,8 @@
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
       "isActive": true,
-      "type": "Adhoc"
+      "type": "Adhoc",
+      "billGineiURL": "egov-searcher/bill-genie/billswithaddranduser/_get"
     },
     {
       "businessService": "Naksha_Building Manual Fees.Naksha changes",
@@ -701,7 +764,8 @@
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
       "isActive": true,
-      "type": "Adhoc"
+      "type": "Adhoc",
+      "billGineiURL": "egov-searcher/bill-genie/billswithaddranduser/_get"
     },
     {
       "businessService": "Fee Town Planning.License fees building branch",
@@ -711,7 +775,8 @@
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
       "isActive": true,
-      "type": "Adhoc"
+      "type": "Adhoc",
+      "billGineiURL": "egov-searcher/bill-genie/billswithaddranduser/_get"
     },
     {
       "businessService": "O&M Fee.Water connection_disconnection fees",
@@ -721,7 +786,8 @@
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
       "isActive": true,
-      "type": "Adhoc"
+      "type": "Adhoc",
+      "billGineiURL": "egov-searcher/bill-genie/billswithaddranduser/_get"
     },
     {
       "businessService": "Naksha_Building Manual Fees.Naksha renew fees",
@@ -731,7 +797,8 @@
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
       "isActive": true,
-      "type": "Adhoc"
+      "type": "Adhoc",
+      "billGineiURL": "egov-searcher/bill-genie/billswithaddranduser/_get"
     },
     {
       "businessService": "Naksha_Building Manual Fees.NOC_Completion of building approval",
@@ -741,7 +808,8 @@
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
       "isActive": true,
-      "type": "Adhoc"
+      "type": "Adhoc",
+      "billGineiURL": "egov-searcher/bill-genie/billswithaddranduser/_get"
     },
     {
       "businessService": "Naksha_Building Manual Fees.Alteration additional charge",
@@ -751,7 +819,8 @@
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
       "isActive": true,
-      "type": "Adhoc"
+      "type": "Adhoc",
+      "billGineiURL": "egov-searcher/bill-genie/billswithaddranduser/_get"
     },
     {
       "businessService": "Naksha_Building Manual Fees.2 year time limit of Renewal Building Naksha",
@@ -761,7 +830,8 @@
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
       "isActive": true,
-      "type": "Adhoc"
+      "type": "Adhoc",
+      "billGineiURL": "egov-searcher/bill-genie/billswithaddranduser/_get"
     },
     {
       "businessService": "Fee Town Planning.Leave encashment and gratuty",
@@ -771,7 +841,8 @@
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
       "isActive": true,
-      "type": "Adhoc"
+      "type": "Adhoc",
+      "billGineiURL": "egov-searcher/bill-genie/billswithaddranduser/_get"
     },
     {
       "businessService": "Challans.Plastic Challan",
@@ -781,7 +852,8 @@
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
       "isActive": true,
-      "type": "Adhoc"
+      "type": "Adhoc",
+      "billGineiURL": "egov-searcher/bill-genie/billswithaddranduser/_get"
     },
     {
       "businessService": "Challans.Challan for Misuse of Water",
@@ -791,7 +863,8 @@
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
       "isActive": true,
-      "type": "Adhoc"
+      "type": "Adhoc",
+      "billGineiURL": "egov-searcher/bill-genie/billswithaddranduser/_get"
     },
     {
       "businessService": "Challans.Dengue Challan",
@@ -801,7 +874,8 @@
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
       "isActive": true,
-      "type": "Adhoc"
+      "type": "Adhoc",
+      "billGineiURL": "egov-searcher/bill-genie/billswithaddranduser/_get"
     },
     {
       "businessService": "Challans.Littering Challan",
@@ -811,7 +885,8 @@
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
       "isActive": true,
-      "type": "Adhoc"
+      "type": "Adhoc",
+      "billGineiURL": "egov-searcher/bill-genie/billswithaddranduser/_get"
     },
     {
       "businessService": "Sanitation.Licence Pure food",
@@ -821,7 +896,8 @@
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
       "isActive": true,
-      "type": "Adhoc"
+      "type": "Adhoc",
+      "billGineiURL": "egov-searcher/bill-genie/billswithaddranduser/_get"
     },
     {
       "businessService": "Work Fee.Contractor Enlistment",
@@ -831,7 +907,8 @@
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
       "isActive": true,
-      "type": "Adhoc"
+      "type": "Adhoc",
+      "billGineiURL": "egov-searcher/bill-genie/billswithaddranduser/_get"
     },
     {
       "businessService": "Work Fee.Tender Form Fee",
@@ -841,7 +918,8 @@
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
       "isActive": true,
-      "type": "Adhoc"
+      "type": "Adhoc",
+      "billGineiURL": "egov-searcher/bill-genie/billswithaddranduser/_get"
     },
     {
       "businessService": "Tehbazaari Fee.Advertisement fee",
@@ -851,7 +929,8 @@
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
       "isActive": true,
-      "type": "Adhoc"
+      "type": "Adhoc",
+      "billGineiURL": "egov-searcher/bill-genie/billswithaddranduser/_get"
     },
     {
       "businessService": "Finance Fees.PF transfer (Accounts)",
@@ -861,7 +940,8 @@
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
       "isActive": true,
-      "type": "Adhoc"
+      "type": "Adhoc",
+      "billGineiURL": "egov-searcher/bill-genie/billswithaddranduser/_get"
     },
     {
       "businessService": "Taxes.TS1 copy register for old survey",
@@ -871,7 +951,8 @@
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
       "isActive": true,
-      "type": "Adhoc"
+      "type": "Adhoc",
+      "billGineiURL": "egov-searcher/bill-genie/billswithaddranduser/_get"
     },
     {
       "businessService": "Taxes.Transfer Property Fees",
@@ -881,7 +962,8 @@
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
       "isActive": true,
-      "type": "Adhoc"
+      "type": "Adhoc",
+      "billGineiURL": "egov-searcher/bill-genie/billswithaddranduser/_get"
     },
     {
       "businessService": "ADMIN Fees.No Dues Certificate",
@@ -891,7 +973,8 @@
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
       "isActive": true,
-      "type": "Adhoc"
+      "type": "Adhoc",
+      "billGineiURL": "egov-searcher/bill-genie/billswithaddranduser/_get"
     },
     {
       "businessService": "Fee Town Planning.Architect license fee",
@@ -901,7 +984,8 @@
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
       "isActive": true,
-      "type": "Adhoc"
+      "type": "Adhoc",
+      "billGineiURL": "egov-searcher/bill-genie/billswithaddranduser/_get"
     },
     {
       "businessService": "OTHER.No due certificate electricity",
@@ -911,7 +995,8 @@
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
       "isActive": true,
-      "type": "Adhoc"
+      "type": "Adhoc",
+      "billGineiURL": "egov-searcher/bill-genie/billswithaddranduser/_get"
     },
     {
       "businessService": "SBM garbage plastic polythene challan",
@@ -921,7 +1006,8 @@
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
       "isActive": true,
-      "type": "Adhoc"
+      "type": "Adhoc",
+      "billGineiURL": "egov-searcher/bill-genie/billswithaddranduser/_get"
     },
     {
       "businessService": "Sanitation.Dead animals contract",
@@ -931,7 +1017,8 @@
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
       "isActive": true,
-      "type": "Adhoc"
+      "type": "Adhoc",
+      "billGineiURL": "egov-searcher/bill-genie/billswithaddranduser/_get"
     },
     {
       "businessService": "Finance Fees.GPF",
@@ -941,7 +1028,8 @@
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
       "isActive": true,
-      "type": "Adhoc"
+      "type": "Adhoc",
+      "billGineiURL": "egov-searcher/bill-genie/billswithaddranduser/_get"
     },
     {
       "businessService": "Rents.Tower Installation",
@@ -951,7 +1039,8 @@
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
       "isActive": true,
-      "type": "Adhoc"
+      "type": "Adhoc",
+      "billGineiURL": "egov-searcher/bill-genie/billswithaddranduser/_get"
     },
     {
       "businessService": "Rents.Tower Annual Rent",
@@ -961,7 +1050,8 @@
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
       "isActive": true,
-      "type": "Adhoc"
+      "type": "Adhoc",
+      "billGineiURL": "egov-searcher/bill-genie/billswithaddranduser/_get"
     },
     {
       "businessService": "Cess.Cow Cess",
@@ -971,7 +1061,8 @@
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
       "isActive": true,
-      "type": "Adhoc"
+      "type": "Adhoc",
+      "billGineiURL": "egov-searcher/bill-genie/billswithaddranduser/_get"
     },
     {
       "businessService": "Tehbazaari Fee.Rehri Challan",
@@ -981,7 +1072,8 @@
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
       "isActive": true,
-      "type": "Adhoc"
+      "type": "Adhoc",
+      "billGineiURL": "egov-searcher/bill-genie/billswithaddranduser/_get"
     },
     {
       "businessService": "License Fee.Manual Rikshaw",
@@ -991,7 +1083,8 @@
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
       "isActive": true,
-      "type": "Adhoc"
+      "type": "Adhoc",
+      "billGineiURL": "egov-searcher/bill-genie/billswithaddranduser/_get"
     },
     {
       "businessService": "Challans.Bidi_And_Cigrette_Challan",
@@ -1001,7 +1094,8 @@
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
       "isActive": true,
-      "type": "Adhoc"
+      "type": "Adhoc",
+      "billGineiURL": "egov-searcher/bill-genie/billswithaddranduser/_get"
     },
     {
       "businessService": "Fee Town Planning.Construction Waste",
@@ -1011,7 +1105,8 @@
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
       "isActive": true,
-      "type": "Adhoc"
+      "type": "Adhoc",
+      "billGineiURL": "egov-searcher/bill-genie/billswithaddranduser/_get"
     },
     {
       "businessService": "Fee Town Planning.Demolition Waste",
@@ -1021,7 +1116,8 @@
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
       "isActive": true,
-      "type": "Adhoc"
+      "type": "Adhoc",
+      "billGineiURL": "egov-searcher/bill-genie/billswithaddranduser/_get"
     },
     {
       "businessService": "Sanitation.SNT Clean_Safai Sanitation",
@@ -1031,7 +1127,8 @@
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
       "isActive": true,
-      "type": "Adhoc"
+      "type": "Adhoc",
+      "billGineiURL": "egov-searcher/bill-genie/billswithaddranduser/_get"
     },
     {
       "businessService": "O&M Fee.Plumber License Fee",
@@ -1041,7 +1138,8 @@
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
       "isActive": true,
-      "type": "Adhoc"
+      "type": "Adhoc",
+      "billGineiURL": "egov-searcher/bill-genie/billswithaddranduser/_get"
     },
     {
       "businessService": "Advertisement Tax.Light Wala Board",
@@ -1051,7 +1149,8 @@
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
       "isActive": true,
-      "type": "Adhoc"
+      "type": "Adhoc",
+      "billGineiURL": "egov-searcher/bill-genie/billswithaddranduser/_get"
     },
     {
       "businessService": "Taxes.House Tax",
@@ -1061,7 +1160,8 @@
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
       "isActive": true,
-      "type": "Adhoc"
+      "type": "Adhoc",
+      "billGineiURL": "egov-searcher/bill-genie/billswithaddranduser/_get"
     },
     {
       "businessService": "Naksha_Building Manual Fees.Hadud Certificate fees",
@@ -1071,7 +1171,8 @@
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
       "isActive": true,
-      "type": "Adhoc"
+      "type": "Adhoc",
+      "billGineiURL": "egov-searcher/bill-genie/billswithaddranduser/_get"
     },
     {
       "businessService": "Naksha_Building Manual Fees.No Due Certificate fees",
@@ -1081,7 +1182,8 @@
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
       "isActive": true,
-      "type": "Adhoc"
+      "type": "Adhoc",
+      "billGineiURL": "egov-searcher/bill-genie/billswithaddranduser/_get"
     },
     {
       "businessService": "Naksha_Building Manual Fees.Colony Sambandhi fees",
@@ -1091,7 +1193,8 @@
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
       "isActive": true,
-      "type": "Adhoc"
+      "type": "Adhoc",
+      "billGineiURL": "egov-searcher/bill-genie/billswithaddranduser/_get"
     },
     {
       "businessService": "Naksha_Building Manual Fees.Naksha fees",
@@ -1101,7 +1204,8 @@
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
       "isActive": true,
-      "type": "Adhoc"
+      "type": "Adhoc",
+      "billGineiURL": "egov-searcher/bill-genie/billswithaddranduser/_get"
     },
     {
       "businessService": "Work Fee.OFC Permission fee",
@@ -1111,7 +1215,8 @@
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
       "isActive": true,
-      "type": "Adhoc"
+      "type": "Adhoc",
+      "billGineiURL": "egov-searcher/bill-genie/billswithaddranduser/_get"
     },
     {
       "businessService": "Naksha_Building Manual Fees.Building_fees",
@@ -1121,7 +1226,8 @@
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
       "isActive": true,
-      "type": "Adhoc"
+      "type": "Adhoc",
+      "billGineiURL": "egov-searcher/bill-genie/billswithaddranduser/_get"
     },
     {
       "businessService": "Naksha_Building Manual Fees.Boundary_wall_fees",
@@ -1131,7 +1237,8 @@
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
       "isActive": true,
-      "type": "Adhoc"
+      "type": "Adhoc",
+      "billGineiURL": "egov-searcher/bill-genie/billswithaddranduser/_get"
     },
     {
       "businessService": "Naksha_Building Manual Fees.Malba_fees",
@@ -1141,7 +1248,8 @@
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
       "isActive": true,
-      "type": "Adhoc"
+      "type": "Adhoc",
+      "billGineiURL": "egov-searcher/bill-genie/billswithaddranduser/_get"
     },
     {
       "businessService": "Naksha_Building Manual Fees.Development_fees",
@@ -1151,7 +1259,8 @@
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
       "isActive": true,
-      "type": "Adhoc"
+      "type": "Adhoc",
+      "billGineiURL": "egov-searcher/bill-genie/billswithaddranduser/_get"
     },
     {
       "businessService": "Naksha_Building Manual Fees.Change_of_land_use_fees",
@@ -1161,7 +1270,8 @@
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
       "isActive": true,
-      "type": "Adhoc"
+      "type": "Adhoc",
+      "billGineiURL": "egov-searcher/bill-genie/billswithaddranduser/_get"
     },
     {
       "businessService": "Naksha_Building Manual Fees.Under_development_fees",
@@ -1171,7 +1281,8 @@
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
       "isActive": true,
-      "type": "Adhoc"
+      "type": "Adhoc",
+      "billGineiURL": "egov-searcher/bill-genie/billswithaddranduser/_get"
     },
     {
       "businessService": "OTHER.Water_Charges",
@@ -1181,7 +1292,8 @@
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
       "isActive": true,
-      "type": "Adhoc"
+      "type": "Adhoc",
+      "billGineiURL": "egov-searcher/bill-genie/billswithaddranduser/_get"
     },
     {
       "businessService": "OTHER.Others_fee",
@@ -1191,7 +1303,8 @@
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
       "isActive": true,
-      "type": "Adhoc"
+      "type": "Adhoc",
+      "billGineiURL": "egov-searcher/bill-genie/billswithaddranduser/_get"
     },
     {
       "businessService": "Cess.Labor Cess",
@@ -1201,7 +1314,8 @@
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
       "isActive": true,
-      "type": "Adhoc"
+      "type": "Adhoc",
+      "billGineiURL": "egov-searcher/bill-genie/billswithaddranduser/_get"
     },
     {
       "businessService": "Finance Fees.Provident Fund Processing Fees",
@@ -1211,7 +1325,8 @@
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
       "isActive": true,
-      "type": "Adhoc"
+      "type": "Adhoc",
+      "billGineiURL": "egov-searcher/bill-genie/billswithaddranduser/_get"
     },
     {
       "businessService": "O&M Fee.Sewerage disconnection connection fees",
@@ -1221,7 +1336,8 @@
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
       "isActive": true,
-      "type": "Adhoc"
+      "type": "Adhoc",
+      "billGineiURL": "egov-searcher/bill-genie/billswithaddranduser/_get"
     },
     {
       "businessService": "Naksha_Building Manual Fees.Economics Weaker Section Scheme Charges",
@@ -1231,7 +1347,8 @@
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
       "isActive": true,
-      "type": "Adhoc"
+      "type": "Adhoc",
+      "billGineiURL": "egov-searcher/bill-genie/billswithaddranduser/_get"
     },
     {
       "businessService": "Naksha_Building Manual Fees.Economics Weaker Section Projects Fees",
@@ -1241,7 +1358,8 @@
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
       "isActive": true,
-      "type": "Adhoc"
+      "type": "Adhoc",
+      "billGineiURL": "egov-searcher/bill-genie/billswithaddranduser/_get"
     },
     {
       "businessService": "O&M Fee.Road cut fees",
@@ -1251,7 +1369,8 @@
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
       "isActive": true,
-      "type": "Adhoc"
+      "type": "Adhoc",
+      "billGineiURL": "egov-searcher/bill-genie/billswithaddranduser/_get"
     },
     {
       "businessService": "ADMIN Fees.Parking booking fee",
@@ -1261,7 +1380,8 @@
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
       "isActive": true,
-      "type": "Adhoc"
+      "type": "Adhoc",
+      "billGineiURL": "egov-searcher/bill-genie/billswithaddranduser/_get"
     },
     {
       "businessService": "Advertisement Tax.Canopy Fee",
@@ -1271,7 +1391,8 @@
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
       "isActive": true,
-      "type": "Adhoc"
+      "type": "Adhoc",
+      "billGineiURL": "egov-searcher/bill-genie/billswithaddranduser/_get"
     },
     {
       "businessService": "Advertisement Tax.Outdoor Media Display Fee",
@@ -1281,7 +1402,8 @@
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
       "isActive": true,
-      "type": "Adhoc"
+      "type": "Adhoc",
+      "billGineiURL": "egov-searcher/bill-genie/billswithaddranduser/_get"
     },
     {
       "businessService": "Taxes.Property Tax 2013-14",
@@ -1291,7 +1413,8 @@
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
       "isActive": false,
-      "type": "Adhoc"
+      "type": "Adhoc",
+      "billGineiURL": "egov-searcher/bill-genie/billswithaddranduser/_get"
     },
     {
       "businessService": "OTHER.Noc_fee",
@@ -1301,7 +1424,8 @@
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
       "isActive": true,
-      "type": "Adhoc"
+      "type": "Adhoc",
+      "billGineiURL": "egov-searcher/bill-genie/billswithaddranduser/_get"
     },
     {
       "businessService": "OTHER.Fire_Noc_fee",
@@ -1311,7 +1435,8 @@
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
       "isActive": true,
-      "type": "Adhoc"
+      "type": "Adhoc",
+      "billGineiURL": "egov-searcher/bill-genie/billswithaddranduser/_get"
     },
     {
       "businessService": "OTHER.Fire_Tender_fee",
@@ -1321,7 +1446,8 @@
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
       "isActive": true,
-      "type": "Adhoc"
+      "type": "Adhoc",
+      "billGineiURL": "egov-searcher/bill-genie/billswithaddranduser/_get"
     },
     {
       "businessService": "OTHER.Fire_Call_Report_fee",
@@ -1331,7 +1457,8 @@
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
       "isActive": true,
-      "type": "Adhoc"
+      "type": "Adhoc",
+      "billGineiURL": "egov-searcher/bill-genie/billswithaddranduser/_get"
     },
     {
       "businessService": "OTHER.Bus_Adda_fee",
@@ -1341,7 +1468,8 @@
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
       "isActive": true,
-      "type": "Adhoc"
+      "type": "Adhoc",
+      "billGineiURL": "egov-searcher/bill-genie/billswithaddranduser/_get"
     },
     {
       "businessService": "Naksha_Building Manual Fees.Rain_Harvesting_Charges",
@@ -1351,7 +1479,8 @@
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
       "isActive": true,
-      "type": "Adhoc"
+      "type": "Adhoc",
+      "billGineiURL": "egov-searcher/bill-genie/billswithaddranduser/_get"
     },
     {
       "businessService": "Finance Fees.Security_Deposit_Fee",
@@ -1361,7 +1490,8 @@
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
       "isActive": true,
-      "type": "Adhoc"
+      "type": "Adhoc",
+      "billGineiURL": "egov-searcher/bill-genie/billswithaddranduser/_get"
     },
     {
       "businessService": "OTHER.Dispensary_fee",
@@ -1371,7 +1501,8 @@
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
       "isActive": true,
-      "type": "Adhoc"
+      "type": "Adhoc",
+      "billGineiURL": "egov-searcher/bill-genie/billswithaddranduser/_get"
     },
     {
       "businessService": "Rents.Sale_of_land",
@@ -1381,7 +1512,8 @@
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
       "isActive": true,
-      "type": "Adhoc"
+      "type": "Adhoc",
+      "billGineiURL": "egov-searcher/bill-genie/billswithaddranduser/_get"
     },
     {
       "businessService": "OTHER.License_fee",
@@ -1391,7 +1523,8 @@
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
       "isActive": true,
-      "type": "Adhoc"
+      "type": "Adhoc",
+      "billGineiURL": "egov-searcher/bill-genie/billswithaddranduser/_get"
     },
     {
       "businessService": "OTHER.Candy_fee",
@@ -1401,7 +1534,8 @@
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
       "isActive": true,
-      "type": "Adhoc"
+      "type": "Adhoc",
+      "billGineiURL": "egov-searcher/bill-genie/billswithaddranduser/_get"
     },
     {
       "businessService": "OTHER.Conservancy_fee",
@@ -1411,7 +1545,8 @@
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
       "isActive": true,
-      "type": "Adhoc"
+      "type": "Adhoc",
+      "billGineiURL": "egov-searcher/bill-genie/billswithaddranduser/_get"
     },
     {
       "businessService": "Naksha_Building Manual Fees.Sub_division_charges",
@@ -1421,7 +1556,8 @@
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
       "isActive": true,
-      "type": "Adhoc"
+      "type": "Adhoc",
+      "billGineiURL": "egov-searcher/bill-genie/billswithaddranduser/_get"
     },
     {
       "businessService": "Naksha_Building Manual Fees.Information_certificate_fees",
@@ -1431,7 +1567,8 @@
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
       "isActive": true,
-      "type": "Adhoc"
+      "type": "Adhoc",
+      "billGineiURL": "egov-searcher/bill-genie/billswithaddranduser/_get"
     },
     {
       "businessService": "Naksha_Building Manual Fees.Building_safety_certificate",
@@ -1441,7 +1578,8 @@
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
       "isActive": true,
-      "type": "Adhoc"
+      "type": "Adhoc",
+      "billGineiURL": "egov-searcher/bill-genie/billswithaddranduser/_get"
     },
     {
       "businessService": "OTHER.Street_light_pole_transfer_fee",
@@ -1451,7 +1589,8 @@
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
       "isActive": true,
-      "type": "Adhoc"
+      "type": "Adhoc",
+      "billGineiURL": "egov-searcher/bill-genie/billswithaddranduser/_get"
     },
     {
       "businessService": "Challans.Collection_and_demolition_waste_challan",
@@ -1461,7 +1600,8 @@
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
       "isActive": true,
-      "type": "Adhoc"
+      "type": "Adhoc",
+      "billGineiURL": "egov-searcher/bill-genie/billswithaddranduser/_get"
     },
     {
       "businessService": "Challans.Burning_of_waste_challan",
@@ -1471,7 +1611,8 @@
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
       "isActive": true,
-      "type": "Adhoc"
+      "type": "Adhoc",
+      "billGineiURL": "egov-searcher/bill-genie/billswithaddranduser/_get"
     },
     {
       "businessService": "TL.RENEWAL",
