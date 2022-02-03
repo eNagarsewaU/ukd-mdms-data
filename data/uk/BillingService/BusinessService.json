@@ -58,7 +58,6 @@
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
-      "isBillAmendmentEnabled": "true",
       "isActive": true,
       "type": "Adhoc",
       "billGineiURL": "egov-searcher/bill-genie/billswithaddranduser/_get"
