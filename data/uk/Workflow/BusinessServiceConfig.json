@@ -3,7 +3,7 @@
   "moduleName": "Workflow",
   "BusinessServiceConfig": [
     {
-      "code": "NEWTL",
+      "code": "NewTL",
       "isStateLevel": true
     },
     {
