@@ -6376,7 +6376,7 @@
         "displayName": "BillGenie",
         "orderNumber": 5,
         "parentModule": "",
-        "enabled": false,
+        "enabled": true,
         "serviceCode": "BG",
         "code": "null",
         "navigationURL": "abg/billSearch",
@@ -13179,6 +13179,18 @@
          "navigationURL":"report/rainmaker-tl/TradeLicenseRegistryReport",
          "leftIcon":"action:assignment",
          "rightIcon":""
+      },
+        
+         "id":2386,
+         "name":"Bill Genie search",
+         "url":"/egov-searcher/bill-genie/billswithaddranduser/_get",
+         "displayName":"Bill Genie",
+         "orderNumber":8,
+         "parentModule":"",
+         "enabled":true,
+         "serviceCode":"Bill Genie",
+         "code":"null",
+         "path":""
       }
     ]
   }
