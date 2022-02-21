@@ -39,6 +39,42 @@
       "tenantId": "uk"
     },
     {
+      "rolecode": "PTCEMP",
+      "actionid": 1827,
+      "actioncode": "",
+      "tenantId": "uk"
+    },
+ {
+      "rolecode": "PTCEMP",
+      "actionid": 2386,
+      "actioncode": "",
+      "tenantId": "uk"
+    },
+    {
+      "rolecode": "TL_CEMP",
+      "actionid": 1827,
+      "actioncode": "",
+      "tenantId": "uk"
+    },
+    {
+      "rolecode": "TL_CEMP",
+      "actionid": 2386,
+      "actioncode": "",
+      "tenantId": "uk"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 2386,
+      "actioncode": "",
+      "tenantId": "uk"
+    },
+        {
+      "rolecode": "CITIZEN",
+      "actionid": 2386,
+      "actioncode": "",
+      "tenantId": "uk"
+    },
+    {
       "rolecode": "SUPERUSER",
       "actionid": 405,
       "actioncode": "",
