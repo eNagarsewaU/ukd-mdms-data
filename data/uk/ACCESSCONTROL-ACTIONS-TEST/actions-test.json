@@ -10921,7 +10921,7 @@
         "displayName": "2 Year limit of Renewal Building Naksha Payment search",
         "orderNumber": 1,
         "parentModule": "",
-        "enabled": "FALSE",
+        "enabled": "true",
         "serviceCode": "",
         "code": null,
         "path": ""
