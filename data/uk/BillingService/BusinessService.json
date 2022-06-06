@@ -3,17 +3,15 @@
   "moduleName": "BillingService",
   "BusinessService": [
     {
-        "businessService": "PropertyTax",
-        "code": "PT",
-        "collectionModesNotAllowed": ["CREDIT", "DEBIT", "CARD"],
-        "partPaymentAllowed": true,
-        "isAdvanceAllowed": true,
-        "demandUpdateTime": 86400000,
-        "isVoucherCreationEnabled": true,
-        "isBillAmendmentEnabled": "true",
-        "hasOnlinePayment": true,
-        "billGineiURL": "egov-searcher/bill-genie/billswithaddranduser/_get"
-      },
+      "businessService": "PropertyTax",
+      "code": "PT",
+      "collectionModesNotAllowed": [ "CREDIT", "DEBIT", "CARD"],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": true,
+      "demandUpdateTime": 86400000,
+      "isVoucherCreationEnabled": true,
+      "hasOnlinePayment": true
+    },
     {
       "businessService": "WaterCharges",
       "code": "WC",
@@ -54,7 +52,7 @@
     {
       "businessService": "ADMIN Fees.Election rally fees",
       "code": "ADMN.Election_rally_fees",
-      "collectionModesNotAllowed": [],
+      "collectionModesNotAllowed": ["CREDIT", "DEBIT", "CARD"],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
@@ -64,7 +62,7 @@
     {
       "businessService": "ADMIN Fees.Parking during election",
       "code": "ADMN.Parking_during_election",
-      "collectionModesNotAllowed": [],
+      "collectionModesNotAllowed": ["CREDIT", "DEBIT", "CARD"],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
@@ -74,7 +72,7 @@
     {
       "businessService": "ADMIN Fees.Road show",
       "code": "ADMN.Road_show",
-      "collectionModesNotAllowed": [],
+      "collectionModesNotAllowed": ["CREDIT", "DEBIT", "CARD"],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
@@ -84,7 +82,7 @@
     {
       "businessService": "ADMIN Fees.other show fee",
       "code": "ADMN.other_show_fee",
-      "collectionModesNotAllowed": [],
+      "collectionModesNotAllowed": ["CREDIT", "DEBIT", "CARD"],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
@@ -94,7 +92,7 @@
     {
       "businessService": "ADMIN Fees.RTI",
       "code": "ADMN.RTI",
-      "collectionModesNotAllowed": [],
+      "collectionModesNotAllowed": ["CREDIT", "DEBIT", "CARD"],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
@@ -104,7 +102,7 @@
     {
       "businessService": "ADMIN Fees.No Due Certificate fees",
       "code": "ADMN.No_Due_Certificate_fees",
-      "collectionModesNotAllowed": [],
+      "collectionModesNotAllowed": ["CREDIT", "DEBIT", "CARD"],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
@@ -114,7 +112,7 @@
     {
       "businessService": "Advertisement Tax.Hoardings",
       "code": "ADVT.Hoardings",
-      "collectionModesNotAllowed": [],
+      "collectionModesNotAllowed": ["CREDIT", "DEBIT", "CARD"],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
@@ -124,7 +122,7 @@
     {
       "businessService": "Advertisement Tax.Unipolls",
       "code": "ADVT.Unipolls",
-      "collectionModesNotAllowed": [],
+      "collectionModesNotAllowed": ["CREDIT", "DEBIT", "CARD"],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
@@ -134,7 +132,7 @@
     {
       "businessService": "Advertisement Tax.Wall Paint Advertisement",
       "code": "ADVT.Wall_Paint_Advertisement",
-      "collectionModesNotAllowed": [],
+      "collectionModesNotAllowed": ["CREDIT", "DEBIT", "CARD"],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
@@ -144,7 +142,7 @@
     {
       "businessService": "Advertisement Tax.Gas Balloon Advertisement",
       "code": "ADVT.Gas_Balloon_Advertisement",
-      "collectionModesNotAllowed": [],
+      "collectionModesNotAllowed": ["CREDIT", "DEBIT", "CARD"],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
@@ -154,7 +152,7 @@
     {
       "businessService": "Challans.Rehri Challan",
       "code": "CH.Rehri_Challan",
-      "collectionModesNotAllowed": [],
+      "collectionModesNotAllowed": ["CREDIT", "DEBIT", "CARD"],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
@@ -164,7 +162,7 @@
     {
       "businessService": "Challans.Cattle Challan",
       "code": "CH.Cattle_Challan",
-      "collectionModesNotAllowed": [],
+      "collectionModesNotAllowed": ["CREDIT", "DEBIT", "CARD"],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
@@ -174,7 +172,7 @@
     {
       "businessService": "Challans.Dairy Animals Challan",
       "code": "CH.Dairy_Animals_Challan",
-      "collectionModesNotAllowed": [],
+      "collectionModesNotAllowed": ["CREDIT", "DEBIT", "CARD"],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
@@ -184,7 +182,7 @@
     {
       "businessService": "Finance Fees.Leave encashment and gratuity",
       "code": "FN.Leave_encashment_and_gratuity",
-      "collectionModesNotAllowed": [],
+      "collectionModesNotAllowed": ["CREDIT", "DEBIT", "CARD"],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
@@ -194,7 +192,7 @@
     {
       "businessService": "Finance Fees.Advance Provident Fund",
       "code": "FN.Advance_Provident_Fund",
-      "collectionModesNotAllowed": [],
+      "collectionModesNotAllowed": ["CREDIT", "DEBIT", "CARD"],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
@@ -204,7 +202,7 @@
     {
       "businessService": "Finance Fees.Recovery employee_contractor",
       "code": "FN.Recovery_employee_contractor",
-      "collectionModesNotAllowed": [],
+      "collectionModesNotAllowed": ["CREDIT", "DEBIT", "CARD"],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
@@ -214,7 +212,7 @@
     {
       "businessService": "Finance Fees.Grants cheque",
       "code": "FN.Grants_cheque",
-      "collectionModesNotAllowed": [],
+      "collectionModesNotAllowed": ["CREDIT", "DEBIT", "CARD"],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
@@ -224,7 +222,7 @@
     {
       "businessService": "Finance Fees.CPF received check",
       "code": "FN.CPF_received_check",
-      "collectionModesNotAllowed": [],
+      "collectionModesNotAllowed": ["CREDIT", "DEBIT", "CARD"],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
@@ -234,7 +232,7 @@
     {
       "businessService": "Finance Fees.Tender Form Fee",
       "code": "FN.Tender_Form_Fee",
-      "collectionModesNotAllowed": [],
+      "collectionModesNotAllowed": ["CREDIT", "DEBIT", "CARD"],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
@@ -244,7 +242,7 @@
     {
       "businessService": "Finance Fees.Tender Earnest Money Deposit",
       "code": "FN.Tender_Earnest_Money_Deposit",
-      "collectionModesNotAllowed": [],
+      "collectionModesNotAllowed": ["CREDIT", "DEBIT", "CARD"],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
@@ -254,7 +252,7 @@
     {
       "businessService": "Finance Fees.Tender Security Deposit Fee",
       "code": "FN.Tender_Security_Deposit_Fee",
-      "collectionModesNotAllowed": [],
+      "collectionModesNotAllowed": ["CREDIT", "DEBIT", "CARD"],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
@@ -264,7 +262,7 @@
     {
       "businessService": "Naksha_Building Manual Fees.Regularisation of Buildings",
       "code": "NKS.Regularisation_of_Buildings",
-      "collectionModesNotAllowed": [],
+      "collectionModesNotAllowed": ["CREDIT", "DEBIT", "CARD"],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
@@ -274,7 +272,7 @@
     {
       "businessService": "OTHER.Misc Challans",
       "code": "OTHER.Misc_Challans",
-      "collectionModesNotAllowed": [],
+      "collectionModesNotAllowed": ["CREDIT", "DEBIT", "CARD"],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
@@ -284,7 +282,7 @@
     {
       "businessService": "OTHER.Registery and bank loan",
       "code": "OTHER.Registery_and_bank_loan",
-      "collectionModesNotAllowed": [],
+      "collectionModesNotAllowed": ["CREDIT", "DEBIT", "CARD"],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
@@ -294,7 +292,7 @@
     {
       "businessService": "Rents.ULB Shops Rent",
       "code": "RT.ULB_Shops_Rent",
-      "collectionModesNotAllowed": [],
+      "collectionModesNotAllowed": ["CREDIT", "DEBIT", "CARD"],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
@@ -304,7 +302,7 @@
     {
       "businessService": "Rents.ULB Land Rent",
       "code": "RT.ULB_Land_Rent",
-      "collectionModesNotAllowed": [],
+      "collectionModesNotAllowed": ["CREDIT", "DEBIT", "CARD"],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
@@ -314,7 +312,7 @@
     {
       "businessService": "Rents.Nazool Land Rent",
       "code": "RT.Nazool_Land_Rent",
-      "collectionModesNotAllowed": [],
+      "collectionModesNotAllowed": ["CREDIT", "DEBIT", "CARD"],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
@@ -324,7 +322,7 @@
     {
       "businessService": "Rents.ULB  Parking Fee",
       "code": "RT.ULB__Parking_Fee",
-      "collectionModesNotAllowed": [],
+      "collectionModesNotAllowed": ["CREDIT", "DEBIT", "CARD"],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
@@ -334,7 +332,7 @@
     {
       "businessService": "Rents.Jamin Theka",
       "code": "RT.Jamin_Theka",
-      "collectionModesNotAllowed": [],
+      "collectionModesNotAllowed": ["CREDIT", "DEBIT", "CARD"],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
@@ -344,7 +342,7 @@
     {
       "businessService": "Rents.Telecom Tower Annual Rent",
       "code": "RT.Telecom_Tower_Annual_Rent",
-      "collectionModesNotAllowed": [],
+      "collectionModesNotAllowed": ["CREDIT", "DEBIT", "CARD"],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
@@ -354,7 +352,7 @@
     {
       "businessService": "Rents.Community Centre Booking Fee",
       "code": "RT.Community_Centre_Booking_Fee",
-      "collectionModesNotAllowed": [],
+      "collectionModesNotAllowed": ["CREDIT", "DEBIT", "CARD"],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
@@ -364,7 +362,7 @@
     {
       "businessService": "Rents.Commercial Use of Municipal Land",
       "code": "RT.Commercial_Use_of_Municipal_Land",
-      "collectionModesNotAllowed": [],
+      "collectionModesNotAllowed": ["CREDIT", "DEBIT", "CARD"],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
@@ -374,7 +372,7 @@
     {
       "businessService": "Rents.Street Vendor",
       "code": "RT.Street_Vendor",
-      "collectionModesNotAllowed": [],
+      "collectionModesNotAllowed": ["CREDIT", "DEBIT", "CARD"],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
@@ -384,7 +382,7 @@
     {
       "businessService": "Health.Licence Pure food",
       "code": "HL.Licence_Pure_food",
-      "collectionModesNotAllowed": [],
+      "collectionModesNotAllowed": ["CREDIT", "DEBIT", "CARD"],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
@@ -394,7 +392,7 @@
     {
       "businessService": "Health.Dead animals contract",
       "code": "HL.Dead_animals_contract",
-      "collectionModesNotAllowed": [],
+      "collectionModesNotAllowed": ["CREDIT", "DEBIT", "CARD"],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
@@ -404,7 +402,7 @@
     {
       "businessService": "Health.Sanitation Tax",
       "code": "HL.Sanitation_Tax",
-      "collectionModesNotAllowed": [],
+      "collectionModesNotAllowed": ["CREDIT", "DEBIT", "CARD"],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
@@ -414,7 +412,7 @@
     {
       "businessService": "Health.Birth Registration Fees",
       "code": "HL.Birth_Registration_Fees",
-      "collectionModesNotAllowed": [],
+      "collectionModesNotAllowed": ["CREDIT", "DEBIT", "CARD"],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
@@ -424,7 +422,7 @@
     {
       "businessService": "Health.Death Registration Fees",
       "code": "HL.Death_Registration_Fees",
-      "collectionModesNotAllowed": [],
+      "collectionModesNotAllowed": ["CREDIT", "DEBIT", "CARD"],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
@@ -434,7 +432,7 @@
     {
       "businessService": "Health.Dumping garbage Challan",
       "code": "HL.Dumping_garbage_Challan",
-      "collectionModesNotAllowed": [],
+      "collectionModesNotAllowed": ["CREDIT", "DEBIT", "CARD"],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
@@ -444,7 +442,7 @@
     {
       "businessService": "Health.Plastic polythene Challan",
       "code": "HL.Plastic_polythene_Challan",
-      "collectionModesNotAllowed": [],
+      "collectionModesNotAllowed": ["CREDIT", "DEBIT", "CARD"],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
@@ -454,7 +452,7 @@
     {
       "businessService": "Health.Dengue Challan",
       "code": "HL.Dengue_Challan",
-      "collectionModesNotAllowed": [],
+      "collectionModesNotAllowed": ["CREDIT", "DEBIT", "CARD"],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
@@ -464,7 +462,7 @@
     {
       "businessService": "Health.Littering Challan",
       "code": "HL.Littering_Challan",
-      "collectionModesNotAllowed": [],
+      "collectionModesNotAllowed": ["CREDIT", "DEBIT", "CARD"],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
@@ -474,7 +472,7 @@
     {
       "businessService": "Health.Construction Waste",
       "code": "HL.Construction_Waste",
-      "collectionModesNotAllowed": [],
+      "collectionModesNotAllowed": ["CREDIT", "DEBIT", "CARD"],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
@@ -484,7 +482,7 @@
     {
       "businessService": "Health.Demolition Waste",
       "code": "HL.Demolition_Waste",
-      "collectionModesNotAllowed": [],
+      "collectionModesNotAllowed": ["CREDIT", "DEBIT", "CARD"],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
@@ -494,17 +492,17 @@
     {
       "businessService": "Taxes.No Dues Certificate",
       "code": "TX.No_Dues_Certificate",
-      "collectionModesNotAllowed": [],
+      "collectionModesNotAllowed": ["CREDIT", "DEBIT", "CARD"],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
-      "isActive": false,
+      "isActive": true,
       "type": "Adhoc"
     },
     {
       "businessService": "Taxes.Mutation Fees",
       "code": "TX.Mutation_Fees",
-      "collectionModesNotAllowed": [],
+      "collectionModesNotAllowed": ["CREDIT", "DEBIT", "CARD"],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
@@ -514,7 +512,7 @@
     {
       "businessService": "Taxes.Naqal Fees",
       "code": "TX.Naqal_Fees",
-      "collectionModesNotAllowed": [],
+      "collectionModesNotAllowed": ["CREDIT", "DEBIT", "CARD"],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
@@ -524,7 +522,7 @@
     {
       "businessService": "Taxes.Encroachment Challan ",
       "code": "TX.Encroachment_Challan",
-      "collectionModesNotAllowed": [],
+      "collectionModesNotAllowed": ["CREDIT", "DEBIT", "CARD"],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
@@ -534,7 +532,7 @@
     {
       "businessService": "Tehbazaari Fee.Tehbazaari",
       "code": "TB.Tehbazaari",
-      "collectionModesNotAllowed": [],
+      "collectionModesNotAllowed": ["CREDIT", "DEBIT", "CARD"],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
@@ -544,7 +542,7 @@
     {
       "businessService": "Tehbazaari Fee.Challan Under section 156",
       "code": "TB.Challan_Under_section_156",
-      "collectionModesNotAllowed": [],
+      "collectionModesNotAllowed": ["CREDIT", "DEBIT", "CARD"],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
@@ -554,7 +552,7 @@
     {
       "businessService": "Cess.Cess",
       "code": "Cess.Cess",
-      "collectionModesNotAllowed": [],
+      "collectionModesNotAllowed": ["CREDIT", "DEBIT", "CARD"],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
@@ -564,7 +562,7 @@
     {
       "businessService": "Rents.Municipal Shops Rent",
       "code": "RT.Municipal_Shops_Rent",
-      "collectionModesNotAllowed": [],
+      "collectionModesNotAllowed": ["CREDIT", "DEBIT", "CARD"],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
@@ -574,7 +572,7 @@
     {
       "businessService": "Rents.Land Rent",
       "code": "RT.Land_Rent",
-      "collectionModesNotAllowed": [],
+      "collectionModesNotAllowed": ["CREDIT", "DEBIT", "CARD"],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
@@ -584,7 +582,7 @@
     {
       "businessService": "Rents.Tower Rent",
       "code": "RT.Tower_Rent",
-      "collectionModesNotAllowed": [],
+      "collectionModesNotAllowed": ["CREDIT", "DEBIT", "CARD"],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
@@ -594,7 +592,7 @@
     {
       "businessService": "Rents.Parking Fee",
       "code": "RT.Parking_Fee",
-      "collectionModesNotAllowed": [],
+      "collectionModesNotAllowed": ["CREDIT", "DEBIT", "CARD"],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
@@ -604,7 +602,7 @@
     {
       "businessService": "Stationary.Stationary (Not Income)",
       "code": "ST.Stationary_Not_Income",
-      "collectionModesNotAllowed": [],
+      "collectionModesNotAllowed": ["CREDIT", "DEBIT", "CARD"],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
@@ -614,7 +612,7 @@
     {
       "businessService": "Stationary.Expenditure santitation (Not Income)",
       "code": "ST.Expenditure_santitation_Not_Income",
-      "collectionModesNotAllowed": [],
+      "collectionModesNotAllowed": ["CREDIT", "DEBIT", "CARD"],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
@@ -624,7 +622,7 @@
     {
       "businessService": "Challans.Santitation dumping garbage",
       "code": "CH.Santitation_dumping_garbage",
-      "collectionModesNotAllowed": [],
+      "collectionModesNotAllowed": ["CREDIT", "DEBIT", "CARD"],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
@@ -634,7 +632,7 @@
     {
       "businessService": "Fee Town Planning.Telecom tower fees",
       "code": "FTP.Telecom_tower_fees",
-      "collectionModesNotAllowed": [],
+      "collectionModesNotAllowed": ["CREDIT", "DEBIT", "CARD"],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
@@ -644,7 +642,7 @@
     {
       "businessService": "Taxes.Electricity Chungi",
       "code": "TX.Electricity_Chungi",
-      "collectionModesNotAllowed": [],
+      "collectionModesNotAllowed": ["CREDIT", "DEBIT", "CARD"],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
@@ -654,7 +652,7 @@
     {
       "businessService": "Fee Town Planning.Draftsmen fees",
       "code": "FTP.Draftsmen_fees",
-      "collectionModesNotAllowed": [],
+      "collectionModesNotAllowed": ["CREDIT", "DEBIT", "CARD"],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
@@ -664,7 +662,7 @@
     {
       "businessService": "Fee Town Planning.Compremasing fees",
       "code": "FTP.Compremasing_fees",
-      "collectionModesNotAllowed": [],
+      "collectionModesNotAllowed": ["CREDIT", "DEBIT", "CARD"],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
@@ -674,7 +672,7 @@
     {
       "businessService": "Fee Town Planning.Building planner renew",
       "code": "FTP.Building_planner_renew",
-      "collectionModesNotAllowed": [],
+      "collectionModesNotAllowed": ["CREDIT", "DEBIT", "CARD"],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
@@ -684,7 +682,7 @@
     {
       "businessService": "Naksha_Building Manual Fees.Naksha samjota fees",
       "code": "NKS.Naksha_samjota_fees",
-      "collectionModesNotAllowed": [],
+      "collectionModesNotAllowed": ["CREDIT", "DEBIT", "CARD"],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
@@ -694,7 +692,7 @@
     {
       "businessService": "Naksha_Building Manual Fees.Naksha changes",
       "code": "NKS.Naksha_changes",
-      "collectionModesNotAllowed": [],
+      "collectionModesNotAllowed": ["CREDIT", "DEBIT", "CARD"],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
@@ -704,7 +702,7 @@
     {
       "businessService": "Fee Town Planning.License fees building branch",
       "code": "FTP.License_fees_building_branch",
-      "collectionModesNotAllowed": [],
+      "collectionModesNotAllowed": ["CREDIT", "DEBIT", "CARD"],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
@@ -714,7 +712,7 @@
     {
       "businessService": "O&M Fee.Water connection_disconnection fees",
       "code": "OM.Water_connection_disconnection_fees",
-      "collectionModesNotAllowed": [],
+      "collectionModesNotAllowed": ["CREDIT", "DEBIT", "CARD"],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
@@ -724,7 +722,7 @@
     {
       "businessService": "Naksha_Building Manual Fees.Naksha renew fees",
       "code": "NKS.Naksha_renew_fees",
-      "collectionModesNotAllowed": [],
+      "collectionModesNotAllowed": ["CREDIT", "DEBIT", "CARD"],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
@@ -734,7 +732,7 @@
     {
       "businessService": "Naksha_Building Manual Fees.NOC_Completion of building approval",
       "code": "NKS.NOC_Completion_of_building_approval",
-      "collectionModesNotAllowed": [],
+      "collectionModesNotAllowed": ["CREDIT", "DEBIT", "CARD"],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
@@ -744,7 +742,7 @@
     {
       "businessService": "Naksha_Building Manual Fees.Alteration additional charge",
       "code": "NKS.Alteration_additional_charge",
-      "collectionModesNotAllowed": [],
+      "collectionModesNotAllowed": ["CREDIT", "DEBIT", "CARD"],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
@@ -754,7 +752,7 @@
     {
       "businessService": "Naksha_Building Manual Fees.2 year time limit of Renewal Building Naksha",
       "code": "NKS.2_year_time_limit_of_Renewal_Building_Naksha",
-      "collectionModesNotAllowed": [],
+      "collectionModesNotAllowed": ["CREDIT", "DEBIT", "CARD"],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
@@ -764,7 +762,7 @@
     {
       "businessService": "Fee Town Planning.Leave encashment and gratuty",
       "code": "FTP.Leave_encashment_and_gratuty",
-      "collectionModesNotAllowed": [],
+      "collectionModesNotAllowed": ["CREDIT", "DEBIT", "CARD"],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
@@ -774,7 +772,7 @@
     {
       "businessService": "Challans.Plastic Challan",
       "code": "CH.Plastic_Challan",
-      "collectionModesNotAllowed": [],
+      "collectionModesNotAllowed": ["CREDIT", "DEBIT", "CARD"],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
@@ -784,7 +782,7 @@
     {
       "businessService": "Challans.Challan for Misuse of Water",
       "code": "CH.Challan_for_Misuse_of_Water",
-      "collectionModesNotAllowed": [],
+      "collectionModesNotAllowed": ["CREDIT", "DEBIT", "CARD"],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
@@ -794,7 +792,7 @@
     {
       "businessService": "Challans.Dengue Challan",
       "code": "CH.Dengue_Challan",
-      "collectionModesNotAllowed": [],
+      "collectionModesNotAllowed": ["CREDIT", "DEBIT", "CARD"],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
@@ -804,7 +802,7 @@
     {
       "businessService": "Challans.Littering Challan",
       "code": "CH.Littering_Challan",
-      "collectionModesNotAllowed": [],
+      "collectionModesNotAllowed": ["CREDIT", "DEBIT", "CARD"],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
@@ -814,7 +812,7 @@
     {
       "businessService": "Sanitation.Licence Pure food",
       "code": "SNT.Licence_Pure_food",
-      "collectionModesNotAllowed": [],
+      "collectionModesNotAllowed": ["CREDIT", "DEBIT", "CARD"],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
@@ -824,7 +822,7 @@
     {
       "businessService": "Work Fee.Contractor Enlistment",
       "code": "WF.Contractor_Enlistment",
-      "collectionModesNotAllowed": [],
+      "collectionModesNotAllowed": ["CREDIT", "DEBIT", "CARD"],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
@@ -834,7 +832,7 @@
     {
       "businessService": "Work Fee.Tender Form Fee",
       "code": "WF.Tender Form Fee",
-      "collectionModesNotAllowed": [],
+      "collectionModesNotAllowed": ["CREDIT", "DEBIT", "CARD"],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
@@ -844,7 +842,7 @@
     {
       "businessService": "Tehbazaari Fee.Advertisement fee",
       "code": "TB.Advertisement_fee",
-      "collectionModesNotAllowed": [],
+      "collectionModesNotAllowed": ["CREDIT", "DEBIT", "CARD"],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
@@ -854,7 +852,7 @@
     {
       "businessService": "Finance Fees.PF transfer (Accounts)",
       "code": "FN.PF_transfer_(Accounts)",
-      "collectionModesNotAllowed": [],
+      "collectionModesNotAllowed": ["CREDIT", "DEBIT", "CARD"],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
@@ -864,7 +862,7 @@
     {
       "businessService": "Taxes.TS1 copy register for old survey",
       "code": "TX.TS1_copy_register_for_old_survey",
-      "collectionModesNotAllowed": [],
+      "collectionModesNotAllowed": ["CREDIT", "DEBIT", "CARD"],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
@@ -874,7 +872,7 @@
     {
       "businessService": "Taxes.Transfer Property Fees",
       "code": "TX.Transfer_Property_Fees",
-      "collectionModesNotAllowed": [],
+      "collectionModesNotAllowed": ["CREDIT", "DEBIT", "CARD"],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
@@ -884,7 +882,7 @@
     {
       "businessService": "ADMIN Fees.No Dues Certificate",
       "code": "ADMN.No_Dues_Certificate",
-      "collectionModesNotAllowed": [],
+      "collectionModesNotAllowed": ["CREDIT", "DEBIT", "CARD"],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
@@ -894,7 +892,7 @@
     {
       "businessService": "Fee Town Planning.Architect license fee",
       "code": "FTP.Architect_license_fee",
-      "collectionModesNotAllowed": [],
+      "collectionModesNotAllowed": ["CREDIT", "DEBIT", "CARD"],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
@@ -904,7 +902,7 @@
     {
       "businessService": "OTHER.No due certificate electricity",
       "code": "OTHER.No_due_certificate_electricity",
-      "collectionModesNotAllowed": [],
+      "collectionModesNotAllowed": ["CREDIT", "DEBIT", "CARD"],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
@@ -914,7 +912,7 @@
     {
       "businessService": "SBM garbage plastic polythene challan",
       "code": "CH.SBM_garbage_plastic_polythene_challan",
-      "collectionModesNotAllowed": [],
+      "collectionModesNotAllowed": ["CREDIT", "DEBIT", "CARD"],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
@@ -924,7 +922,7 @@
     {
       "businessService": "Sanitation.Dead animals contract",
       "code": "SNT.Dead_animals_contract",
-      "collectionModesNotAllowed": [],
+      "collectionModesNotAllowed": ["CREDIT", "DEBIT", "CARD"],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
@@ -934,7 +932,7 @@
     {
       "businessService": "Finance Fees.GPF",
       "code": "FN.GPF",
-      "collectionModesNotAllowed": [],
+      "collectionModesNotAllowed": ["CREDIT", "DEBIT", "CARD"],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
@@ -944,7 +942,7 @@
     {
       "businessService": "Rents.Tower Installation",
       "code": "RT.Tower_Installation",
-      "collectionModesNotAllowed": [],
+      "collectionModesNotAllowed": ["CREDIT", "DEBIT", "CARD"],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
@@ -954,7 +952,7 @@
     {
       "businessService": "Rents.Tower Annual Rent",
       "code": "RT.Tower_Annual_Rent",
-      "collectionModesNotAllowed": [],
+      "collectionModesNotAllowed": ["CREDIT", "DEBIT", "CARD"],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
@@ -964,7 +962,7 @@
     {
       "businessService": "Cess.Cow Cess",
       "code": "CSS.cow_cess",
-      "collectionModesNotAllowed": [],
+      "collectionModesNotAllowed": ["CREDIT", "DEBIT", "CARD"],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
@@ -974,7 +972,7 @@
     {
       "businessService": "Tehbazaari Fee.Rehri Challan",
       "code": "TB.Rehri_Challan",
-      "collectionModesNotAllowed": [],
+      "collectionModesNotAllowed": ["CREDIT", "DEBIT", "CARD"],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
@@ -984,7 +982,7 @@
     {
       "businessService": "License Fee.Manual Rikshaw",
       "code": "LCF.Manual_Rikshaw",
-      "collectionModesNotAllowed": [],
+      "collectionModesNotAllowed": ["CREDIT", "DEBIT", "CARD"],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
@@ -994,7 +992,7 @@
     {
       "businessService": "Challans.Bidi_And_Cigrette_Challan",
       "code": "CH.Bidi_And_Cigrette_Challan",
-      "collectionModesNotAllowed": [],
+      "collectionModesNotAllowed": ["CREDIT", "DEBIT", "CARD"],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
@@ -1004,7 +1002,7 @@
     {
       "businessService": "Fee Town Planning.Construction Waste",
       "code": "FTP.Construction_Waste",
-      "collectionModesNotAllowed": [],
+      "collectionModesNotAllowed": ["CREDIT", "DEBIT", "CARD"],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
@@ -1014,7 +1012,7 @@
     {
       "businessService": "Fee Town Planning.Demolition Waste",
       "code": "FTP.Demolition_Waste",
-      "collectionModesNotAllowed": [],
+      "collectionModesNotAllowed": ["CREDIT", "DEBIT", "CARD"],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
@@ -1024,7 +1022,7 @@
     {
       "businessService": "Sanitation.SNT Clean_Safai Sanitation",
       "code": "SNT.clean_safai_sanitation",
-      "collectionModesNotAllowed": [],
+      "collectionModesNotAllowed": ["CREDIT", "DEBIT", "CARD"],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
@@ -1034,7 +1032,7 @@
     {
       "businessService": "O&M Fee.Plumber License Fee",
       "code": "OM.Plumber_License_Fee",
-      "collectionModesNotAllowed": [],
+      "collectionModesNotAllowed": ["CREDIT", "DEBIT", "CARD"],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
@@ -1044,7 +1042,7 @@
     {
       "businessService": "Advertisement Tax.Light Wala Board",
       "code": "ADVT.Light_Wala_Board",
-      "collectionModesNotAllowed": [],
+      "collectionModesNotAllowed": ["CREDIT", "DEBIT", "CARD"],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
@@ -1054,17 +1052,17 @@
     {
       "businessService": "Taxes.House Tax",
       "code": "TX.House_Tax",
-      "collectionModesNotAllowed": [],
+      "collectionModesNotAllowed": ["CREDIT", "DEBIT", "CARD"],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
-      "isActive": true,
+      "isActive": false,
       "type": "Adhoc"
     },
     {
       "businessService": "Naksha_Building Manual Fees.Hadud Certificate fees",
       "code": "NKS.Hadud_Certificate_fees",
-      "collectionModesNotAllowed": [],
+      "collectionModesNotAllowed": ["CREDIT", "DEBIT", "CARD"],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
@@ -1074,7 +1072,7 @@
     {
       "businessService": "Naksha_Building Manual Fees.No Due Certificate fees",
       "code": "NKS.No_Due_Certificate_fees",
-      "collectionModesNotAllowed": [],
+      "collectionModesNotAllowed": ["CREDIT", "DEBIT", "CARD"],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
@@ -1084,7 +1082,7 @@
     {
       "businessService": "Naksha_Building Manual Fees.Colony Sambandhi fees",
       "code": "NKS.Colony_Sambandhi_fees",
-      "collectionModesNotAllowed": [],
+      "collectionModesNotAllowed": ["CREDIT", "DEBIT", "CARD"],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
@@ -1094,7 +1092,7 @@
     {
       "businessService": "Naksha_Building Manual Fees.Naksha fees",
       "code": "NKS.Naksha_fees",
-      "collectionModesNotAllowed": [],
+      "collectionModesNotAllowed": ["CREDIT", "DEBIT", "CARD"],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
@@ -1104,7 +1102,7 @@
     {
       "businessService": "Work Fee.OFC Permission fee",
       "code": "WF.OFC_Permission_fees",
-      "collectionModesNotAllowed": [],
+      "collectionModesNotAllowed": ["CREDIT", "DEBIT", "CARD"],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
@@ -1114,7 +1112,7 @@
     {
       "businessService": "Naksha_Building Manual Fees.Building_fees",
       "code": "NKS.Building_fees",
-      "collectionModesNotAllowed": [],
+      "collectionModesNotAllowed": ["CREDIT", "DEBIT", "CARD"],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
@@ -1124,7 +1122,7 @@
     {
       "businessService": "Naksha_Building Manual Fees.Boundary_wall_fees",
       "code": "NKS.Boundary_wall_fees",
-      "collectionModesNotAllowed": [],
+      "collectionModesNotAllowed": ["CREDIT", "DEBIT", "CARD"],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
@@ -1134,7 +1132,7 @@
     {
       "businessService": "Naksha_Building Manual Fees.Malba_fees",
       "code": "NKS.Malba_fees",
-      "collectionModesNotAllowed": [],
+      "collectionModesNotAllowed": ["CREDIT", "DEBIT", "CARD"],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
@@ -1144,7 +1142,7 @@
     {
       "businessService": "Naksha_Building Manual Fees.Development_fees",
       "code": "NKS.Development_fees",
-      "collectionModesNotAllowed": [],
+      "collectionModesNotAllowed": ["CREDIT", "DEBIT", "CARD"],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
@@ -1154,7 +1152,7 @@
     {
       "businessService": "Naksha_Building Manual Fees.Change_of_land_use_fees",
       "code": "NKS.Change_of_land_use_fees",
-      "collectionModesNotAllowed": [],
+      "collectionModesNotAllowed": ["CREDIT", "DEBIT", "CARD"],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
@@ -1164,7 +1162,7 @@
     {
       "businessService": "Naksha_Building Manual Fees.Under_development_fees",
       "code": "NKS.Under_development_fees",
-      "collectionModesNotAllowed": [],
+      "collectionModesNotAllowed": ["CREDIT", "DEBIT", "CARD"],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
@@ -1174,7 +1172,7 @@
     {
       "businessService": "OTHER.Water_Charges",
       "code": "OTHER.Water_Charges",
-      "collectionModesNotAllowed": [],
+      "collectionModesNotAllowed": ["CREDIT", "DEBIT", "CARD"],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
@@ -1184,7 +1182,7 @@
     {
       "businessService": "OTHER.Others_fee",
       "code": "OTHER.Others_fee",
-      "collectionModesNotAllowed": [],
+      "collectionModesNotAllowed": ["CREDIT", "DEBIT", "CARD"],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
@@ -1194,7 +1192,7 @@
     {
       "businessService": "Cess.Labor Cess",
       "code": "CSS.labor_cess",
-      "collectionModesNotAllowed": [],
+      "collectionModesNotAllowed": ["CREDIT", "DEBIT", "CARD"],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
@@ -1204,7 +1202,7 @@
     {
       "businessService": "Finance Fees.Provident Fund Processing Fees",
       "code": "FN.Provident_Fund_Processing_Fees",
-      "collectionModesNotAllowed": [],
+      "collectionModesNotAllowed": ["CREDIT", "DEBIT", "CARD"],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
@@ -1214,7 +1212,7 @@
     {
       "businessService": "O&M Fee.Sewerage disconnection connection fees",
       "code": "OM.Sewerage_disconnection_connection_fees",
-      "collectionModesNotAllowed": [],
+      "collectionModesNotAllowed": ["CREDIT", "DEBIT", "CARD"],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
@@ -1224,7 +1222,7 @@
     {
       "businessService": "Naksha_Building Manual Fees.Economics Weaker Section Scheme Charges",
       "code": "NKS.Economics_Weaker_Section_Scheme_Charges",
-      "collectionModesNotAllowed": [],
+      "collectionModesNotAllowed": ["CREDIT", "DEBIT", "CARD"],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
@@ -1234,7 +1232,7 @@
     {
       "businessService": "Naksha_Building Manual Fees.Economics Weaker Section Projects Fees",
       "code": "NKS.Economics_Weaker_Section_Projects_Fees",
-      "collectionModesNotAllowed": [],
+      "collectionModesNotAllowed": ["CREDIT", "DEBIT", "CARD"],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
@@ -1244,7 +1242,7 @@
     {
       "businessService": "O&M Fee.Road cut fees",
       "code": "OM.Road_cut_fees",
-      "collectionModesNotAllowed": [],
+      "collectionModesNotAllowed": ["CREDIT", "DEBIT", "CARD"],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
@@ -1254,7 +1252,7 @@
     {
       "businessService": "ADMIN Fees.Parking booking fee",
       "code": "ADMN.Parking_booking_fee",
-      "collectionModesNotAllowed": [],
+      "collectionModesNotAllowed": ["CREDIT", "DEBIT", "CARD"],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
@@ -1264,7 +1262,7 @@
     {
       "businessService": "Advertisement Tax.Canopy Fee",
       "code": "ADVT.Canopy_Fee",
-      "collectionModesNotAllowed": [],
+      "collectionModesNotAllowed": ["CREDIT", "DEBIT", "CARD"],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
@@ -1274,7 +1272,7 @@
     {
       "businessService": "Advertisement Tax.Outdoor Media Display Fee",
       "code": "ADVT.Outdoor_Media_Display_Fee",
-      "collectionModesNotAllowed": [],
+      "collectionModesNotAllowed": ["CREDIT", "DEBIT", "CARD"],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
@@ -1284,7 +1282,7 @@
     {
       "businessService": "Taxes.Property Tax 2013-14",
       "code": "TX.Property_Tax_2013-14",
-      "collectionModesNotAllowed": [],
+      "collectionModesNotAllowed": ["CREDIT", "DEBIT", "CARD"],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
@@ -1294,7 +1292,7 @@
     {
       "businessService": "OTHER.Noc_fee",
       "code": "OTHER.Noc_fee",
-      "collectionModesNotAllowed": [],
+      "collectionModesNotAllowed": ["CREDIT", "DEBIT", "CARD"],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
@@ -1304,7 +1302,7 @@
     {
       "businessService": "OTHER.Fire_Noc_fee",
       "code": "OTHER.Fire_Noc_fee",
-      "collectionModesNotAllowed": [],
+      "collectionModesNotAllowed": ["CREDIT", "DEBIT", "CARD"],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
@@ -1314,7 +1312,7 @@
     {
       "businessService": "OTHER.Fire_Tender_fee",
       "code": "OTHER.Fire_Tender_fee",
-      "collectionModesNotAllowed": [],
+      "collectionModesNotAllowed": ["CREDIT", "DEBIT", "CARD"],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
@@ -1324,7 +1322,7 @@
     {
       "businessService": "OTHER.Fire_Call_Report_fee",
       "code": "OTHER.Fire_Call_Report_fee",
-      "collectionModesNotAllowed": [],
+      "collectionModesNotAllowed": ["CREDIT", "DEBIT", "CARD"],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
@@ -1334,7 +1332,7 @@
     {
       "businessService": "OTHER.Bus_Adda_fee",
       "code": "OTHER.Bus_Adda_fee",
-      "collectionModesNotAllowed": [],
+      "collectionModesNotAllowed": ["CREDIT", "DEBIT", "CARD"],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
@@ -1344,7 +1342,7 @@
     {
       "businessService": "Naksha_Building Manual Fees.Rain_Harvesting_Charges",
       "code": "NKS.Rain_Harvesting_charges",
-      "collectionModesNotAllowed": [],
+      "collectionModesNotAllowed": ["CREDIT", "DEBIT", "CARD"],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
@@ -1354,7 +1352,7 @@
     {
       "businessService": "Finance Fees.Security_Deposit_Fee",
       "code": "FN.Security_Deposit_Fee",
-      "collectionModesNotAllowed": [],
+      "collectionModesNotAllowed": ["CREDIT", "DEBIT", "CARD"],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
@@ -1364,7 +1362,7 @@
     {
       "businessService": "OTHER.Dispensary_fee",
       "code": "OTHER.Dispensary_fee",
-      "collectionModesNotAllowed": [],
+      "collectionModesNotAllowed": ["CREDIT", "DEBIT", "CARD"],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
@@ -1374,7 +1372,7 @@
     {
       "businessService": "Rents.Sale_of_land",
       "code": "RT.Sale_of_land",
-      "collectionModesNotAllowed": [],
+      "collectionModesNotAllowed": ["CREDIT", "DEBIT", "CARD"],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
@@ -1384,7 +1382,7 @@
     {
       "businessService": "OTHER.License_fee",
       "code": "OTHER.License_fee",
-      "collectionModesNotAllowed": [],
+      "collectionModesNotAllowed": ["CREDIT", "DEBIT", "CARD"],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
@@ -1394,7 +1392,7 @@
     {
       "businessService": "OTHER.Candy_fee",
       "code": "OTHER.Candy_fee",
-      "collectionModesNotAllowed": [],
+      "collectionModesNotAllowed": ["CREDIT", "DEBIT", "CARD"],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
@@ -1404,7 +1402,7 @@
     {
       "businessService": "OTHER.Conservancy_fee",
       "code": "OTHER.Conservancy_fee",
-      "collectionModesNotAllowed": [],
+      "collectionModesNotAllowed": ["CREDIT", "DEBIT", "CARD"],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
@@ -1414,7 +1412,7 @@
     {
       "businessService": "Naksha_Building Manual Fees.Sub_division_charges",
       "code": "NKS.Sub_division_charges",
-      "collectionModesNotAllowed": [],
+      "collectionModesNotAllowed": ["CREDIT", "DEBIT", "CARD"],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
@@ -1424,7 +1422,7 @@
     {
       "businessService": "Naksha_Building Manual Fees.Information_certificate_fees",
       "code": "NKS.Information_certificate_fees",
-      "collectionModesNotAllowed": [],
+      "collectionModesNotAllowed": ["CREDIT", "DEBIT", "CARD"],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
@@ -1434,7 +1432,7 @@
     {
       "businessService": "Naksha_Building Manual Fees.Building_safety_certificate",
       "code": "NKS.Building_safety_certificate",
-      "collectionModesNotAllowed": [],
+      "collectionModesNotAllowed": ["CREDIT", "DEBIT", "CARD"],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
@@ -1444,7 +1442,7 @@
     {
       "businessService": "OTHER.Street_light_pole_transfer_fee",
       "code": "OTHER.Street_light_pole_transfer_fee",
-      "collectionModesNotAllowed": [],
+      "collectionModesNotAllowed": ["CREDIT", "DEBIT", "CARD"],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
@@ -1454,7 +1452,7 @@
     {
       "businessService": "Challans.Collection_and_demolition_waste_challan",
       "code": "CH.Collection_and_demolition_waste_challan",
-      "collectionModesNotAllowed": [],
+      "collectionModesNotAllowed": ["CREDIT", "DEBIT", "CARD"],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
@@ -1464,7 +1462,7 @@
     {
       "businessService": "Challans.Burning_of_waste_challan",
       "code": "CH.Burning_of_waste_challan",
-      "collectionModesNotAllowed": [],
+      "collectionModesNotAllowed": ["CREDIT", "DEBIT", "CARD"],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
@@ -1474,7 +1472,326 @@
     {
       "businessService": "TL.RENEWAL",
       "code": "TL.RENEWAL",
-      "collectionModesNotAllowed": ["DD"],
+      "collectionModesNotAllowed": [],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true
+    },
+    {
+      "businessService": "Taxes.Hoarding Unipoll Wallpaint Gasballoon Polekiosk Gateentry Other",
+      "code": "TX.Hoarding_Unipoll_Wallpaint_Gasballoon_Polekiosk_Gateentry_Other",
+      "collectionModesNotAllowed": ["CREDIT", "DEBIT", "CARD"],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Adhoc"
+    },
+    {
+      "businessService": "Taxes.Show Tax",
+      "code": "TX.Show_Tax",
+      "collectionModesNotAllowed": ["CREDIT", "DEBIT", "CARD"],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Adhoc"
+    },
+    {
+      "businessService": "Taxes.G S T",
+      "code": "TX.G_S_T",
+      "collectionModesNotAllowed": ["CREDIT", "DEBIT", "CARD"],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Adhoc"
+    },
+    {
+      "businessService": "Rents.Park Rent",
+      "code": "RT.Park_Rent",
+      "collectionModesNotAllowed": ["CREDIT", "DEBIT", "CARD"],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Adhoc"
+    },
+    {
+      "businessService": "Other Fee And Fines.Copy Fee",
+      "code": "OTFF.Copy_Fee",
+      "collectionModesNotAllowed": ["CREDIT", "DEBIT", "CARD"],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Adhoc"
+    },
+    {
+      "businessService": "Other Fee And Fines.File Observation Fee",
+      "code": "OTFF.File_Observation_Fee",
+      "collectionModesNotAllowed": ["CREDIT", "DEBIT", "CARD"],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Adhoc"
+    },
+    {
+      "businessService": "Other Fee And Fines.Vehicle Parking Fee",
+      "code": "OTFF.Vehicle_Parking_Fee",
+      "collectionModesNotAllowed": ["CREDIT", "DEBIT", "CARD"],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Adhoc"
+    },
+    {
+      "businessService": "Other Fee And Fines.Contract Registration Fee",
+      "code": "OTFF.Contract_Registration_Fee",
+      "collectionModesNotAllowed": ["CREDIT", "DEBIT", "CARD"],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Adhoc"
+    },
+    {
+      "businessService": "Other Fee And Fines.Contract Renewal Fees",
+      "code": "OTFF.Contract_Renewal_Fees",
+      "collectionModesNotAllowed": ["CREDIT", "DEBIT", "CARD"],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Adhoc"
+    },
+    {
+      "businessService": "Other Fee And Fines.Development Charges",
+      "code": "OTFF.Development_Charges",
+      "collectionModesNotAllowed": ["CREDIT", "DEBIT", "CARD"],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Adhoc"
+    },
+    {
+      "businessService": "Other Fee And Fines.Exhibition Fee",
+      "code": "OTFF.Exhibition_Fee",
+      "collectionModesNotAllowed": ["CREDIT", "DEBIT", "CARD"],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Adhoc"
+    },
+    {
+      "businessService": "Other Fee And Fines.Animal Slaughtering Fees Buffalo",
+      "code": "OTFF.Animal_Slaughtering_Fees_Buffalo",
+      "collectionModesNotAllowed": ["CREDIT", "DEBIT", "CARD"],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Adhoc"
+    },
+    {
+      "businessService": "Other Fee And Fines.Animal Slaughtering Fees Goat",
+      "code": "OTFF.Animal_Slaughtering_Fees_Goat",
+      "collectionModesNotAllowed": ["CREDIT", "DEBIT", "CARD"],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Adhoc"
+    },
+    {
+      "businessService": "Other Fee And Fines.Amplifier Fees",
+      "code": "OTFF.Amplifier_Fees",
+      "collectionModesNotAllowed": ["CREDIT", "DEBIT", "CARD"],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Adhoc"
+    },
+    {
+      "businessService": "Other Fee And Fines.Self Assisment Form Fees",
+      "code": "OTFF.Self_Assisment_Form_Fees",
+      "collectionModesNotAllowed": ["CREDIT", "DEBIT", "CARD"],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Adhoc"
+    },
+    {
+      "businessService": "Other Fee And Fines.Premium",
+      "code": "OTFF.Premium",
+      "collectionModesNotAllowed": ["CREDIT", "DEBIT", "CARD"],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Adhoc"
+    },
+    {
+      "businessService": "Other Fee And Fines.Late Fees",
+      "code": "OTFF.Late_Fees",
+      "collectionModesNotAllowed": ["CREDIT", "DEBIT", "CARD"],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Adhoc"
+    },
+    {
+      "businessService": "Other Fee And Fines.Tender Form Fee",
+      "code": "OTFF.Tender_Form_Fee",
+      "collectionModesNotAllowed": ["CREDIT", "DEBIT", "CARD"],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Adhoc"
+    },
+    {
+      "businessService": "User Charges.Pay And Use Toilets Charges",
+      "code": "UC.Pay_And_Use_Toilets_Charges",
+      "collectionModesNotAllowed": ["CREDIT", "DEBIT", "CARD"],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Adhoc"
+    },
+    {
+      "businessService": "User Charges.Garbage Collection Charges Residential",
+      "code": "UC.Garbage_Collection_Charges_Residential",
+      "collectionModesNotAllowed": ["CREDIT", "DEBIT", "CARD"],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Adhoc"
+    },
+    {
+      "businessService": "User Charges.Garbage Collection Charges Commercial",
+      "code": "UC.Garbage_Collection_Charges_Commercial",
+      "collectionModesNotAllowed": ["CREDIT", "DEBIT", "CARD"],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Adhoc"
+    },
+    {
+      "businessService": "Sale And Hire Charges.Sale Of Forms And Publications",
+      "code": "SLHC.Sale_Of_Forms_And_Publications",
+      "collectionModesNotAllowed": ["CREDIT", "DEBIT", "CARD"],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Adhoc"
+    },
+    {
+      "businessService": "Sale And Hire Charges.Sale Of Stores Scrap",
+      "code": "SLHC.Sale_Of_Stores_Scrap",
+      "collectionModesNotAllowed": ["CREDIT", "DEBIT", "CARD"],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Adhoc"
+    },
+    {
+      "businessService": "Grants And Interest Earned.Interest From Sb Accounts",
+      "code": "GTINER.Interest_From_Sb_Accounts",
+      "collectionModesNotAllowed": ["CREDIT", "DEBIT", "CARD"],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Adhoc"
+    },
+    {
+      "businessService": "Others.Profit On Disposal Of Fixed Assets",
+      "code": "OTHERS.Profit_On_Disposal_Of_Fixed_Assets",
+      "collectionModesNotAllowed": ["CREDIT", "DEBIT", "CARD"],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Adhoc"
+    },
+    {
+      "businessService": "Others.Recovery From Employees Or Contracters",
+      "code": "OTHERS.Recovery_From_Employees_Or_Contracters",
+      "collectionModesNotAllowed": ["CREDIT", "DEBIT", "CARD"],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Adhoc"
+    },
+    {
+      "businessService": "Taxes.Compounding Fee",
+      "code": "TX.Compounding_Fee",
+      "collectionModesNotAllowed": ["CREDIT", "DEBIT", "CARD"],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Adhoc"
+    },
+    {
+      "businessService": "Taxes.Information Fee",
+      "code": "TX.Information_Fee",
+      "collectionModesNotAllowed": ["CREDIT", "DEBIT", "CARD"],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Adhoc"
+    },
+    {
+      "businessService": "Taxes.Self Assessment Form Fee",
+      "code": "TX.Self_Assessment_Form_Fee",
+      "collectionModesNotAllowed": ["CREDIT", "DEBIT", "CARD"],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Adhoc"
+    },
+    {
+      "businessService": "Taxes.Assessment Copy Fee",
+      "code": "TX.Assessment_Copy_Fee",
+      "collectionModesNotAllowed": ["CREDIT", "DEBIT", "CARD"],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Adhoc"
+    },
+    {
+      "businessService": "Taxes.Publication Fee",
+      "code": "TX.Publication_Fee",
+      "collectionModesNotAllowed": ["CREDIT", "DEBIT", "CARD"],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Adhoc"
+    },
+    {
+      "businessService": "TL.RENEWAL",
+      "code": "TL.RENEWAL",
+      "collectionModesNotAllowed": [],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
@@ -1483,7 +1800,10 @@
     {
       "businessService": "PT.MUTATION",
       "code": "PT.MUTATION",
-      "collectionModesNotAllowed": ["POSTAL_ORDER"],
+      "collectionModesNotAllowed": [
+        
+        "POSTAL_ORDER"
+      ],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,

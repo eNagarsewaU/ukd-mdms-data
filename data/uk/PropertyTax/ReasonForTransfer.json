@@ -53,7 +53,14 @@
     {
       "code": "FREEHOLDREGISTRY",
       "active": true
+    },
+    {
+      "code": "NAMECORRECTIONCLERICAL",
+      "active": true
+    },
+    {
+      "code": "RELINQUISHDEED",
+      "active": true
     }
-    
   ]
 }

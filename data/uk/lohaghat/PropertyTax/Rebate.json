@@ -10,13 +10,13 @@
       "startingDay": 1601510400000,
       "endingDay": 1602806399000
     },
-     {
-      "rate": 0,
+    {
+      "rate": 5,
       "maxAmount": null,
       "flatAmount": null,
       "fromFY": "2021-22",
       "startingDay": 1617235200000,
-      "endingDay": 1648771199000
+      "endingDay": 1648684800000
     }
   ]
 }

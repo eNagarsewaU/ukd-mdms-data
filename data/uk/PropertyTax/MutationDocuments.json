@@ -17,11 +17,12 @@
         "UNREGISTEREDWILLDEED",
         "PROPERTYAUCTION",
         "PARTITIONDEED",
-        "SUCESSTIONORDEATHCERTIFICATE",
+        "SUCCESSIONORDEATHCERTIFICATE",
         "PATTACERTIFICATE",
         "COURTDECREE",
         "FAMILYSETTLEMENT",
-        "FREEHOLDREGISTRY"
+        "FREEHOLDREGISTRY",
+        "RELINQUISHDEED"
       ],
       "dropdownData": [
         {
@@ -47,7 +48,8 @@
         "PROPERTYAUCTION",
         "PARTITIONDEED",
         "PATTACERTIFICATE",
-        "FREEHOLDREGISTRY"
+        "FREEHOLDREGISTRY",
+        "RELINQUISHDEED"
       ],
       "dropdownData": [
         {
@@ -89,11 +91,12 @@
         "UNREGISTEREDWILLDEED",
         "PROPERTYAUCTION",
         "PARTITIONDEED",
-        "SUCESSTIONORDEATHCERTIFICATE",
+        "SUCCESSIONORDEATHCERTIFICATE",
         "PATTACERTIFICATE",
         "COURTDECREE",
         "FAMILYSETTLEMENT",
-        "FREEHOLDREGISTRY"
+        "FREEHOLDREGISTRY",
+        "RELINQUISHDEED"
       ],
       "dropdownData": [
         {
@@ -130,7 +133,7 @@
       "mutationReason": [
         "REGISTEREDWILLDEED",
         "UNREGISTEREDWILLDEED",
-        "SUCESSTIONORDEATHCERTIFICATE"
+        "SUCCESSIONORDEATHCERTIFICATE"
       ],
       "dropdownData": [
         {
@@ -152,42 +155,9 @@
       ],
       "dropdownData": [
         {
-          "code": "OWNER.PROPERTYOWNERSHIP.KHATAUNI",
-          "active": true
-        },
-	{
-          "code": "OWNER.PROPERTYOWNERSHIP.FREEHOLDREGISTERY",
-          "active": true
-        },
-	{
-          "code": "OWNER.PROPERTYOWNERSHIP.SALEDEED",
-          "active": true
-        },
-	{
-          "code": "OWNER.PROPERTYOWNERSHIP.WILLDEED",
-          "active": true
-        },
-	{
-          "code": "OWNER.PROPERTYOWNERSHIP.PATTA_OR_LEASE_DEED",
-          "active": true
-        },
-	{
-          "code": "OWNER.PROPERTYOWNERSHIP.GIFTDEED",
-          "active": true
-        },
-	{
-          "code": "OWNER.PROPERTYOWNERSHIP.SUCESSION_OR_DEATH",
-          "active": true
-        },
-	{
-          "code": "OWNER.PROPERTYOWNERSHIP.COURTDECREE",
-          "active": true
-        },
-	{
-          "code": "OWNER.PROPERTYOWNERSHIP.AUCTIONDEED",
+          "code": "OWNER.PROPERTYOWNERSHIP",
           "active": true
         }
-
       ],
       "description": "OWNER.PROPERTYOWNERSHIP.PROPERTYOWNERSHIP_DESCRIPTION"
     },
@@ -216,8 +186,8 @@
       "active": true,
       "hasDropdown": true,
       "mutationReason": [
-        "REGISTEREDWILLDEED",
-        "SUCESSTIONORDEATHCERTIFICATE"
+        
+        "SUCCESSIONORDEATHCERTIFICATE"
       ],
       "dropdownData": [
         {
@@ -302,7 +272,7 @@
       "active": true,
       "hasDropdown": true,
       "mutationReason": [
-        "SUCESSTIONORDEATHCERTIFICATE",
+        "SUCCESSIONORDEATHCERTIFICATE",
         "FAMILYSETTLEMENT"
       ],
       "dropdownData": [
@@ -320,7 +290,7 @@
       "active": true,
       "hasDropdown": true,
       "mutationReason": [
-        "SUCESSTIONORDEATHCERTIFICATE",
+        "SUCCESSIONORDEATHCERTIFICATE",
         "COURTDECREE",
         "FAMILYSETTLEMENT"
       ],
@@ -365,7 +335,7 @@
         "UNREGISTEREDWILLDEED",
         "PROPERTYAUCTION",
         "PARTITIONDEED",
-        "SUCESSTIONORDEATHCERTIFICATE",
+        "SUCCESSIONORDEATHCERTIFICATE",
         "PATTACERTIFICATE",
         "COURTDECREE",
         "FAMILYSETTLEMENT"
@@ -446,6 +416,40 @@
         }
       ],
       "description": "OWNER.SPECIALCATEGORYPROOF.SPECIALCATEGORYPROOF_DESCRIPTION"
+    },
+    {
+      "code": "OWNER.DEPARTMENTLETTER",
+      "documentType": "OWNER",
+      "required": true,
+      "active": true,
+      "hasDropdown": true,
+      "mutationReason": [
+        "NAMECORRECTIONCLERICAL"
+      ],
+      "dropdownData": [
+        {
+          "code": "OWNER.DEPARTMENTAUTHORIZEDPERSONLETTER",
+          "active": true
+        }
+      ],
+      "description": "OWNER.DEPARTMENTAUTHORIZEDPERSONLETTER.DEPARTMENTAUTHORIZEDPERSONLETTER_DESCRIPTION"
+    },
+    {
+      "code": "OWNER.REGISTEREDDEED",
+      "documentType": "OWNER",
+      "required": true,
+      "active": true,
+      "hasDropdown": true,
+      "mutationReason": [
+        "RELINQUISHDEED"
+      ],
+      "dropdownData": [
+        {
+          "code": "OWNER.REGISTEREDDEED",
+          "active": true
+        }
+      ],
+      "description": "OWNER.REGISTEREDDEED.REGISTEREDDEED_DESCRIPTION"
     }
   ]
 }
