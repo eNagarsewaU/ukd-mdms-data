@@ -9449,6 +9449,18 @@
       "serviceCode": "Searcher",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 2138,
+      "name": "Single Window Integration",
+      "url": "/tl-services/swi/_sso",
+      "parentModule": "",
+      "displayName": "Single Sign on",
+      "orderNumber": 1,
+      "enabled": false,
+      "serviceCode": "Single Sign On",
+      "code": "null",
+      "path": ""
     }
   ]
 }
