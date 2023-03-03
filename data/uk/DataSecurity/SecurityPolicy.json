@@ -125,7 +125,7 @@
           ]
         },
         {
-          "roles": ["WS_CEMP", "SW_CEMP"],
+          "roles": ["WS_CEMP","SW_CEMP"],
           "attributeAccessList": [
             {
               "attribute": "mobileNumber",
@@ -481,6 +481,7 @@
         {
           "roles": ["EMPLOYEE"],
           "attributeAccessList": [
+
             {
               "attribute": "ownerType",
               "firstLevelVisibility": "MASKED",
@@ -503,6 +504,7 @@
         "jsonPath": "uuid"
       },
       "attributes": [
+
         {
           "name": "connectionHoldersMobileNumber",
           "jsonPath": "mobileNumber",
@@ -614,7 +616,8 @@
           "defaultVisibility": "PLAIN"
         }
       ],
-      "roleBasedDecryptionPolicy": []
+      "roleBasedDecryptionPolicy": [
+      ]
     },
     {
       "model": "WnsReceiptRegisterReport",
@@ -630,7 +633,8 @@
           "defaultVisibility": "PLAIN"
         }
       ],
-      "roleBasedDecryptionPolicy": []
+      "roleBasedDecryptionPolicy": [
+      ]
     },
     {
       "model": "WnsCollectionRegisterReport",
@@ -646,7 +650,8 @@
           "defaultVisibility": "PLAIN"
         }
       ],
-      "roleBasedDecryptionPolicy": []
+      "roleBasedDecryptionPolicy": [
+      ]
     },
     {
       "model": "WnsDefaulterReport",
@@ -662,7 +667,8 @@
           "defaultVisibility": "PLAIN"
         }
       ],
-      "roleBasedDecryptionPolicy": []
+      "roleBasedDecryptionPolicy": [
+      ]
     },
     {
       "model": "InboxWnS",
@@ -715,6 +721,22 @@
     },
     {
       "model": "MiscReceiptULBCancelled",
+      "uniqueIdentifier": {
+        "name": "user_uuid",
+        "jsonPath": "user_uuid"
+      },
+      "attributes": [
+        {
+          "name": "username",
+          "jsonPath": "username",
+          "patternId": "002",
+          "defaultVisibility": "PLAIN"
+        }
+      ],
+      "roleBasedDecryptionPolicy": []
+    },
+    {
+      "model": "MiscReceiptULBShort",
       "uniqueIdentifier": {
         "name": "user_uuid",
         "jsonPath": "user_uuid"

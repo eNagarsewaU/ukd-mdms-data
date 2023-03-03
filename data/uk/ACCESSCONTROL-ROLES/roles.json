@@ -1,8 +1,7 @@
 {
   "tenantId": "uk",
   "moduleName": "ACCESSCONTROL-ROLES",
-  "roles": [
-    {
+  "roles": [{
       "code": "CITIZEN",
       "name": "Citizen",
       "description": "Citizen who can raise complaint"

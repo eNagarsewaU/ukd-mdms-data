@@ -258,48 +258,48 @@
         {
           "code": "uk.uttarkhand"
         },
-        {
+	{
+   	  "code": "uk.nainital"
+	},
+	{
           "code": "uk.satpuli"
         },
-        {
-          "code": "uk.bhikiyasain"
-        },
-        {
-          "code": "uk.nainital"
-        },
-        {
-          "code": "uk.chaukhutiya"
-        },
-	      {
-	        "code": "uk.selaqui"
-	      },
-	      {
-	        "code": "uk.dhandhera"
-	      },
-	      {
-	        "code": "uk.imlikhera"
-	      },
-	      {
-	        "code": "uk.rampur"
-	      },
-	      {
-	        "code": "uk.nagla"
-       	},
-      	{
-	        "code": "uk.garur"
-	      },
-	      {
-	        "code": "uk.thalisain"
-	      },
-	      {
-	        "code": "uk.lalpur"
-       	},
-	      {
-	        "code": "uk.padligurjar"
-	      },
-      	{
-	        "code": "uk.tapovan"
-       	}
+	{
+	  "code": "uk.bhikiyasain"
+	},
+	{
+	  "code": "uk.chaukhutiya"
+	},
+	{
+	  "code": "uk.selaqui"
+	},
+	{
+	  "code": "uk.dhandhera"
+	},
+	{
+	  "code": "uk.imlikhera"
+	},
+	{
+	  "code": "uk.rampur"
+	},
+	{
+	  "code": "uk.nagla"
+	},
+	{
+	  "code": "uk.garur"
+	},
+	{
+	  "code": "uk.thalisain"
+	},
+	{
+	  "code": "uk.lalpur"
+	},
+	{
+	  "code": "uk.padligurjar"
+	},
+	{
+	  "code": "uk.tapovan"
+	}
       ]
     },
     {
@@ -307,10 +307,10 @@
       "code": "PT",
       "tenants": [
         {
-          "code": "uk.haldwani"
+          "code": "uk.haridwar"
         },
         {
-          "code": "uk.haridwar"
+          "code": "uk.haldwani"
         },
         {
           "code": "uk.roorkee"
@@ -325,61 +325,106 @@
           "code": "uk.rishikesh"
         },
         {
+          "code": "uk.testing"
+        },
+        {
           "code": "uk.kotdwar"
         },
         {
           "code": "uk.chamba"
         },
         {
+          "code": "uk.badrinath"
+        },
+        {
+          "code": "uk.swargashramjonk"
+        },
+        {
+          "code": "uk.narendranagar"
+        },
+        {
+          "code": "uk.dugadda"
+        },
+	      {
+          "code": "uk.lohaghat"
+        },
+	      {
+          "code": "uk.chamoligopeshwar"
+        },
+	      {
+          "code": "uk.joshimath"
+        },
+	      {
+          "code": "uk.mussorie"
+        },
+	      {
+          "code": "uk.rudraprayag"
+        },
+	      {
+          "code": "uk.ramnagar"
+        },
+	      {
+          "code": "uk.manglaur"
+        },
+	      {
+          "code": "uk.vikasnagar"
+        },
+        {
           "code": "uk.uttarkashi"
-        },
-        {
-          "code": "uk.almora"
-        },
-        {
-          "code": "uk.jaspur"
-        },
-        {
-          "code": "uk.shaktigarh"
-        },
-        {
-          "code": "uk.augustmuni"
-        },
-        {
-          "code": "uk.bageshwar"
-        },
-        {
-          "code": "uk.banbasa"
-        },
-        {
-          "code": "uk.berinag"
         },
         {
           "code": "uk.bhimtal"
         },
         {
-          "code": "uk.bhowali"
-        },
-        {
-          "code": "uk.chamiyala"
+          "code": "uk.bageshwar"
         },
         {
           "code": "uk.dwarahat"
         },
         {
-          "code": "uk.gadarpur"
+          "code": "uk.nainital"
+        },
+        {
+          "code": "uk.pithoragarh"
+        },
+        {
+          "code": "uk.doiwala"
+        },
+        {
+          "code": "uk.herbertpur"
+        },
+        {
+          "code": "uk.berinag"
+        },
+        {
+          "code": "uk.pirankaliyar"
+        },
+        {
+          "code": "uk.pauri"
+        },
+        {
+          "code": "uk.champawat"
+        },  
+	{
+          "code": "uk.augustmuni"
+        },
+        {
+          "code": "uk.bazpur"
+        },
+        {
+          "code": "uk.dharchula"
+        },
+        {
+          "code": "uk.dineshpur"
         },
         {
           "code": "uk.gairsain"
         },
         {
-          "code": "uk.gaja"
-        },
-        {
           "code": "uk.gauchar"
         },
-        {
-          "code": "uk.joshimath"
+	{
+          "code": "uk.jhabrera"
         },
         {
           "code": "uk.kaladhungi"
@@ -388,76 +433,10 @@
           "code": "uk.karnaprayag"
         },
         {
-          "code": "uk.kedarnath"
-        },
-        {
-          "code": "uk.lohaghat"
-        },
-        {
-          "code": "uk.mahuwadawara"
-        },
-        {
-          "code": "uk.manglaur"
-        },
-        {
-          "code": "uk.pauri"
-        },
-        {
-          "code": "uk.pithoragarh"
-        },
-        {
-          "code": "uk.pokhari"
-        },
-        {
-          "code": "uk.ramnagar"
-        },
-        {
-          "code": "uk.rudraprayag"
-        },
-        {
-          "code": "uk.srinagar"
-        },
-        {
-          "code": "uk.swargashramjonk"
-        },
-        {
-          "code": "uk.tilwara"
-        },
-        {
-          "code": "uk.ukhimath"
-        },
-        {
-          "code": "uk.vikasnagar"
-        },
-        {
-          "code": "uk.dugadda"
-        },
-        {
-          "code": "uk.ghansali"
-        },
-        {
           "code": "uk.lalkuan"
         },
         {
-          "code": "uk.mahuakheraganj"
-        },
-        {
-          "code": "uk.narendranagar"
-        },
-        {
-          "code": "uk.barkot"
-        },
-        {
-          "code": "uk.chinyalisaur"
-        },
-        {
-          "code": "uk.gangotri"
-        },
-        {
-          "code": "uk.kirtinagar"
-        },
-        {
-          "code": "uk.lambgaon"
+          "code": "uk.mahuwadawara"
         },
         {
           "code": "uk.munikireti"
@@ -466,146 +445,116 @@
           "code": "uk.nandprayag"
         },
         {
-          "code": "uk.purola"
+          "code": "uk.srinagar"
         },
         {
-          "code": "uk.tharali"
-        },
-        {
-          "code": "uk.gangolihat"
-        },
-        {
-          "code": "uk.devaprayag"
-        },
-        {
-          "code": "uk.nanakmatta"
-        },
-        {
-          "code": "uk.dharchula"
-        },
-        {
-          "code": "uk.herbertpur"
-        },
-        {
-          "code": "uk.sitarganj"
-        },
-        {
-          "code": "uk.sultanpur"
-        },
-        {
-          "code": "uk.bazpur"
-        },
-        {
-          "code": "uk.dineshpur"
-        },
-        {
-          "code": "uk.khatima"
+          "code": "uk.bhowali"
         },
         {
           "code": "uk.kichha"
         },
         {
-          "code": "uk.badrinath"
+          "code": "uk.kirtinagar"
         },
         {
-          "code": "uk.tanakpur"
+          "code": "uk.tharali"
         },
-        {
-          "code": "uk.pirankaliyar"
-        },
-        {
-          "code": "uk.kapkot"
-        },
-        {
-          "code": "uk.champawat"
-        },
-        {
-          "code": "uk.chamoligopeshwar"
-        },
-        {
-          "code": "uk.bhagwanpur"
-        },
-        {
+	{
           "code": "uk.didihat"
         },
-        {
-          "code": "uk.doiwala"
+	{
+          "code": "uk.pokhari"
         },
-        {
-          "code": "uk.gularbhoj"
-        },
-        {
-          "code": "uk.jhabrera"
-        },
-        {
-          "code": "uk.naugaon"
-        },
-        {
-          "code": "uk.tehri"
-        },
-        {
+	{
           "code": "uk.laksar"
         },
-        {
-          "code": "uk.pipalkoti"
-        },
-        {
-          "code": "uk.uttarkhand"
-        },
-        {
-          "code": "uk.testing"
-        },
-        {
+ 	{
           "code": "uk.landhaura"
         },
- 	      {
+ 	{
           "code": "uk.kelakhera"
         },
-        {
-          "code": "uk.mussorie"
+  	{
+          "code": "uk.nanakmatta"
         },
         {
-          "code": "uk.nainital"
+          "code": "uk.shaktigarh"
         },
         {
-          "code": "uk.bhikiyasain"
+          "code": "uk.barkot"
         },
         {
-          "code": "uk.chaukhutiya"
+          "code": "uk.gangotri"
         },
+        {
+          "code": "uk.purola"
+        },
+        {
+          "code": "uk.mahuakheraganj"
+        },
+        {
+          "code": "uk.devaprayag"
+        },
+	{
+          "code": "uk.tanakpur"
+        },
+	{
+          "code": "uk.gadarpur"
+        },
+	{
+          "code": "uk.almora"
+        } ,
 	      {
-	        "code": "uk.selaqui"
-	      },
-	      {
-	        "code": "uk.dhandhera"
-	      },
-	      {
-	        "code": "uk.imlikhera"
-	      },
-	      {
-	        "code": "uk.rampur"
-	      },
-	      {
-	        "code": "uk.nagla"
-	      },
-	      {
-	        "code": "uk.garur"
-	      },
-	      {
-	        "code": "uk.thalisain"
-	      },
-	      {
-	        "code": "uk.lalpur"
-	      },
-	      {
-	        "code": "uk.padligurjar"
-	      },
-	      {
-	        "code": "uk.tapovan"
-      	},
-      	{
-	        "code": "uk.satpuli"
-	      }
+          "code": "uk.sitarganj"
+        } ,
+	{
+	  "code": "uk.sultanpur"
+	},
+	{
+	  "code": "uk.jaspur"
+	},
+	{
+	  "code": "uk.khatima"
+	},
+	{
+	  "code": "uk.bhikiyasain"
+	},
+	{
+	  "code": "uk.chaukhutiya"
+	},
+	{
+	  "code": "uk.selaqui"
+	},
+	{
+	  "code": "uk.dhandhera"
+	},
+	{
+	  "code": "uk.imlikhera"
+	},
+	{
+	  "code": "uk.rampur"
+	},
+	{
+	  "code": "uk.nagla"
+	},
+	{
+	  "code": "uk.garur"
+	},
+	{
+	  "code": "uk.thalisain"
+	},
+	{
+	  "code": "uk.lalpur"
+	},
+	{
+	  "code": "uk.padligurjar"
+	},
+	{
+	  "code": "uk.tapovan"
+	},
+	{
+	  "code": "uk.satpuli"
+	}
       ]
     },
     {
@@ -616,10 +565,10 @@
           "code": "uk.dehradun"
         },
         {
-          "code": "uk.haridwar"
+          "code": "uk.haldwani"
         },
         {
-          "code": "uk.haldwani"
+          "code": "uk.haridwar"
         },
         {
           "code": "uk.roorkee"
@@ -891,36 +840,37 @@
         {
           "code": "uk.chaukhutiya"
         },
-	      {
-	        "code": "uk.selaqui"
-	      },
-	      {
-	        "code": "uk.dhandhera"
-	      },
-	      {
-	        "code": "uk.imlikhera"
-	      },
-	      {
-	        "code": "uk.rampur"
-	      },
-	      {
-	        "code": "uk.nagla"
-	      },
-	      {
-	        "code": "uk.garur"
-	      },
-	      {
-	        "code": "uk.thalisain"
-	      },
-	      {
-	        "code": "uk.lalpur"
-	      },
-	      {
-	        "code": "uk.padligurjar"
-	      },
-	      {
-	        "code": "uk.tapovan"
-      	}
+	{
+	  "code": "uk.selaqui"
+	},
+	{
+	  "code": "uk.dhandhera"
+	},
+	{
+	  "code": "uk.imlikhera"
+	},
+	{
+	  "code": "uk.rampur"
+	},
+	{
+	  "code": "uk.nagla"
+	},
+	{
+	  "code": "uk.garur"
+	},
+	{
+	  "code": "uk.thalisain"
+	},
+	{
+	  "code": "uk.lalpur"
+	},
+	{
+	  "code": "uk.padligurjar"
+	},
+	{
+	  "code": "uk.tapovan"
+	}
+        
       ]
     }
   ]

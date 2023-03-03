@@ -1256,7 +1256,17 @@
                 "jsonPath": "*/name"
               },
               "accessType": "PLAIN"
-            },
+            }
+          ]
+        }  
+      ]
+    },
+    {
+      "key": "MiscReceiptULBCancelled",
+      "roleAttributeAccessList": [
+        {
+          "roleCode": "EMPLOYEE",
+          "attributeAccessList": [
             {
               "attribute": {
                 "jsonPath": "*/username"
@@ -1264,16 +1274,15 @@
               "accessType": "PLAIN"
             }
           ]
-        },
+        }
+      ]
+    },
+    {
+      "key": "MiscReceiptULBShort",
+      "roleAttributeAccessList": [
         {
-          "roleCode": "DATAENTRY_ADMIN",
+          "roleCode": "EMPLOYEE",
           "attributeAccessList": [
-            {
-              "attribute": {
-                "jsonPath": "*/name"
-              },
-              "accessType": "PLAIN"
-            },
             {
               "attribute": {
                 "jsonPath": "*/username"

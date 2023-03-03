@@ -5914,7 +5914,7 @@
       "tenantId": "uk"
     },
     {
-      "rolecode": "PTCEMP",
+      "rolecode": "TL_CEMP",
       "actionid": 1873,
       "actioncode": "",
       "tenantId": "uk"
@@ -6169,6 +6169,12 @@
     {
       "rolecode": "STADMIN",
       "actionid": 1881,
+      "actioncode": "",
+      "tenantId": "uk"
+    },
+    {
+      "rolecode": "STADMIN",
+      "actionid": 1901,
       "actioncode": "",
       "tenantId": "uk"
     },
@@ -8263,6 +8269,36 @@
     {
       "rolecode": "CITIZEN",
       "actionid": 2137,
+      "actioncode": "",
+      "tenantId": "uk"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 2138,
+      "actioncode": "",
+      "tenantId": "uk"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 2139,
+      "actioncode": "",
+      "tenantId": "uk"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 1866,
+      "actioncode": "",
+      "tenantId": "uk"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 1690,
+      "actioncode": "",
+      "tenantId": "uk"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 1778,
       "actioncode": "",
       "tenantId": "uk"
     }
