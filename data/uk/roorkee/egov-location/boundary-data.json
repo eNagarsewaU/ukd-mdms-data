@@ -1,733 +1,1932 @@
- {
-  "tenantId": "uk.roorkee",
-  "moduleName": "egov-location",
-  "TenantBoundary": [
-    {
-      "hierarchyType": {
-        "code": "REVENUE",
-        "name": "REVENUE"
-      },
-      "boundary": {
-        "id": 1,
-        "boundaryNum": 1,
-        "name": "roorkee",
-        "localname": "roorkee",
-        "longitude": null,
-        "latitude": null,
-        "label": "City",
-        "code": "uk.roorkee",
-        "children": [
-          {
-            "id": "6c5fe43c-b0b1-4ac7-9aa6-5f2a9c32f7aa",
-            "boundaryNum": 1,
-            "name": "Roorkee",
-            "localname": "Roorkee",
-            "longitude": null,
-            "latitude": null,
-            "label": "Zone",
-            "code": "Z1",
-            "children": [
-              {
-                "id": "e5f4a0bc-0c9a-4eb1-9ea0-aaa36a2ac09b",
+{
+    "tenantId": "uk.roorkee",
+    "moduleName": "egov-location",
+    "TenantBoundary": [
+        {
+            "hierarchyType": {
+                "code": "REVENUE",
+                "name": "REVENUE"
+            },
+            "boundary": {
+                "id": 1,
                 "boundaryNum": 1,
-                "name": "Ward -1  CHOWMANDI",
-                "localname": "Ward -1  CHOWMANDI",
+                "name": "roorkee",
+                "localname": "roorkee",
                 "longitude": null,
                 "latitude": null,
-                "label": "Block",
-                "code": "W11673",
+                "label": "City",
+                "code": "uk.roorkee",
                 "children": [
-                  {
-                    "id": "e1af0af0-e7c3-4c1f-b6d4-078f97bfbe01",
-                    "boundaryNum": 1,
-                    "name": "Chawmandi Part-1 - Ward -1  CHOWMANDI",
-                    "localname": "Chawmandi Part-1 - Ward -1  CHOWMANDI",
-                    "longitude": null,
-                    "latitude": null,
-                    "label": "Locality",
-                    "code": "M0001",
-                    "area": "AREA1",
-                    "children": []
-                  }
+                    {
+                        "id": "6c5fe43c-b0b1-4ac7-9aa6-5f2a9c32f7aa",
+                        "boundaryNum": 1,
+                        "name": "Roorkee",
+                        "localname": "Roorkee",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Zone",
+                        "code": "Z1",
+                        "children": [
+                            {
+                                "id": "e5f4a0bc-0c9a-4eb1-9ea0-aaa36a2ac09b",
+                                "boundaryNum": 1,
+                                "name": "Ward -1  CHOWMANDI",
+                                "localname": "Ward -1  CHOWMANDI",
+                                "longitude": null,
+                                "latitude": null,
+                                "label": "Block",
+                                "code": "W11673",
+                                "children": [
+                                    {
+                                        "id": "e1af0af0-e7c3-4c1f-b6d4-078f97bfbe01",
+                                        "boundaryNum": 1,
+                                        "name": "Chawmandi Part-1 - Ward -1  CHOWMANDI",
+                                        "localname": "Chawmandi Part-1 - Ward -1  CHOWMANDI",
+                                        "longitude": null,
+                                        "latitude": null,
+                                        "label": "Locality",
+                                        "code": "M0001",
+                                        "area": "AREA1",
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "id": "6b53942c-06d4-420b-9dbc-55e692b7d4f3",
+                                "boundaryNum": 1,
+                                "name": "Ward -2 AMBAR TALAB PASHCHMI",
+                                "localname": "Ward -2 AMBAR TALAB PASHCHMI",
+                                "longitude": null,
+                                "latitude": null,
+                                "label": "Block",
+                                "code": "W11674",
+                                "children": [
+                                    {
+                                        "id": "67d1320c-5dfd-48bb-91c0-f1201a5936d9",
+                                        "boundaryNum": 1,
+                                        "name": "Amber Talab Paschimi Part-1 - Ward -2 AMBAR TALAB PASHCHMI",
+                                        "localname": "Amber Talab Paschimi Part-1 - Ward -2 AMBAR TALAB PASHCHMI",
+                                        "longitude": null,
+                                        "latitude": null,
+                                        "label": "Locality",
+                                        "code": "M0002",
+                                        "area": "AREA1",
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "id": "c535430c-02eb-4555-9aae-4df28fd20456",
+                                "boundaryNum": 1,
+                                "name": "Ward -3 SHEKHPURI",
+                                "localname": "Ward -3 SHEKHPURI",
+                                "longitude": null,
+                                "latitude": null,
+                                "label": "Block",
+                                "code": "W11675",
+                                "children": [
+                                    {
+                                        "id": "cbac971c-af86-4b07-b605-4904f54f93ad",
+                                        "boundaryNum": 1,
+                                        "name": "Shekhpuri - Ward -3 SHEKHPURI",
+                                        "localname": "Shekhpuri - Ward -3 SHEKHPURI",
+                                        "longitude": null,
+                                        "latitude": null,
+                                        "label": "Locality",
+                                        "code": "M0003",
+                                        "area": "AREA1",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "12395230-b0ed-42d1-8985-ee6df8446559",
+                                        "boundaryNum": 1,
+                                        "name": "Ganeshpur Part-1 - Ward -3 SHEKHPURI",
+                                        "localname": "Ganeshpur Part-1 - Ward -3 SHEKHPURI",
+                                        "longitude": null,
+                                        "latitude": null,
+                                        "label": "Locality",
+                                        "code": "M0004",
+                                        "area": "AREA1",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "97480ea9-bdb6-4528-9755-9f78ffd2705a",
+                                        "boundaryNum": 1,
+                                        "name": "Nehru Nagar Part-1 - Ward -3 SHEKHPURI",
+                                        "localname": "Nehru Nagar Part-1 - Ward -3 SHEKHPURI",
+                                        "longitude": null,
+                                        "latitude": null,
+                                        "label": "Locality",
+                                        "code": "M0005",
+                                        "area": "AREA1",
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "id": "54d98220-eb23-4e38-a387-d3cab03f95fe",
+                                "boundaryNum": 1,
+                                "name": "Ward -4 PURVAVALLI",
+                                "localname": "Ward -4 PURVAVALLI",
+                                "longitude": null,
+                                "latitude": null,
+                                "label": "Block",
+                                "code": "W11676",
+                                "children": [
+                                    {
+                                        "id": "492602ec-5e58-4976-9205-354d1f4baa4e",
+                                        "boundaryNum": 1,
+                                        "name": "Purvavalli - Ward -4 PURVAVALLI",
+                                        "localname": "Purvavalli - Ward -4 PURVAVALLI",
+                                        "longitude": null,
+                                        "latitude": null,
+                                        "label": "Locality",
+                                        "code": "M0006",
+                                        "area": "AREA1",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "60ed565f-170d-4b93-9cc4-1fd4863d78fb",
+                                        "boundaryNum": 1,
+                                        "name": "Ganeshpur Part-2 - Ward -4 PURVAVALLI",
+                                        "localname": "Ganeshpur Part-2 - Ward -4 PURVAVALLI",
+                                        "longitude": null,
+                                        "latitude": null,
+                                        "label": "Locality",
+                                        "code": "M0007",
+                                        "area": "AREA1",
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "id": "647a6075-a780-4214-8576-9c70f671f8a5",
+                                "boundaryNum": 1,
+                                "name": "Ward -5 PURVI DEENDAYAL",
+                                "localname": "Ward -5 PURVI DEENDAYAL",
+                                "longitude": null,
+                                "latitude": null,
+                                "label": "Block",
+                                "code": "W11677",
+                                "children": [
+                                    {
+                                        "id": "6b46b535-a967-4708-9366-3376406e8961",
+                                        "boundaryNum": 1,
+                                        "name": "Purvi deendayal - Ward -5 PURVI DEENDAYAL",
+                                        "localname": "Purvi deendayal - Ward -5 PURVI DEENDAYAL",
+                                        "longitude": null,
+                                        "latitude": null,
+                                        "label": "Locality",
+                                        "code": "M0008",
+                                        "area": "AREA1",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "6fb02067-1f5d-4be1-9928-ff286d5d911d",
+                                        "boundaryNum": 1,
+                                        "name": "Chawmandi Part-2 - Ward -5 PURVI DEENDAYAL",
+                                        "localname": "Chawmandi Part-2 - Ward -5 PURVI DEENDAYAL",
+                                        "longitude": null,
+                                        "latitude": null,
+                                        "label": "Locality",
+                                        "code": "M0009",
+                                        "area": "AREA1",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "3aafe94f-d4e2-4b9b-a862-c101d0420bd8",
+                                        "boundaryNum": 1,
+                                        "name": "Amber Talab Purvi Part-1 - Ward -5 PURVI DEENDAYAL",
+                                        "localname": "Amber Talab Purvi Part-1 - Ward -5 PURVI DEENDAYAL",
+                                        "longitude": null,
+                                        "latitude": null,
+                                        "label": "Locality",
+                                        "code": "M0010",
+                                        "area": "AREA1",
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "id": "face184f-5019-4da4-8543-879f1e6f3edb",
+                                "boundaryNum": 1,
+                                "name": "Ward -6 PURVI  AMBAR TALAB",
+                                "localname": "Ward -6 PURVI  AMBAR TALAB",
+                                "longitude": null,
+                                "latitude": null,
+                                "label": "Block",
+                                "code": "W11678",
+                                "children": [
+                                    {
+                                        "id": "86aab757-9453-434b-9262-3f3b4739b8b1",
+                                        "boundaryNum": 1,
+                                        "name": "Amber Talab Purvi Part-2 - Ward -6 PURVI  AMBAR TALAB",
+                                        "localname": "Amber Talab Purvi Part-2 - Ward -6 PURVI  AMBAR TALAB",
+                                        "longitude": null,
+                                        "latitude": null,
+                                        "label": "Locality",
+                                        "code": "M0011",
+                                        "area": "AREA1",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "9fe1fcaa-15e9-4cf0-a496-95b452bded8f",
+                                        "boundaryNum": 1,
+                                        "name": "Chawmandi Part-3 - Ward -6 PURVI  AMBAR TALAB",
+                                        "localname": "Chawmandi Part-3 - Ward -6 PURVI  AMBAR TALAB",
+                                        "longitude": null,
+                                        "latitude": null,
+                                        "label": "Locality",
+                                        "code": "M0012",
+                                        "area": "AREA1",
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "id": "1d4364c9-5bb3-45ad-a430-9bacf1dfc0e4",
+                                "boundaryNum": 1,
+                                "name": "Ward -7 IIT  ROORKEE",
+                                "localname": "Ward -7 IIT  ROORKEE",
+                                "longitude": null,
+                                "latitude": null,
+                                "label": "Block",
+                                "code": "W11679",
+                                "children": [
+                                    {
+                                        "id": "b2efb5be-5082-4391-84fc-547dd6c36304",
+                                        "boundaryNum": 1,
+                                        "name": "IIT Roorkee Part-1 - Ward -7 IIT  ROORKEE",
+                                        "localname": "IIT Roorkee Part-1 - Ward -7 IIT  ROORKEE",
+                                        "longitude": null,
+                                        "latitude": null,
+                                        "label": "Locality",
+                                        "code": "M0013",
+                                        "area": "AREA1",
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "id": "0c68b482-208c-48c5-a2c0-536628fbdeea",
+                                "boundaryNum": 1,
+                                "name": "Ward -8 CBRI",
+                                "localname": "Ward -8 CBRI",
+                                "longitude": null,
+                                "latitude": null,
+                                "label": "Block",
+                                "code": "W11680",
+                                "children": [
+                                    {
+                                        "id": "4897350c-4b7f-4d5a-8503-497c64dae139",
+                                        "boundaryNum": 1,
+                                        "name": "CBRI - Ward -8 CBRI",
+                                        "localname": "CBRI - Ward -8 CBRI",
+                                        "longitude": null,
+                                        "latitude": null,
+                                        "label": "Locality",
+                                        "code": "M0014",
+                                        "area": "AREA1",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "f8105ce8-30d8-419a-a1c1-a6749516e46d",
+                                        "boundaryNum": 1,
+                                        "name": "Malakpur - Ward -8 CBRI",
+                                        "localname": "Malakpur - Ward -8 CBRI",
+                                        "longitude": null,
+                                        "latitude": null,
+                                        "label": "Locality",
+                                        "code": "M0015",
+                                        "area": "AREA1",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "bda67972-68db-4b82-9a07-9bf427826cf1",
+                                        "boundaryNum": 1,
+                                        "name": "IIT Roorkee Part-2 - Ward -8 CBRI",
+                                        "localname": "IIT Roorkee Part-2 - Ward -8 CBRI",
+                                        "longitude": null,
+                                        "latitude": null,
+                                        "label": "Locality",
+                                        "code": "M0016",
+                                        "area": "AREA1",
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "id": "34b84f7b-2078-443a-ab06-96d9725553bc",
+                                "boundaryNum": 1,
+                                "name": "Ward -9 SOT",
+                                "localname": "Ward -9 SOT",
+                                "longitude": null,
+                                "latitude": null,
+                                "label": "Block",
+                                "code": "W11681",
+                                "children": [
+                                    {
+                                        "id": "6cc4f8ef-9219-4f07-b4bf-b1849aa59142",
+                                        "boundaryNum": 1,
+                                        "name": "Sot - Ward -9 SOT",
+                                        "localname": "Sot - Ward -9 SOT",
+                                        "longitude": null,
+                                        "latitude": null,
+                                        "label": "Locality",
+                                        "code": "M0017",
+                                        "area": "AREA1",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "cdbaa009-0a26-4bd0-9a84-5ed3c922c880",
+                                        "boundaryNum": 1,
+                                        "name": "Kanongoyan - Ward -9 SOT",
+                                        "localname": "Kanongoyan - Ward -9 SOT",
+                                        "longitude": null,
+                                        "latitude": null,
+                                        "label": "Locality",
+                                        "code": "M0018",
+                                        "area": "AREA1",
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "id": "30447d89-643e-468e-91e9-486248e2468b",
+                                "boundaryNum": 1,
+                                "name": "Ward 10-CIVIL LINES UTTARI",
+                                "localname": "Ward 10-CIVIL LINES UTTARI",
+                                "longitude": null,
+                                "latitude": null,
+                                "label": "Block",
+                                "code": "W11682",
+                                "children": [
+                                    {
+                                        "id": "d99c67cd-bae0-4490-97da-cee0e63db6db",
+                                        "boundaryNum": 1,
+                                        "name": "Civil Lines Part-1 - Ward 10-CIVIL LINES UTTARI",
+                                        "localname": "Civil Lines Part-1 - Ward 10-CIVIL LINES UTTARI",
+                                        "longitude": null,
+                                        "latitude": null,
+                                        "label": "Locality",
+                                        "code": "M0019",
+                                        "area": "AREA1",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "380dc34e-665d-4909-844d-c98673741be7",
+                                        "boundaryNum": 1,
+                                        "name": "Pathanpura - Ward 10-CIVIL LINES UTTARI",
+                                        "localname": "Pathanpura - Ward 10-CIVIL LINES UTTARI",
+                                        "longitude": null,
+                                        "latitude": null,
+                                        "label": "Locality",
+                                        "code": "M0020",
+                                        "area": "AREA1",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "92a74d9c-92ab-40c7-8829-81a9a3dcb39a",
+                                        "boundaryNum": 1,
+                                        "name": "Adarsh Nagar - Ward 10-CIVIL LINES UTTARI",
+                                        "localname": "Adarsh Nagar - Ward 10-CIVIL LINES UTTARI",
+                                        "longitude": null,
+                                        "latitude": null,
+                                        "label": "Locality",
+                                        "code": "M0021",
+                                        "area": "AREA1",
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "id": "4c379a4b-28e0-4f1c-9f41-f309abfcbf35",
+                                "boundaryNum": 1,
+                                "name": "Ward -11 AMBAR TALAB PASHCHIMI",
+                                "localname": "Ward -11 AMBAR TALAB PASHCHIMI",
+                                "longitude": null,
+                                "latitude": null,
+                                "label": "Block",
+                                "code": "W11683",
+                                "children": [
+                                    {
+                                        "id": "82a03a8b-ceb7-4008-84ca-7f09f200d7a3",
+                                        "boundaryNum": 1,
+                                        "name": "Amber Talab Paschimi Part-2 - Ward -11 AMBAR TALAB PASHCHIMI",
+                                        "localname": "Amber Talab Paschimi Part-2 - Ward -11 AMBAR TALAB PASHCHIMI",
+                                        "longitude": null,
+                                        "latitude": null,
+                                        "label": "Locality",
+                                        "code": "M0022",
+                                        "area": "AREA1",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "105741e6-f40a-4e3f-a1bb-6a47d67aafc6",
+                                        "boundaryNum": 1,
+                                        "name": "Awas Vikas - Ward -11 AMBAR TALAB PASHCHIMI",
+                                        "localname": "Awas Vikas - Ward -11 AMBAR TALAB PASHCHIMI",
+                                        "longitude": null,
+                                        "latitude": null,
+                                        "label": "Locality",
+                                        "code": "M0038",
+                                        "area": "AREA1",
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "id": "5666aab7-6ab5-424a-84d9-0ea029e2d7ce",
+                                "boundaryNum": 1,
+                                "name": "Ward -12  CIVIL LINES DAKSHINI",
+                                "localname": "Ward -12  CIVIL LINES DAKSHINI",
+                                "longitude": null,
+                                "latitude": null,
+                                "label": "Block",
+                                "code": "W11684",
+                                "children": [
+                                    {
+                                        "id": "b0b9c64e-cf97-4121-b6d4-37d97ec80d4f",
+                                        "boundaryNum": 1,
+                                        "name": "Civil Lines Part-2 - Ward -12  CIVIL LINES DAKSHINI",
+                                        "localname": "Civil Lines Part-2 - Ward -12  CIVIL LINES DAKSHINI",
+                                        "longitude": null,
+                                        "latitude": null,
+                                        "label": "Locality",
+                                        "code": "M0023",
+                                        "area": "AREA1",
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "id": "3f3efe5d-21aa-4d05-84b0-79fcd98905fb",
+                                "boundaryNum": 1,
+                                "name": "Ward -13 AMBAR TALAB PASHCHIMI DAKSHNI",
+                                "localname": "Ward -13 AMBAR TALAB PASHCHIMI DAKSHNI",
+                                "longitude": null,
+                                "latitude": null,
+                                "label": "Block",
+                                "code": "W11685",
+                                "children": [
+                                    {
+                                        "id": "f08bef05-7e41-4132-ace6-756b331582f3",
+                                        "boundaryNum": 1,
+                                        "name": "Amber Talab Paschimi Part-3 - Ward -13 AMBAR TALAB PASHCHIMI DAKSHNI",
+                                        "localname": "Amber Talab Paschimi Part-3 - Ward -13 AMBAR TALAB PASHCHIMI DAKSHNI",
+                                        "longitude": null,
+                                        "latitude": null,
+                                        "label": "Locality",
+                                        "code": "M0024",
+                                        "area": "AREA1",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "bedae071-c856-4824-a8cc-80d1dfd7483c",
+                                        "boundaryNum": 1,
+                                        "name": "Maktoolpuri - Ward -13 AMBAR TALAB PASHCHIMI DAKSHNI",
+                                        "localname": "Maktoolpuri - Ward -13 AMBAR TALAB PASHCHIMI DAKSHNI",
+                                        "longitude": null,
+                                        "latitude": null,
+                                        "label": "Locality",
+                                        "code": "M0025",
+                                        "area": "AREA1",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "e4ea2e4e-eb19-4bce-a390-814c2f566765",
+                                        "boundaryNum": 1,
+                                        "name": "Nehru Nagar Part-2 - Ward -13 AMBAR TALAB PASHCHIMI DAKSHNI",
+                                        "localname": "Nehru Nagar Part-2 - Ward -13 AMBAR TALAB PASHCHIMI DAKSHNI",
+                                        "longitude": null,
+                                        "latitude": null,
+                                        "label": "Locality",
+                                        "code": "M0026",
+                                        "area": "AREA1",
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "id": "72e9ac67-b8b0-4a1e-b213-c1722966bdd2",
+                                "boundaryNum": 1,
+                                "name": "Ward -14 CIVIL LINE MADHYA",
+                                "localname": "Ward -14 CIVIL LINE MADHYA",
+                                "longitude": null,
+                                "latitude": null,
+                                "label": "Block",
+                                "code": "W11686",
+                                "children": [
+                                    {
+                                        "id": "fb96c6aa-58f0-4e84-bbdc-9adc6a0a0225",
+                                        "boundaryNum": 1,
+                                        "name": "Civil Lines Part-3 - Ward -14 CIVIL LINE MADHYA",
+                                        "localname": "Civil Lines Part-3 - Ward -14 CIVIL LINE MADHYA",
+                                        "longitude": null,
+                                        "latitude": null,
+                                        "label": "Locality",
+                                        "code": "M0027",
+                                        "area": "AREA1",
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "id": "eb00b0f7-27f7-4cfc-ad0f-62e279f33213",
+                                "boundaryNum": 1,
+                                "name": "Ward -15 RAMNAGAR DAKSHNI",
+                                "localname": "Ward -15 RAMNAGAR DAKSHNI",
+                                "longitude": null,
+                                "latitude": null,
+                                "label": "Block",
+                                "code": "W11687",
+                                "children": [
+                                    {
+                                        "id": "1ed027e9-0b5e-40e6-8525-1670dfaa1f25",
+                                        "boundaryNum": 1,
+                                        "name": "Ramanagar Part-1 - Ward -15 RAMNAGAR DAKSHNI",
+                                        "localname": "Ramanagar Part-1 - Ward -15 RAMNAGAR DAKSHNI",
+                                        "longitude": null,
+                                        "latitude": null,
+                                        "label": "Locality",
+                                        "code": "M0028",
+                                        "area": "AREA1",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "0ae4dcf8-12b1-47ae-955e-c9e6822ab369",
+                                        "boundaryNum": 1,
+                                        "name": "Azadnagar - Ward -15 RAMNAGAR DAKSHNI",
+                                        "localname": "Azadnagar - Ward -15 RAMNAGAR DAKSHNI",
+                                        "longitude": null,
+                                        "latitude": null,
+                                        "label": "Locality",
+                                        "code": "M0029",
+                                        "area": "AREA1",
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "id": "b2c09379-7269-43c8-90bb-240fd0f7ee94",
+                                "boundaryNum": 1,
+                                "name": "Ward -16 MAHIGRAN",
+                                "localname": "Ward -16 MAHIGRAN",
+                                "longitude": null,
+                                "latitude": null,
+                                "label": "Block",
+                                "code": "W11688",
+                                "children": [
+                                    {
+                                        "id": "118d6af3-0820-4e58-ad64-3ee578252df0",
+                                        "boundaryNum": 1,
+                                        "name": "Mahigran - Ward -16 MAHIGRAN",
+                                        "localname": "Mahigran - Ward -16 MAHIGRAN",
+                                        "longitude": null,
+                                        "latitude": null,
+                                        "label": "Locality",
+                                        "code": "M0030",
+                                        "area": "AREA1",
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "id": "dc3cf88f-5725-4070-a963-f641b9d799b4",
+                                "boundaryNum": 1,
+                                "name": "Ward -17 RAJPUTTANA PASHCHIMI",
+                                "localname": "Ward -17 RAJPUTTANA PASHCHIMI",
+                                "longitude": null,
+                                "latitude": null,
+                                "label": "Block",
+                                "code": "W11689",
+                                "children": [
+                                    {
+                                        "id": "04576aaa-8215-4ed6-82f5-494f58b6f3ce",
+                                        "boundaryNum": 1,
+                                        "name": "Rajputana Paschimi - Ward -17 RAJPUTTANA PASHCHIMI",
+                                        "localname": "Rajputana Paschimi - Ward -17 RAJPUTTANA PASHCHIMI",
+                                        "longitude": null,
+                                        "latitude": null,
+                                        "label": "Locality",
+                                        "code": "M0031",
+                                        "area": "AREA1",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "0de9237a-25d4-4a78-9720-477863084bf2",
+                                        "boundaryNum": 1,
+                                        "name": "Rajputana Purvi - Ward -17 RAJPUTTANA PASHCHIMI",
+                                        "localname": "Rajputana Purvi - Ward -17 RAJPUTTANA PASHCHIMI",
+                                        "longitude": null,
+                                        "latitude": null,
+                                        "label": "Locality",
+                                        "code": "M0032",
+                                        "area": "AREA1",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "39d73164-f1c8-4b7e-bd20-a20a072eed43",
+                                        "boundaryNum": 1,
+                                        "name": "BT Gang - Ward -17 RAJPUTTANA PASHCHIMI",
+                                        "localname": "BT Gang - Ward -17 RAJPUTTANA PASHCHIMI",
+                                        "longitude": null,
+                                        "latitude": null,
+                                        "label": "Locality",
+                                        "code": "M0033",
+                                        "area": "AREA1",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "8451f764-d033-49b1-b9f8-a96571c40326",
+                                        "boundaryNum": 1,
+                                        "name": "Amber Talab Purvi Part-3 - Ward -17 RAJPUTTANA PASHCHIMI",
+                                        "localname": "Amber Talab Purvi Part-3 - Ward -17 RAJPUTTANA PASHCHIMI",
+                                        "longitude": null,
+                                        "latitude": null,
+                                        "label": "Locality",
+                                        "code": "M0034",
+                                        "area": "AREA1",
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "id": "92669cb8-8a61-4158-bc60-9cd45840ea28",
+                                "boundaryNum": 1,
+                                "name": "Ward -18 RAMNAGAR UTTARI",
+                                "localname": "Ward -18 RAMNAGAR UTTARI",
+                                "longitude": null,
+                                "latitude": null,
+                                "label": "Block",
+                                "code": "W11690",
+                                "children": [
+                                    {
+                                        "id": "b0341b42-24d9-42ad-ba99-9a4e79495f85",
+                                        "boundaryNum": 1,
+                                        "name": "Ramanagar Part-2 - Ward -18 RAMNAGAR UTTARI",
+                                        "localname": "Ramanagar Part-2 - Ward -18 RAMNAGAR UTTARI",
+                                        "longitude": null,
+                                        "latitude": null,
+                                        "label": "Locality",
+                                        "code": "M0035",
+                                        "area": "AREA1",
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "id": "b2c0bef1-77b9-4821-99e2-77f354aae502",
+                                "boundaryNum": 1,
+                                "name": "Ward -19 PURANI TEHSIL",
+                                "localname": "Ward -19 PURANI TEHSIL",
+                                "longitude": null,
+                                "latitude": null,
+                                "label": "Block",
+                                "code": "W11691",
+                                "children": [
+                                    {
+                                        "id": "bd970ccc-6091-4517-8a7e-5baba887c179",
+                                        "boundaryNum": 1,
+                                        "name": "Purani Tehshil - Ward -19 PURANI TEHSIL",
+                                        "localname": "Purani Tehshil - Ward -19 PURANI TEHSIL",
+                                        "longitude": null,
+                                        "latitude": null,
+                                        "label": "Locality",
+                                        "code": "M0036",
+                                        "area": "AREA1",
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "id": "0ec6fd37-4fb0-47b0-a707-0eed7baebebe",
+                                "boundaryNum": 1,
+                                "name": "Ward -20 SATTI",
+                                "localname": "Ward -20 SATTI",
+                                "longitude": null,
+                                "latitude": null,
+                                "label": "Block",
+                                "code": "W11692",
+                                "children": [
+                                    {
+                                        "id": "ce38bd66-83e6-4dfe-8c33-4d305e1838b3",
+                                        "boundaryNum": 1,
+                                        "name": "Satti - Ward -20 SATTI",
+                                        "localname": "Satti - Ward -20 SATTI",
+                                        "longitude": null,
+                                        "latitude": null,
+                                        "label": "Locality",
+                                        "code": "M0037",
+                                        "area": "AREA1",
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "id": "1a38afd4-73de-4adf-9c6e-6f968d321e97",
+                                "boundaryNum": 1,
+                                "name": "WARD 1- SHERPUR",
+                                "localname": "WARD 1- SHERPUR",
+                                "longitude": null,
+                                "latitude": null,
+                                "label": "Block",
+                                "code": "W11693",
+                                "children": [
+                                    {
+                                        "id": "877f4208-446b-4f3e-8118-96bd91f1ee2d",
+                                        "boundaryNum": 1,
+                                        "name": "SHERPUR - WARD 1- SHERPUR",
+                                        "localname": "SHERPUR - WARD 1- SHERPUR",
+                                        "longitude": null,
+                                        "latitude": null,
+                                        "label": "Locality",
+                                        "code": "M0039",
+                                        "area": "AREA1",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "a72b133e-d6ef-4657-b296-69264743dd7d",
+                                        "boundaryNum": 1,
+                                        "name": "MAJRA - WARD 1- SHERPUR",
+                                        "localname": "MAJRA - WARD 1- SHERPUR",
+                                        "longitude": null,
+                                        "latitude": null,
+                                        "label": "Locality",
+                                        "code": "M0040",
+                                        "area": "AREA1",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "4ea6d690-4021-4c0b-a5fb-2b455b52fc5d",
+                                        "boundaryNum": 1,
+                                        "name": "PATHANPURA - WARD 1- SHERPUR",
+                                        "localname": "PATHANPURA - WARD 1- SHERPUR",
+                                        "longitude": null,
+                                        "latitude": null,
+                                        "label": "Locality",
+                                        "code": "M0041",
+                                        "area": "AREA1",
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "id": "d8a67021-b610-46fc-a362-a50bbc3cfb7e",
+                                "boundaryNum": 1,
+                                "name": "WARD 2-ADARSH NAGAR",
+                                "localname": "WARD 2-ADARSH NAGAR",
+                                "longitude": null,
+                                "latitude": null,
+                                "label": "Block",
+                                "code": "W11694",
+                                "children": [
+                                    {
+                                        "id": "0cc903b4-f0d7-49df-91ed-d3ab6fb73c6e",
+                                        "boundaryNum": 1,
+                                        "name": "ADARSH NAGAR - WARD 2-ADARSH NAGAR",
+                                        "localname": "ADARSH NAGAR - WARD 2-ADARSH NAGAR",
+                                        "longitude": null,
+                                        "latitude": null,
+                                        "label": "Locality",
+                                        "code": "M0042",
+                                        "area": "AREA1",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "3b26a71f-6229-44e7-95af-dc288464716d",
+                                        "boundaryNum": 1,
+                                        "name": "NEW ADARSH NAGAR - WARD 2-ADARSH NAGAR",
+                                        "localname": "NEW ADARSH NAGAR - WARD 2-ADARSH NAGAR",
+                                        "longitude": null,
+                                        "latitude": null,
+                                        "label": "Locality",
+                                        "code": "M0043",
+                                        "area": "AREA1",
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "id": "8ac35200-0144-43e4-b0b0-a4e00c8d30a5",
+                                "boundaryNum": 1,
+                                "name": "WARD 3-SOLANIPURAM",
+                                "localname": "WARD 3-SOLANIPURAM",
+                                "longitude": null,
+                                "latitude": null,
+                                "label": "Block",
+                                "code": "W11695",
+                                "children": [
+                                    {
+                                        "id": "43af2c05-77e0-4538-b8c8-266752d30c17",
+                                        "boundaryNum": 1,
+                                        "name": "SOLANIPURAM - WARD 3-SOLANIPURAM",
+                                        "localname": "SOLANIPURAM - WARD 3-SOLANIPURAM",
+                                        "longitude": null,
+                                        "latitude": null,
+                                        "label": "Locality",
+                                        "code": "M0044",
+                                        "area": "AREA1",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "0288e56d-f455-49a3-8bd5-58281183be5d",
+                                        "boundaryNum": 1,
+                                        "name": "NEW SOLANIPURAM - WARD 3-SOLANIPURAM",
+                                        "localname": "NEW SOLANIPURAM - WARD 3-SOLANIPURAM",
+                                        "longitude": null,
+                                        "latitude": null,
+                                        "label": "Locality",
+                                        "code": "M0045",
+                                        "area": "AREA1",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "3fa72b3f-7ef8-4781-a376-e722af86816b",
+                                        "boundaryNum": 1,
+                                        "name": "MALAKPUR - WARD 3-SOLANIPURAM",
+                                        "localname": "MALAKPUR - WARD 3-SOLANIPURAM",
+                                        "longitude": null,
+                                        "latitude": null,
+                                        "label": "Locality",
+                                        "code": "M0046",
+                                        "area": "AREA1",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "1004d28c-9b91-4924-af8f-9c5c8e93828f",
+                                        "boundaryNum": 1,
+                                        "name": "PREMKUNJ - WARD 3-SOLANIPURAM",
+                                        "localname": "PREMKUNJ - WARD 3-SOLANIPURAM",
+                                        "longitude": null,
+                                        "latitude": null,
+                                        "label": "Locality",
+                                        "code": "M0047",
+                                        "area": "AREA1",
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "id": "ca268fd4-d97d-4438-b54f-c9db7cc41faa",
+                                "boundaryNum": 1,
+                                "name": "WARD 4-KHANJARPUR",
+                                "localname": "WARD 4-KHANJARPUR",
+                                "longitude": null,
+                                "latitude": null,
+                                "label": "Block",
+                                "code": "W11696",
+                                "children": [
+                                    {
+                                        "id": "a7a962bd-855a-44ad-9a23-04ff21c91278",
+                                        "boundaryNum": 1,
+                                        "name": "KHANJARPUR - WARD 4-KHANJARPUR",
+                                        "localname": "KHANJARPUR - WARD 4-KHANJARPUR",
+                                        "longitude": null,
+                                        "latitude": null,
+                                        "label": "Locality",
+                                        "code": "M0048",
+                                        "area": "AREA1",
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "id": "33aff02d-0dcb-4e0d-83d2-d512aac486ea",
+                                "boundaryNum": 1,
+                                "name": "WARD 8-JADUGAR ROAD",
+                                "localname": "WARD 8-JADUGAR ROAD",
+                                "longitude": null,
+                                "latitude": null,
+                                "label": "Block",
+                                "code": "W11697",
+                                "children": [
+                                    {
+                                        "id": "abb59afa-7756-4e61-af5d-1e78cb517e92",
+                                        "boundaryNum": 1,
+                                        "name": "CIVIL LINE DAKSHNI - WARD 8-JADUGAR ROAD",
+                                        "localname": "CIVIL LINE DAKSHNI - WARD 8-JADUGAR ROAD",
+                                        "longitude": null,
+                                        "latitude": null,
+                                        "label": "Locality",
+                                        "code": "M0049",
+                                        "area": "AREA1",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "8b0f7593-7fc7-42ad-97f2-0f849e7519a9",
+                                        "boundaryNum": 1,
+                                        "name": "JADUGAR ROAD - WARD 8-JADUGAR ROAD",
+                                        "localname": "JADUGAR ROAD - WARD 8-JADUGAR ROAD",
+                                        "longitude": null,
+                                        "latitude": null,
+                                        "label": "Locality",
+                                        "code": "M0050",
+                                        "area": "AREA1",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "e0a11202-2ad4-40aa-8a6d-eeb9148ade57",
+                                        "boundaryNum": 1,
+                                        "name": "I.R.I  (AANSHIK BHAG) - WARD 8-JADUGAR ROAD",
+                                        "localname": "I.R.I  (AANSHIK BHAG) - WARD 8-JADUGAR ROAD",
+                                        "longitude": null,
+                                        "latitude": null,
+                                        "label": "Locality",
+                                        "code": "M0051",
+                                        "area": "AREA1",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "7e8f4ff9-cadc-4627-849b-011f8b388043",
+                                        "boundaryNum": 1,
+                                        "name": "JAMUN ROAD - WARD 8-JADUGAR ROAD",
+                                        "localname": "JAMUN ROAD - WARD 8-JADUGAR ROAD",
+                                        "longitude": null,
+                                        "latitude": null,
+                                        "label": "Locality",
+                                        "code": "M0052",
+                                        "area": "AREA1",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "f5c78dbf-4d90-44ea-a0bb-54a6f3c8d9e4",
+                                        "boundaryNum": 1,
+                                        "name": "CHATTAAN ROAD - WARD 8-JADUGAR ROAD",
+                                        "localname": "CHATTAAN ROAD - WARD 8-JADUGAR ROAD",
+                                        "longitude": null,
+                                        "latitude": null,
+                                        "label": "Locality",
+                                        "code": "M0053",
+                                        "area": "AREA1",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "2478c230-d0e9-4e8f-916e-96c248717714",
+                                        "boundaryNum": 1,
+                                        "name": "CHOWMANDI  (AANSHIK BHAG) - WARD 8-JADUGAR ROAD",
+                                        "localname": "CHOWMANDI  (AANSHIK BHAG) - WARD 8-JADUGAR ROAD",
+                                        "longitude": null,
+                                        "latitude": null,
+                                        "label": "Locality",
+                                        "code": "M0054",
+                                        "area": "AREA1",
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "id": "41e6bcad-16a8-44e0-acb0-db8d668b18b9",
+                                "boundaryNum": 1,
+                                "name": "WARD 9-MOHANPURA UTTARI",
+                                "localname": "WARD 9-MOHANPURA UTTARI",
+                                "longitude": null,
+                                "latitude": null,
+                                "label": "Block",
+                                "code": "W11698",
+                                "children": [
+                                    {
+                                        "id": "a1cd2dbc-2e0a-4e70-9ad9-903306d8a363",
+                                        "boundaryNum": 1,
+                                        "name": "MOHANPURA - WARD 9-MOHANPURA UTTARI",
+                                        "localname": "MOHANPURA - WARD 9-MOHANPURA UTTARI",
+                                        "longitude": null,
+                                        "latitude": null,
+                                        "label": "Locality",
+                                        "code": "M0055",
+                                        "area": "AREA1",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "f5873dd8-9bd7-4c85-a3e6-f1706201ef47",
+                                        "boundaryNum": 1,
+                                        "name": "NEW LAKSHMI NAGAR - WARD 9-MOHANPURA UTTARI",
+                                        "localname": "NEW LAKSHMI NAGAR - WARD 9-MOHANPURA UTTARI",
+                                        "longitude": null,
+                                        "latitude": null,
+                                        "label": "Locality",
+                                        "code": "M0056",
+                                        "area": "AREA1",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "66297b93-6ef5-48e2-80d7-5e2916a75ed5",
+                                        "boundaryNum": 1,
+                                        "name": "MILAP NAGAR - WARD 9-MOHANPURA UTTARI",
+                                        "localname": "MILAP NAGAR - WARD 9-MOHANPURA UTTARI",
+                                        "longitude": null,
+                                        "latitude": null,
+                                        "label": "Locality",
+                                        "code": "M0057",
+                                        "area": "AREA1",
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "id": "ee6a71f9-9765-4447-92c0-eb8588852383",
+                                "boundaryNum": 1,
+                                "name": "WARD 10-MOHANPURA DAKSHINI",
+                                "localname": "WARD 10-MOHANPURA DAKSHINI",
+                                "longitude": null,
+                                "latitude": null,
+                                "label": "Block",
+                                "code": "W11699",
+                                "children": [
+                                    {
+                                        "id": "07e57f5d-51dd-4b35-b758-e91f65c26c5b",
+                                        "boundaryNum": 1,
+                                        "name": "PRADEEP VIHAR AANSHIK - WARD 10-MOHANPURA DAKSHINI",
+                                        "localname": "PRADEEP VIHAR AANSHIK - WARD 10-MOHANPURA DAKSHINI",
+                                        "longitude": null,
+                                        "latitude": null,
+                                        "label": "Locality",
+                                        "code": "M0058",
+                                        "area": "AREA1",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "62bac39c-70c4-44ae-8782-5431f2ad6c0a",
+                                        "boundaryNum": 1,
+                                        "name": "MOHANPURA AANSHIK - WARD 10-MOHANPURA DAKSHINI",
+                                        "localname": "MOHANPURA AANSHIK - WARD 10-MOHANPURA DAKSHINI",
+                                        "longitude": null,
+                                        "latitude": null,
+                                        "label": "Locality",
+                                        "code": "M0059",
+                                        "area": "AREA1",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "1ef0a151-530e-4677-b9ee-b01c1c3ac875",
+                                        "boundaryNum": 1,
+                                        "name": "NAGENDRA VIHAR - WARD 10-MOHANPURA DAKSHINI",
+                                        "localname": "NAGENDRA VIHAR - WARD 10-MOHANPURA DAKSHINI",
+                                        "longitude": null,
+                                        "latitude": null,
+                                        "label": "Locality",
+                                        "code": "M0060",
+                                        "area": "AREA1",
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "id": "51997062-7dd2-43ae-aa77-b2a57529c6dd",
+                                "boundaryNum": 1,
+                                "name": "WARD 11-DEFENCE COLONY",
+                                "localname": "WARD 11-DEFENCE COLONY",
+                                "longitude": null,
+                                "latitude": null,
+                                "label": "Block",
+                                "code": "W11700",
+                                "children": [
+                                    {
+                                        "id": "db06a389-7c69-4da5-a6aa-6ae4be860ae1",
+                                        "boundaryNum": 1,
+                                        "name": "AKASHDEEP ENCLAVE - WARD 11-DEFENCE COLONY",
+                                        "localname": "AKASHDEEP ENCLAVE - WARD 11-DEFENCE COLONY",
+                                        "longitude": null,
+                                        "latitude": null,
+                                        "label": "Locality",
+                                        "code": "M0061",
+                                        "area": "AREA1",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "b22e8669-0345-4afb-bfb2-34d86b43ac45",
+                                        "boundaryNum": 1,
+                                        "name": "OM VIHAR - WARD 11-DEFENCE COLONY",
+                                        "localname": "OM VIHAR - WARD 11-DEFENCE COLONY",
+                                        "longitude": null,
+                                        "latitude": null,
+                                        "label": "Locality",
+                                        "code": "M0062",
+                                        "area": "AREA1",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "d5172533-993d-49b9-b616-62c454ce3574",
+                                        "boundaryNum": 1,
+                                        "name": "PRADEEP VIHAR AANSHIK - WARD 11-DEFENCE COLONY",
+                                        "localname": "PRADEEP VIHAR AANSHIK - WARD 11-DEFENCE COLONY",
+                                        "longitude": null,
+                                        "latitude": null,
+                                        "label": "Locality",
+                                        "code": "M0063",
+                                        "area": "AREA1",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "29b8f153-2178-447c-8399-5e430155e14f",
+                                        "boundaryNum": 1,
+                                        "name": "NEW MOHANPURA AANSHIK - WARD 11-DEFENCE COLONY",
+                                        "localname": "NEW MOHANPURA AANSHIK - WARD 11-DEFENCE COLONY",
+                                        "longitude": null,
+                                        "latitude": null,
+                                        "label": "Locality",
+                                        "code": "M0064",
+                                        "area": "AREA1",
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "id": "4413c201-a75c-4b9b-bc3a-806bfa5d3adf",
+                                "boundaryNum": 1,
+                                "name": "WARD 12-ASAFNAGAR",
+                                "localname": "WARD 12-ASAFNAGAR",
+                                "longitude": null,
+                                "latitude": null,
+                                "label": "Block",
+                                "code": "W11701",
+                                "children": [
+                                    {
+                                        "id": "c34d759a-e2f2-4e8d-97c0-e4d821a5ff7b",
+                                        "boundaryNum": 1,
+                                        "name": "ASAFNAGAR - WARD 12-ASAFNAGAR",
+                                        "localname": "ASAFNAGAR - WARD 12-ASAFNAGAR",
+                                        "longitude": null,
+                                        "latitude": null,
+                                        "label": "Locality",
+                                        "code": "M0065",
+                                        "area": "AREA1",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "7b245770-55a0-45cf-a9bd-b0634ba280d4",
+                                        "boundaryNum": 1,
+                                        "name": "SHAKUMBARI ENCLAVE - WARD 12-ASAFNAGAR",
+                                        "localname": "SHAKUMBARI ENCLAVE - WARD 12-ASAFNAGAR",
+                                        "longitude": null,
+                                        "latitude": null,
+                                        "label": "Locality",
+                                        "code": "M0066",
+                                        "area": "AREA1",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "2ad7ca86-3643-464b-a2f3-d210ed436d19",
+                                        "boundaryNum": 1,
+                                        "name": "MOHAMMEDPUR (AANSHIK) - WARD 12-ASAFNAGAR",
+                                        "localname": "MOHAMMEDPUR (AANSHIK) - WARD 12-ASAFNAGAR",
+                                        "longitude": null,
+                                        "latitude": null,
+                                        "label": "Locality",
+                                        "code": "M0067",
+                                        "area": "AREA1",
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "id": "0972cc79-44b4-446e-a88f-b69036b07276",
+                                "boundaryNum": 1,
+                                "name": "WARD 14-PREETVIHAR",
+                                "localname": "WARD 14-PREETVIHAR",
+                                "longitude": null,
+                                "latitude": null,
+                                "label": "Block",
+                                "code": "W11702",
+                                "children": [
+                                    {
+                                        "id": "1380c520-3f35-4d6d-bd42-427943f18529",
+                                        "boundaryNum": 1,
+                                        "name": "PREETVIHAR - WARD 14-PREETVIHAR",
+                                        "localname": "PREETVIHAR - WARD 14-PREETVIHAR",
+                                        "longitude": null,
+                                        "latitude": null,
+                                        "label": "Locality",
+                                        "code": "M0068",
+                                        "area": "AREA1",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "45822577-1175-46a6-86d3-c0c6921b5043",
+                                        "boundaryNum": 1,
+                                        "name": "RAILWAY COLONY - WARD 14-PREETVIHAR",
+                                        "localname": "RAILWAY COLONY - WARD 14-PREETVIHAR",
+                                        "longitude": null,
+                                        "latitude": null,
+                                        "label": "Locality",
+                                        "code": "M0069",
+                                        "area": "AREA1",
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "id": "067a39a0-6811-4020-b36e-236e32029e5e",
+                                "boundaryNum": 1,
+                                "name": "WARD 16-GANESHPUR DAKSHINI",
+                                "localname": "WARD 16-GANESHPUR DAKSHINI",
+                                "longitude": null,
+                                "latitude": null,
+                                "label": "Block",
+                                "code": "W11703",
+                                "children": [
+                                    {
+                                        "id": "2da6222c-5ec8-46a2-9ff3-2c6421309843",
+                                        "boundaryNum": 1,
+                                        "name": "DAYAL BAGH COLONY - WARD 16-GANESHPUR DAKSHINI",
+                                        "localname": "DAYAL BAGH COLONY - WARD 16-GANESHPUR DAKSHINI",
+                                        "longitude": null,
+                                        "latitude": null,
+                                        "label": "Locality",
+                                        "code": "M0070",
+                                        "area": "AREA1",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "26bc4d6c-7989-4d48-9d21-072f92cb6821",
+                                        "boundaryNum": 1,
+                                        "name": "VALMIKI BASTI - WARD 16-GANESHPUR DAKSHINI",
+                                        "localname": "VALMIKI BASTI - WARD 16-GANESHPUR DAKSHINI",
+                                        "longitude": null,
+                                        "latitude": null,
+                                        "label": "Locality",
+                                        "code": "M0071",
+                                        "area": "AREA1",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "4bb15f0a-a0fb-4c0a-a5d6-ab5ab55a3f85",
+                                        "boundaryNum": 1,
+                                        "name": "GITANJALI VIHAR - WARD 16-GANESHPUR DAKSHINI",
+                                        "localname": "GITANJALI VIHAR - WARD 16-GANESHPUR DAKSHINI",
+                                        "longitude": null,
+                                        "latitude": null,
+                                        "label": "Locality",
+                                        "code": "M0072",
+                                        "area": "AREA1",
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "id": "90e5ff3b-6680-41cd-80fd-db2512b51463",
+                                "boundaryNum": 1,
+                                "name": "WARD 18-GANESHPUR UTTARI",
+                                "localname": "WARD 18-GANESHPUR UTTARI",
+                                "longitude": null,
+                                "latitude": null,
+                                "label": "Block",
+                                "code": "W11704",
+                                "children": [
+                                    {
+                                        "id": "72f23992-3dc8-4f54-9527-b01e18609ff2",
+                                        "boundaryNum": 1,
+                                        "name": "GANDHINAGAR - WARD 18-GANESHPUR UTTARI",
+                                        "localname": "GANDHINAGAR - WARD 18-GANESHPUR UTTARI",
+                                        "longitude": null,
+                                        "latitude": null,
+                                        "label": "Locality",
+                                        "code": "M0073",
+                                        "area": "AREA1",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "3e491ce3-9802-495f-a768-42325327c5b9",
+                                        "boundaryNum": 1,
+                                        "name": "GANESHPUR - WARD 18-GANESHPUR UTTARI",
+                                        "localname": "GANESHPUR - WARD 18-GANESHPUR UTTARI",
+                                        "longitude": null,
+                                        "latitude": null,
+                                        "label": "Locality",
+                                        "code": "M0074",
+                                        "area": "AREA1",
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "id": "822e439e-43a7-4307-ba55-d225a4d25ade",
+                                "boundaryNum": 1,
+                                "name": "WARD 19-SHIVPURAM",
+                                "localname": "WARD 19-SHIVPURAM",
+                                "longitude": null,
+                                "latitude": null,
+                                "label": "Block",
+                                "code": "W11705",
+                                "children": [
+                                    {
+                                        "id": "12a79875-31b8-4b61-aa62-7c5fa6830663",
+                                        "boundaryNum": 1,
+                                        "name": "SHIVPURAM - WARD 19-SHIVPURAM",
+                                        "localname": "SHIVPURAM - WARD 19-SHIVPURAM",
+                                        "longitude": null,
+                                        "latitude": null,
+                                        "label": "Locality",
+                                        "code": "M0075",
+                                        "area": "AREA1",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "c279fb97-0843-49d5-ac73-ced873a59d0f",
+                                        "boundaryNum": 1,
+                                        "name": "SAFIPUR - WARD 19-SHIVPURAM",
+                                        "localname": "SAFIPUR - WARD 19-SHIVPURAM",
+                                        "longitude": null,
+                                        "latitude": null,
+                                        "label": "Locality",
+                                        "code": "M0076",
+                                        "area": "AREA1",
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "id": "ba575d7d-c34c-4fa4-a9e5-c75bbaf1ba20",
+                                "boundaryNum": 1,
+                                "name": "WARD 21-SUBHASH NAGAR",
+                                "localname": "WARD 21-SUBHASH NAGAR",
+                                "longitude": null,
+                                "latitude": null,
+                                "label": "Block",
+                                "code": "W11706",
+                                "children": [
+                                    {
+                                        "id": "83be8fe5-6fe0-4109-a735-1f9efa83d5ed",
+                                        "boundaryNum": 1,
+                                        "name": "SUBHASH NAGAR - WARD 21-SUBHASH NAGAR",
+                                        "localname": "SUBHASH NAGAR - WARD 21-SUBHASH NAGAR",
+                                        "longitude": null,
+                                        "latitude": null,
+                                        "label": "Locality",
+                                        "code": "M0077",
+                                        "area": "AREA1",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "72694c92-4ad8-4de3-ba88-3a71bf1b3b55",
+                                        "boundaryNum": 1,
+                                        "name": "KRISHNA NAGAR - WARD 21-SUBHASH NAGAR",
+                                        "localname": "KRISHNA NAGAR - WARD 21-SUBHASH NAGAR",
+                                        "longitude": null,
+                                        "latitude": null,
+                                        "label": "Locality",
+                                        "code": "M0078",
+                                        "area": "AREA1",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "c4cba29a-7897-4934-b50f-cbace57b999d",
+                                        "boundaryNum": 1,
+                                        "name": "RAJENDRANAGAR- PURVI (AANSHIK) - WARD 21-SUBHASH NAGAR",
+                                        "localname": "RAJENDRANAGAR- PURVI (AANSHIK) - WARD 21-SUBHASH NAGAR",
+                                        "longitude": null,
+                                        "latitude": null,
+                                        "label": "Locality",
+                                        "code": "M0079",
+                                        "area": "AREA1",
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "id": "485faf4b-8aac-43de-937d-2641bb229e69",
+                                "boundaryNum": 1,
+                                "name": "WARD 22-KRISHNA NAGAR",
+                                "localname": "WARD 22-KRISHNA NAGAR",
+                                "longitude": null,
+                                "latitude": null,
+                                "label": "Block",
+                                "code": "W11707",
+                                "children": [
+                                    {
+                                        "id": "9dfd1010-ebb4-4650-826c-dff5ea050a67",
+                                        "boundaryNum": 1,
+                                        "name": "RAJENDRANAGAR - WARD 22-KRISHNA NAGAR",
+                                        "localname": "RAJENDRANAGAR - WARD 22-KRISHNA NAGAR",
+                                        "longitude": null,
+                                        "latitude": null,
+                                        "label": "Locality",
+                                        "code": "M0080",
+                                        "area": "AREA1",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "4dbace8b-73b3-46b3-b422-9df97b97d921",
+                                        "boundaryNum": 1,
+                                        "name": "KRISHNA NAGAR - WARD 22-KRISHNA NAGAR",
+                                        "localname": "KRISHNA NAGAR - WARD 22-KRISHNA NAGAR",
+                                        "longitude": null,
+                                        "latitude": null,
+                                        "label": "Locality",
+                                        "code": "M0081",
+                                        "area": "AREA1",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "3028f616-c8ca-46b7-a2c8-a63c0ec54cd7",
+                                        "boundaryNum": 1,
+                                        "name": "SALEMPUR - WARD 22-KRISHNA NAGAR",
+                                        "localname": "SALEMPUR - WARD 22-KRISHNA NAGAR",
+                                        "longitude": null,
+                                        "latitude": null,
+                                        "label": "Locality",
+                                        "code": "M0082",
+                                        "area": "AREA1",
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "id": "f940e0a3-3257-4414-97c4-0acd9aeb24fa",
+                                "boundaryNum": 1,
+                                "name": "WARD 23-SALEMPUR RAJPUTANA",
+                                "localname": "WARD 23-SALEMPUR RAJPUTANA",
+                                "longitude": null,
+                                "latitude": null,
+                                "label": "Block",
+                                "code": "W11708",
+                                "children": [
+                                    {
+                                        "id": "0e137d58-0919-4790-850f-92c9e49450df",
+                                        "boundaryNum": 1,
+                                        "name": "SALEMPUR - WARD 23-SALEMPUR RAJPUTANA",
+                                        "localname": "SALEMPUR - WARD 23-SALEMPUR RAJPUTANA",
+                                        "longitude": null,
+                                        "latitude": null,
+                                        "label": "Locality",
+                                        "code": "M0083",
+                                        "area": "AREA1",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "60d1d5ff-0ef5-4cd6-ad23-34ffa83493dc",
+                                        "boundaryNum": 1,
+                                        "name": "GAYATRI ENCLAVE - WARD 23-SALEMPUR RAJPUTANA",
+                                        "localname": "GAYATRI ENCLAVE - WARD 23-SALEMPUR RAJPUTANA",
+                                        "longitude": null,
+                                        "latitude": null,
+                                        "label": "Locality",
+                                        "code": "M0084",
+                                        "area": "AREA1",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "02479a7b-b89e-4f87-bc5b-473e2a48d6c4",
+                                        "boundaryNum": 1,
+                                        "name": "HYDEAL COLONY (AANSHIK) - WARD 23-SALEMPUR RAJPUTANA",
+                                        "localname": "HYDEAL COLONY (AANSHIK) - WARD 23-SALEMPUR RAJPUTANA",
+                                        "longitude": null,
+                                        "latitude": null,
+                                        "label": "Locality",
+                                        "code": "M0085",
+                                        "area": "AREA1",
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "id": "0b381a55-52eb-4102-a309-449605886243",
+                                "boundaryNum": 1,
+                                "name": "WARD 24-SALEMPUR INDUSTRIAL AREA",
+                                "localname": "WARD 24-SALEMPUR INDUSTRIAL AREA",
+                                "longitude": null,
+                                "latitude": null,
+                                "label": "Block",
+                                "code": "W11709",
+                                "children": [
+                                    {
+                                        "id": "95d7b6f0-2049-4792-a97f-5988e886f281",
+                                        "boundaryNum": 1,
+                                        "name": "NAND VIHAR COLONY - WARD 24-SALEMPUR INDUSTRIAL AREA",
+                                        "localname": "NAND VIHAR COLONY - WARD 24-SALEMPUR INDUSTRIAL AREA",
+                                        "longitude": null,
+                                        "latitude": null,
+                                        "label": "Locality",
+                                        "code": "M0086",
+                                        "area": "AREA1",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "a078137e-d409-45a3-8318-2ae414e69e01",
+                                        "boundaryNum": 1,
+                                        "name": "SALEMPUR DAKSHANI - WARD 24-SALEMPUR INDUSTRIAL AREA",
+                                        "localname": "SALEMPUR DAKSHANI - WARD 24-SALEMPUR INDUSTRIAL AREA",
+                                        "longitude": null,
+                                        "latitude": null,
+                                        "label": "Locality",
+                                        "code": "M0087",
+                                        "area": "AREA1",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "4d602cda-b99e-403c-8778-521642c516e7",
+                                        "boundaryNum": 1,
+                                        "name": "SUNAHARA AANSHIK - WARD 24-SALEMPUR INDUSTRIAL AREA",
+                                        "localname": "SUNAHARA AANSHIK - WARD 24-SALEMPUR INDUSTRIAL AREA",
+                                        "longitude": null,
+                                        "latitude": null,
+                                        "label": "Locality",
+                                        "code": "M0088",
+                                        "area": "AREA1",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "2d61f561-c852-47af-81bf-fde733f85e62",
+                                        "boundaryNum": 1,
+                                        "name": "HYDEAL COLONY (AANSHIK) - WARD 24-SALEMPUR INDUSTRIAL AREA",
+                                        "localname": "HYDEAL COLONY (AANSHIK) - WARD 24-SALEMPUR INDUSTRIAL AREA",
+                                        "longitude": null,
+                                        "latitude": null,
+                                        "label": "Locality",
+                                        "code": "M0089",
+                                        "area": "AREA1",
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "id": "c156b4fe-1bf6-4cb2-b5e8-8f833f7ede78",
+                                "boundaryNum": 1,
+                                "name": "WARD 25-RAMNAGAR",
+                                "localname": "WARD 25-RAMNAGAR",
+                                "longitude": null,
+                                "latitude": null,
+                                "label": "Block",
+                                "code": "W11710",
+                                "children": [
+                                    {
+                                        "id": "7662264d-4e55-450b-a8a5-ac73a822de86",
+                                        "boundaryNum": 1,
+                                        "name": "RAMNAGAR - WARD 25-RAMNAGAR",
+                                        "localname": "RAMNAGAR - WARD 25-RAMNAGAR",
+                                        "longitude": null,
+                                        "latitude": null,
+                                        "label": "Locality",
+                                        "code": "M0090",
+                                        "area": "AREA1",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "95de5dd9-e5c8-4354-bb3c-f62c4b92a70c",
+                                        "boundaryNum": 1,
+                                        "name": "KRISHNAGAR - WARD 25-RAMNAGAR",
+                                        "localname": "KRISHNAGAR - WARD 25-RAMNAGAR",
+                                        "longitude": null,
+                                        "latitude": null,
+                                        "label": "Locality",
+                                        "code": "M0091",
+                                        "area": "AREA1",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "0a214645-284f-4c02-9f7d-daf356d85a54",
+                                        "boundaryNum": 1,
+                                        "name": "PREMNAGAR - WARD 25-RAMNAGAR",
+                                        "localname": "PREMNAGAR - WARD 25-RAMNAGAR",
+                                        "longitude": null,
+                                        "latitude": null,
+                                        "label": "Locality",
+                                        "code": "M0092",
+                                        "area": "AREA1",
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "id": "ae6c60ce-a6b2-44b5-88ec-ffa027d2354c",
+                                "boundaryNum": 1,
+                                "name": "WARD 26-AWAS VIKAS",
+                                "localname": "WARD 26-AWAS VIKAS",
+                                "longitude": null,
+                                "latitude": null,
+                                "label": "Block",
+                                "code": "W11711",
+                                "children": [
+                                    {
+                                        "id": "fb0c10aa-3ac1-4870-a35e-beff07fb67f8",
+                                        "boundaryNum": 1,
+                                        "name": "UTTARI RAMNAGAR - WARD 26-AWAS VIKAS",
+                                        "localname": "UTTARI RAMNAGAR - WARD 26-AWAS VIKAS",
+                                        "longitude": null,
+                                        "latitude": null,
+                                        "label": "Locality",
+                                        "code": "M0093",
+                                        "area": "AREA1",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "e6c65023-a27d-4dd4-bf5c-c1d1ab3d6cd2",
+                                        "boundaryNum": 1,
+                                        "name": "MADHY AVAS VIKAS - WARD 26-AWAS VIKAS",
+                                        "localname": "MADHY AVAS VIKAS - WARD 26-AWAS VIKAS",
+                                        "longitude": null,
+                                        "latitude": null,
+                                        "label": "Locality",
+                                        "code": "M0094",
+                                        "area": "AREA1",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "4d0b8cc5-16b5-40d2-bdcf-19af5f4b6714",
+                                        "boundaryNum": 1,
+                                        "name": "AMBEDKAR NAGAR - WARD 26-AWAS VIKAS",
+                                        "localname": "AMBEDKAR NAGAR - WARD 26-AWAS VIKAS",
+                                        "longitude": null,
+                                        "latitude": null,
+                                        "label": "Locality",
+                                        "code": "M0095",
+                                        "area": "AREA1",
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "id": "1c86b21c-e745-49df-9e7c-699a65d7d036",
+                                "boundaryNum": 1,
+                                "name": "WARD 27-MAKTOOLPURI",
+                                "localname": "WARD 27-MAKTOOLPURI",
+                                "longitude": null,
+                                "latitude": null,
+                                "label": "Block",
+                                "code": "W11712",
+                                "children": [
+                                    {
+                                        "id": "336de10b-86d0-422a-89ef-17b2e68e9f2b",
+                                        "boundaryNum": 1,
+                                        "name": "MAKTOOLPURI - WARD 27-MAKTOOLPURI",
+                                        "localname": "MAKTOOLPURI - WARD 27-MAKTOOLPURI",
+                                        "longitude": null,
+                                        "latitude": null,
+                                        "label": "Locality",
+                                        "code": "M0096",
+                                        "area": "AREA1",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "db783d99-14ba-42bc-9dec-7b1aeb4b6116",
+                                        "boundaryNum": 1,
+                                        "name": "AVAS VIKAS COLONY - WARD 27-MAKTOOLPURI",
+                                        "localname": "AVAS VIKAS COLONY - WARD 27-MAKTOOLPURI",
+                                        "longitude": null,
+                                        "latitude": null,
+                                        "label": "Locality",
+                                        "code": "M0097",
+                                        "area": "AREA1",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "e4e1932b-4ffe-4810-ae5c-741d0b870ccf",
+                                        "boundaryNum": 1,
+                                        "name": "NEHRU NAGAR - WARD 27-MAKTOOLPURI",
+                                        "localname": "NEHRU NAGAR - WARD 27-MAKTOOLPURI",
+                                        "longitude": null,
+                                        "latitude": null,
+                                        "label": "Locality",
+                                        "code": "M0098",
+                                        "area": "AREA1",
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "id": "a5f293da-b5e7-4800-98ca-349c216b3430",
+                                "boundaryNum": 1,
+                                "name": "WARD 29-SAKET",
+                                "localname": "WARD 29-SAKET",
+                                "longitude": null,
+                                "latitude": null,
+                                "label": "Block",
+                                "code": "W11713",
+                                "children": [
+                                    {
+                                        "id": "60e8a165-48fd-46d4-bfbd-2868c7c2ae26",
+                                        "boundaryNum": 1,
+                                        "name": "VEER BHAVAN NAGAR - WARD 29-SAKET",
+                                        "localname": "VEER BHAVAN NAGAR - WARD 29-SAKET",
+                                        "longitude": null,
+                                        "latitude": null,
+                                        "label": "Locality",
+                                        "code": "M0099",
+                                        "area": "AREA1",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "3fddb7fb-4fec-4a80-bb25-e7e8fe4337b9",
+                                        "boundaryNum": 1,
+                                        "name": "SAKET - WARD 29-SAKET",
+                                        "localname": "SAKET - WARD 29-SAKET",
+                                        "longitude": null,
+                                        "latitude": null,
+                                        "label": "Locality",
+                                        "code": "M0100",
+                                        "area": "AREA1",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "6db0b6c0-e63a-4b86-81ef-f2fe9be320dc",
+                                        "boundaryNum": 1,
+                                        "name": "CHANDRAPURI QUARTERS - WARD 29-SAKET",
+                                        "localname": "CHANDRAPURI QUARTERS - WARD 29-SAKET",
+                                        "longitude": null,
+                                        "latitude": null,
+                                        "label": "Locality",
+                                        "code": "M0101",
+                                        "area": "AREA1",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "1da4b539-0514-469a-817f-7888f2dffbf2",
+                                        "boundaryNum": 1,
+                                        "name": "CHOWMANDI ( AANSHIK) - WARD 29-SAKET",
+                                        "localname": "CHOWMANDI ( AANSHIK) - WARD 29-SAKET",
+                                        "longitude": null,
+                                        "latitude": null,
+                                        "label": "Locality",
+                                        "code": "M0102",
+                                        "area": "AREA1",
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "id": "bd0d899e-35d6-4fcc-b598-9039595ccebc",
+                                "boundaryNum": 1,
+                                "name": "WARD 32-WORLD BANK COLONY",
+                                "localname": "WARD 32-WORLD BANK COLONY",
+                                "longitude": null,
+                                "latitude": null,
+                                "label": "Block",
+                                "code": "W11714",
+                                "children": [
+                                    {
+                                        "id": "6c9ccca8-862a-440f-ae3b-43820c72a31a",
+                                        "boundaryNum": 1,
+                                        "name": "WORLD BANK COLONY - WARD 32-WORLD BANK COLONY",
+                                        "localname": "WORLD BANK COLONY - WARD 32-WORLD BANK COLONY",
+                                        "longitude": null,
+                                        "latitude": null,
+                                        "label": "Locality",
+                                        "code": "M0103",
+                                        "area": "AREA1",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "2b0c064b-1011-427d-82bc-1bf84ffefd75",
+                                        "boundaryNum": 1,
+                                        "name": "B. T. GANJ - WARD 32-WORLD BANK COLONY",
+                                        "localname": "B. T. GANJ - WARD 32-WORLD BANK COLONY",
+                                        "longitude": null,
+                                        "latitude": null,
+                                        "label": "Locality",
+                                        "code": "M0104",
+                                        "area": "AREA1",
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "id": "a0c37a76-d854-492d-962a-9f37014f4644",
+                                "boundaryNum": 1,
+                                "name": "WARD 36-BHARAT NAGAR",
+                                "localname": "WARD 36-BHARAT NAGAR",
+                                "longitude": null,
+                                "latitude": null,
+                                "label": "Block",
+                                "code": "W11715",
+                                "children": [
+                                    {
+                                        "id": "9ff7bf90-b4c4-496c-a499-090238f0f5be",
+                                        "boundaryNum": 1,
+                                        "name": "MAHIGRAN - WARD 36-BHARAT NAGAR",
+                                        "localname": "MAHIGRAN - WARD 36-BHARAT NAGAR",
+                                        "longitude": null,
+                                        "latitude": null,
+                                        "label": "Locality",
+                                        "code": "M0105",
+                                        "area": "AREA1",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "67384a66-6376-48fe-8425-b80db2edf1ab",
+                                        "boundaryNum": 1,
+                                        "name": "BHARAT NAGAR DAKSHNI - WARD 36-BHARAT NAGAR",
+                                        "localname": "BHARAT NAGAR DAKSHNI - WARD 36-BHARAT NAGAR",
+                                        "longitude": null,
+                                        "latitude": null,
+                                        "label": "Locality",
+                                        "code": "M0106",
+                                        "area": "AREA1",
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "id": "ee978b59-f261-49c6-8eea-68eeb73955e4",
+                                "boundaryNum": 1,
+                                "name": "WARD 38-SUNEHARA",
+                                "localname": "WARD 38-SUNEHARA",
+                                "longitude": null,
+                                "latitude": null,
+                                "label": "Block",
+                                "code": "W11716",
+                                "children": [
+                                    {
+                                        "id": "49d3cadc-f1b0-4859-97aa-41f66c27bcd2",
+                                        "boundaryNum": 1,
+                                        "name": "RAMNAGAR - WARD 38-SUNEHARA",
+                                        "localname": "RAMNAGAR - WARD 38-SUNEHARA",
+                                        "longitude": null,
+                                        "latitude": null,
+                                        "label": "Locality",
+                                        "code": "M0107",
+                                        "area": "AREA1",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "0b63e068-c1ba-4128-a09f-379906771e8e",
+                                        "boundaryNum": 1,
+                                        "name": "AMBEDKAR - WARD 38-SUNEHARA",
+                                        "localname": "AMBEDKAR - WARD 38-SUNEHARA",
+                                        "longitude": null,
+                                        "latitude": null,
+                                        "label": "Locality",
+                                        "code": "M0108",
+                                        "area": "AREA1",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "cdfff65b-15a8-4f94-a30b-06762ddb39c0",
+                                        "boundaryNum": 1,
+                                        "name": "SUNAHARA - WARD 38-SUNEHARA",
+                                        "localname": "SUNAHARA - WARD 38-SUNEHARA",
+                                        "longitude": null,
+                                        "latitude": null,
+                                        "label": "Locality",
+                                        "code": "M0109",
+                                        "area": "AREA1",
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "id": "74aaea4b-84eb-46d9-82f7-14348d643082",
+                                "boundaryNum": 1,
+                                "name": "WARD 39-KASHIPURI",
+                                "localname": "WARD 39-KASHIPURI",
+                                "longitude": null,
+                                "latitude": null,
+                                "label": "Block",
+                                "code": "W11717",
+                                "children": [
+                                    {
+                                        "id": "25e11fb6-c9fa-4872-b169-5160c4058531",
+                                        "boundaryNum": 1,
+                                        "name": "KASHIPURI - WARD 39-KASHIPURI",
+                                        "localname": "KASHIPURI - WARD 39-KASHIPURI",
+                                        "longitude": null,
+                                        "latitude": null,
+                                        "label": "Locality",
+                                        "code": "M0110",
+                                        "area": "AREA1",
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "id": "764b4227-a4cd-472c-bf49-ddb9403bede6",
+                                "boundaryNum": 1,
+                                "name": "WARD 40-MATLABPUR",
+                                "localname": "WARD 40-MATLABPUR",
+                                "longitude": null,
+                                "latitude": null,
+                                "label": "Block",
+                                "code": "W11718",
+                                "children": [
+                                    {
+                                        "id": "264f766f-8f66-4677-89e6-0f71f05dd128",
+                                        "boundaryNum": 1,
+                                        "name": "MATLABPUR - WARD 40-MATLABPUR",
+                                        "localname": "MATLABPUR - WARD 40-MATLABPUR",
+                                        "longitude": null,
+                                        "latitude": null,
+                                        "label": "Locality",
+                                        "code": "M0111",
+                                        "area": "AREA1",
+                                        "children": []
+                                    },
+                                    {
+                                        "id": "b09eacbc-cda4-4e09-9b31-8c992689362f",
+                                        "boundaryNum": 1,
+                                        "name": "SUNAHARA - WARD 40-MATLABPUR",
+                                        "localname": "SUNAHARA - WARD 40-MATLABPUR",
+                                        "longitude": null,
+                                        "latitude": null,
+                                        "label": "Locality",
+                                        "code": "M0112",
+                                        "area": "AREA1",
+                                        "children": []
+                                    }
+                                ]
+                            }
+                        ]
+                    }
                 ]
-              },
-              {
-                "id": "6b53942c-06d4-420b-9dbc-55e692b7d4f3",
-                "boundaryNum": 1,
-                "name": "Ward -2 AMBAR TALAB PASHCHMI",
-                "localname": "Ward -2 AMBAR TALAB PASHCHMI",
-                "longitude": null,
-                "latitude": null,
-                "label": "Block",
-                "code": "W11674",
-                "children": [
-                  {
-                    "id": "67d1320c-5dfd-48bb-91c0-f1201a5936d9",
-                    "boundaryNum": 1,
-                    "name": "Amber Talab Paschimi Part-1 - Ward -2 AMBAR TALAB PASHCHMI",
-                    "localname": "Amber Talab Paschimi Part-1 - Ward -2 AMBAR TALAB PASHCHMI",
-                    "longitude": null,
-                    "latitude": null,
-                    "label": "Locality",
-                    "code": "M0002",
-                    "area": "AREA1",
-                    "children": []
-                  }
-                ]
-              },
-              {
-                "id": "c535430c-02eb-4555-9aae-4df28fd20456",
-                "boundaryNum": 1,
-                "name": "Ward -3 SHEKHPURI",
-                "localname": "Ward -3 SHEKHPURI",
-                "longitude": null,
-                "latitude": null,
-                "label": "Block",
-                "code": "W11675",
-                "children": [
-                  {
-                    "id": "cbac971c-af86-4b07-b605-4904f54f93ad",
-                    "boundaryNum": 1,
-                    "name": "Shekhpuri - Ward -3 SHEKHPURI",
-                    "localname": "Shekhpuri - Ward -3 SHEKHPURI",
-                    "longitude": null,
-                    "latitude": null,
-                    "label": "Locality",
-                    "code": "M0003",
-                    "area": "AREA1",
-                    "children": []
-                  },
-                  {
-                    "id": "12395230-b0ed-42d1-8985-ee6df8446559",
-                    "boundaryNum": 1,
-                    "name": "Ganeshpur Part-1 - Ward -3 SHEKHPURI",
-                    "localname": "Ganeshpur Part-1 - Ward -3 SHEKHPURI",
-                    "longitude": null,
-                    "latitude": null,
-                    "label": "Locality",
-                    "code": "M0004",
-                    "area": "AREA1",
-                    "children": []
-                  },
-                  {
-                    "id": "97480ea9-bdb6-4528-9755-9f78ffd2705a",
-                    "boundaryNum": 1,
-                    "name": "Nehru Nagar Part-1 - Ward -3 SHEKHPURI",
-                    "localname": "Nehru Nagar Part-1 - Ward -3 SHEKHPURI",
-                    "longitude": null,
-                    "latitude": null,
-                    "label": "Locality",
-                    "code": "M0005",
-                    "area": "AREA1",
-                    "children": []
-                  }
-                ]
-              },
-              {
-                "id": "54d98220-eb23-4e38-a387-d3cab03f95fe",
-                "boundaryNum": 1,
-                "name": "Ward -4 PURVAVALLI",
-                "localname": "Ward -4 PURVAVALLI",
-                "longitude": null,
-                "latitude": null,
-                "label": "Block",
-                "code": "W11676",
-                "children": [
-                  {
-                    "id": "492602ec-5e58-4976-9205-354d1f4baa4e",
-                    "boundaryNum": 1,
-                    "name": "Purvavalli - Ward -4 PURVAVALLI",
-                    "localname": "Purvavalli - Ward -4 PURVAVALLI",
-                    "longitude": null,
-                    "latitude": null,
-                    "label": "Locality",
-                    "code": "M0006",
-                    "area": "AREA1",
-                    "children": []
-                  },
-                  {
-                    "id": "60ed565f-170d-4b93-9cc4-1fd4863d78fb",
-                    "boundaryNum": 1,
-                    "name": "Ganeshpur Part-2 - Ward -4 PURVAVALLI",
-                    "localname": "Ganeshpur Part-2 - Ward -4 PURVAVALLI",
-                    "longitude": null,
-                    "latitude": null,
-                    "label": "Locality",
-                    "code": "M0007",
-                    "area": "AREA1",
-                    "children": []
-                  }
-                ]
-              },
-              {
-                "id": "647a6075-a780-4214-8576-9c70f671f8a5",
-                "boundaryNum": 1,
-                "name": "Ward -5 PURVI DEENDAYAL",
-                "localname": "Ward -5 PURVI DEENDAYAL",
-                "longitude": null,
-                "latitude": null,
-                "label": "Block",
-                "code": "W11677",
-                "children": [
-                  {
-                    "id": "6b46b535-a967-4708-9366-3376406e8961",
-                    "boundaryNum": 1,
-                    "name": "Purvi deendayal - Ward -5 PURVI DEENDAYAL",
-                    "localname": "Purvi deendayal - Ward -5 PURVI DEENDAYAL",
-                    "longitude": null,
-                    "latitude": null,
-                    "label": "Locality",
-                    "code": "M0008",
-                    "area": "AREA1",
-                    "children": []
-                  },
-                  {
-                    "id": "6fb02067-1f5d-4be1-9928-ff286d5d911d",
-                    "boundaryNum": 1,
-                    "name": "Chawmandi Part-2 - Ward -5 PURVI DEENDAYAL",
-                    "localname": "Chawmandi Part-2 - Ward -5 PURVI DEENDAYAL",
-                    "longitude": null,
-                    "latitude": null,
-                    "label": "Locality",
-                    "code": "M0009",
-                    "area": "AREA1",
-                    "children": []
-                  },
-                  {
-                    "id": "3aafe94f-d4e2-4b9b-a862-c101d0420bd8",
-                    "boundaryNum": 1,
-                    "name": "Amber Talab Purvi Part-1 - Ward -5 PURVI DEENDAYAL",
-                    "localname": "Amber Talab Purvi Part-1 - Ward -5 PURVI DEENDAYAL",
-                    "longitude": null,
-                    "latitude": null,
-                    "label": "Locality",
-                    "code": "M0010",
-                    "area": "AREA1",
-                    "children": []
-                  }
-                ]
-              },
-              {
-                "id": "face184f-5019-4da4-8543-879f1e6f3edb",
-                "boundaryNum": 1,
-                "name": "Ward -6 PURVI  AMBAR TALAB",
-                "localname": "Ward -6 PURVI  AMBAR TALAB",
-                "longitude": null,
-                "latitude": null,
-                "label": "Block",
-                "code": "W11678",
-                "children": [
-                  {
-                    "id": "86aab757-9453-434b-9262-3f3b4739b8b1",
-                    "boundaryNum": 1,
-                    "name": "Amber Talab Purvi Part-2 - Ward -6 PURVI  AMBAR TALAB",
-                    "localname": "Amber Talab Purvi Part-2 - Ward -6 PURVI  AMBAR TALAB",
-                    "longitude": null,
-                    "latitude": null,
-                    "label": "Locality",
-                    "code": "M0011",
-                    "area": "AREA1",
-                    "children": []
-                  },
-                  {
-                    "id": "9fe1fcaa-15e9-4cf0-a496-95b452bded8f",
-                    "boundaryNum": 1,
-                    "name": "Chawmandi Part-3 - Ward -6 PURVI  AMBAR TALAB",
-                    "localname": "Chawmandi Part-3 - Ward -6 PURVI  AMBAR TALAB",
-                    "longitude": null,
-                    "latitude": null,
-                    "label": "Locality",
-                    "code": "M0012",
-                    "area": "AREA1",
-                    "children": []
-                  }
-                ]
-              },
-              {
-                "id": "1d4364c9-5bb3-45ad-a430-9bacf1dfc0e4",
-                "boundaryNum": 1,
-                "name": "Ward -7 IIT  ROORKEE",
-                "localname": "Ward -7 IIT  ROORKEE",
-                "longitude": null,
-                "latitude": null,
-                "label": "Block",
-                "code": "W11679",
-                "children": [
-                  {
-                    "id": "b2efb5be-5082-4391-84fc-547dd6c36304",
-                    "boundaryNum": 1,
-                    "name": "IIT Roorkee Part-1 - Ward -7 IIT  ROORKEE",
-                    "localname": "IIT Roorkee Part-1 - Ward -7 IIT  ROORKEE",
-                    "longitude": null,
-                    "latitude": null,
-                    "label": "Locality",
-                    "code": "M0013",
-                    "area": "AREA1",
-                    "children": []
-                  }
-                ]
-              },
-              {
-                "id": "0c68b482-208c-48c5-a2c0-536628fbdeea",
-                "boundaryNum": 1,
-                "name": "Ward -8 CBRI",
-                "localname": "Ward -8 CBRI",
-                "longitude": null,
-                "latitude": null,
-                "label": "Block",
-                "code": "W11680",
-                "children": [
-                  {
-                    "id": "4897350c-4b7f-4d5a-8503-497c64dae139",
-                    "boundaryNum": 1,
-                    "name": "CBRI - Ward -8 CBRI",
-                    "localname": "CBRI - Ward -8 CBRI",
-                    "longitude": null,
-                    "latitude": null,
-                    "label": "Locality",
-                    "code": "M0014",
-                    "area": "AREA1",
-                    "children": []
-                  },
-                  {
-                    "id": "f8105ce8-30d8-419a-a1c1-a6749516e46d",
-                    "boundaryNum": 1,
-                    "name": "Malakpur - Ward -8 CBRI",
-                    "localname": "Malakpur - Ward -8 CBRI",
-                    "longitude": null,
-                    "latitude": null,
-                    "label": "Locality",
-                    "code": "M0015",
-                    "area": "AREA1",
-                    "children": []
-                  },
-                  {
-                    "id": "bda67972-68db-4b82-9a07-9bf427826cf1",
-                    "boundaryNum": 1,
-                    "name": "IIT Roorkee Part-2 - Ward -8 CBRI",
-                    "localname": "IIT Roorkee Part-2 - Ward -8 CBRI",
-                    "longitude": null,
-                    "latitude": null,
-                    "label": "Locality",
-                    "code": "M0016",
-                    "area": "AREA1",
-                    "children": []
-                  }
-                ]
-              },
-              {
-                "id": "34b84f7b-2078-443a-ab06-96d9725553bc",
-                "boundaryNum": 1,
-                "name": "Ward -9 SOT",
-                "localname": "Ward -9 SOT",
-                "longitude": null,
-                "latitude": null,
-                "label": "Block",
-                "code": "W11681",
-                "children": [
-                  {
-                    "id": "6cc4f8ef-9219-4f07-b4bf-b1849aa59142",
-                    "boundaryNum": 1,
-                    "name": "Sot - Ward -9 SOT",
-                    "localname": "Sot - Ward -9 SOT",
-                    "longitude": null,
-                    "latitude": null,
-                    "label": "Locality",
-                    "code": "M0017",
-                    "area": "AREA1",
-                    "children": []
-                  },
-                  {
-                    "id": "cdbaa009-0a26-4bd0-9a84-5ed3c922c880",
-                    "boundaryNum": 1,
-                    "name": "Kanongoyan - Ward -9 SOT",
-                    "localname": "Kanongoyan - Ward -9 SOT",
-                    "longitude": null,
-                    "latitude": null,
-                    "label": "Locality",
-                    "code": "M0018",
-                    "area": "AREA1",
-                    "children": []
-                  }
-                ]
-              },
-              {
-                "id": "30447d89-643e-468e-91e9-486248e2468b",
-                "boundaryNum": 1,
-                "name": "Ward 10-CIVIL LINES UTTARI",
-                "localname": "Ward 10-CIVIL LINES UTTARI",
-                "longitude": null,
-                "latitude": null,
-                "label": "Block",
-                "code": "W11682",
-                "children": [
-                  {
-                    "id": "d99c67cd-bae0-4490-97da-cee0e63db6db",
-                    "boundaryNum": 1,
-                    "name": "Civil Lines Part-1 - Ward 10-CIVIL LINES UTTARI",
-                    "localname": "Civil Lines Part-1 - Ward 10-CIVIL LINES UTTARI",
-                    "longitude": null,
-                    "latitude": null,
-                    "label": "Locality",
-                    "code": "M0019",
-                    "area": "AREA1",
-                    "children": []
-                  },
-                  {
-                    "id": "380dc34e-665d-4909-844d-c98673741be7",
-                    "boundaryNum": 1,
-                    "name": "Pathanpura - Ward 10-CIVIL LINES UTTARI",
-                    "localname": "Pathanpura - Ward 10-CIVIL LINES UTTARI",
-                    "longitude": null,
-                    "latitude": null,
-                    "label": "Locality",
-                    "code": "M0020",
-                    "area": "AREA1",
-                    "children": []
-                  },
-                  {
-                    "id": "92a74d9c-92ab-40c7-8829-81a9a3dcb39a",
-                    "boundaryNum": 1,
-                    "name": "Adarsh Nagar - Ward 10-CIVIL LINES UTTARI",
-                    "localname": "Adarsh Nagar - Ward 10-CIVIL LINES UTTARI",
-                    "longitude": null,
-                    "latitude": null,
-                    "label": "Locality",
-                    "code": "M0021",
-                    "area": "AREA1",
-                    "children": []
-                  }
-                ]
-              },
-              {
-                "id": "4c379a4b-28e0-4f1c-9f41-f309abfcbf35",
-                "boundaryNum": 1,
-                "name": "Ward -11 AMBAR TALAB PASHCHIMI",
-                "localname": "Ward -11 AMBAR TALAB PASHCHIMI",
-                "longitude": null,
-                "latitude": null,
-                "label": "Block",
-                "code": "W11683",
-                "children": [
-                  {
-                    "id": "82a03a8b-ceb7-4008-84ca-7f09f200d7a3",
-                    "boundaryNum": 1,
-                    "name": "Amber Talab Paschimi Part-2 - Ward -11 AMBAR TALAB PASHCHIMI",
-                    "localname": "Amber Talab Paschimi Part-2 - Ward -11 AMBAR TALAB PASHCHIMI",
-                    "longitude": null,
-                    "latitude": null,
-                    "label": "Locality",
-                    "code": "M0022",
-                    "area": "AREA1",
-                    "children": []
-                  },
-                  {
-                    "id": "105741e6-f40a-4e3f-a1bb-6a47d67aafc6",
-                    "boundaryNum": 1,
-                    "name": "Awas Vikas - Ward -11 AMBAR TALAB PASHCHIMI",
-                    "localname": "Awas Vikas - Ward -11 AMBAR TALAB PASHCHIMI",
-                    "longitude": null,
-                    "latitude": null,
-                    "label": "Locality",
-                    "code": "M0038",
-                    "area": "AREA1",
-                    "children": []
-                  }
-                ]
-              },
-              {
-                "id": "5666aab7-6ab5-424a-84d9-0ea029e2d7ce",
-                "boundaryNum": 1,
-                "name": "Ward -12  CIVIL LINES DAKSHINI",
-                "localname": "Ward -12  CIVIL LINES DAKSHINI",
-                "longitude": null,
-                "latitude": null,
-                "label": "Block",
-                "code": "W11684",
-                "children": [
-                  {
-                    "id": "b0b9c64e-cf97-4121-b6d4-37d97ec80d4f",
-                    "boundaryNum": 1,
-                    "name": "Civil Lines Part-2 - Ward -12  CIVIL LINES DAKSHINI",
-                    "localname": "Civil Lines Part-2 - Ward -12  CIVIL LINES DAKSHINI",
-                    "longitude": null,
-                    "latitude": null,
-                    "label": "Locality",
-                    "code": "M0023",
-                    "area": "AREA1",
-                    "children": []
-                  }
-                ]
-              },
-              {
-                "id": "3f3efe5d-21aa-4d05-84b0-79fcd98905fb",
-                "boundaryNum": 1,
-                "name": "Ward -13 AMBAR TALAB PASHCHIMI DAKSHNI",
-                "localname": "Ward -13 AMBAR TALAB PASHCHIMI DAKSHNI",
-                "longitude": null,
-                "latitude": null,
-                "label": "Block",
-                "code": "W11685",
-                "children": [
-                  {
-                    "id": "f08bef05-7e41-4132-ace6-756b331582f3",
-                    "boundaryNum": 1,
-                    "name": "Amber Talab Paschimi Part-3 - Ward -13 AMBAR TALAB PASHCHIMI DAKSHNI",
-                    "localname": "Amber Talab Paschimi Part-3 - Ward -13 AMBAR TALAB PASHCHIMI DAKSHNI",
-                    "longitude": null,
-                    "latitude": null,
-                    "label": "Locality",
-                    "code": "M0024",
-                    "area": "AREA1",
-                    "children": []
-                  },
-                  {
-                    "id": "bedae071-c856-4824-a8cc-80d1dfd7483c",
-                    "boundaryNum": 1,
-                    "name": "Maktoolpuri - Ward -13 AMBAR TALAB PASHCHIMI DAKSHNI",
-                    "localname": "Maktoolpuri - Ward -13 AMBAR TALAB PASHCHIMI DAKSHNI",
-                    "longitude": null,
-                    "latitude": null,
-                    "label": "Locality",
-                    "code": "M0025",
-                    "area": "AREA1",
-                    "children": []
-                  },
-                  {
-                    "id": "e4ea2e4e-eb19-4bce-a390-814c2f566765",
-                    "boundaryNum": 1,
-                    "name": "Nehru Nagar Part-2 - Ward -13 AMBAR TALAB PASHCHIMI DAKSHNI",
-                    "localname": "Nehru Nagar Part-2 - Ward -13 AMBAR TALAB PASHCHIMI DAKSHNI",
-                    "longitude": null,
-                    "latitude": null,
-                    "label": "Locality",
-                    "code": "M0026",
-                    "area": "AREA1",
-                    "children": []
-                  }
-                ]
-              },
-              {
-                "id": "72e9ac67-b8b0-4a1e-b213-c1722966bdd2",
-                "boundaryNum": 1,
-                "name": "Ward -14 CIVIL LINE MADHYA",
-                "localname": "Ward -14 CIVIL LINE MADHYA",
-                "longitude": null,
-                "latitude": null,
-                "label": "Block",
-                "code": "W11686",
-                "children": [
-                  {
-                    "id": "fb96c6aa-58f0-4e84-bbdc-9adc6a0a0225",
-                    "boundaryNum": 1,
-                    "name": "Civil Lines Part-3 - Ward -14 CIVIL LINE MADHYA",
-                    "localname": "Civil Lines Part-3 - Ward -14 CIVIL LINE MADHYA",
-                    "longitude": null,
-                    "latitude": null,
-                    "label": "Locality",
-                    "code": "M0027",
-                    "area": "AREA1",
-                    "children": []
-                  }
-                ]
-              },
-              {
-                "id": "eb00b0f7-27f7-4cfc-ad0f-62e279f33213",
-                "boundaryNum": 1,
-                "name": "Ward -15 RAMNAGAR DAKSHNI",
-                "localname": "Ward -15 RAMNAGAR DAKSHNI",
-                "longitude": null,
-                "latitude": null,
-                "label": "Block",
-                "code": "W11687",
-                "children": [
-                  {
-                    "id": "1ed027e9-0b5e-40e6-8525-1670dfaa1f25",
-                    "boundaryNum": 1,
-                    "name": "Ramanagar Part-1 - Ward -15 RAMNAGAR DAKSHNI",
-                    "localname": "Ramanagar Part-1 - Ward -15 RAMNAGAR DAKSHNI",
-                    "longitude": null,
-                    "latitude": null,
-                    "label": "Locality",
-                    "code": "M0028",
-                    "area": "AREA1",
-                    "children": []
-                  },
-                  {
-                    "id": "0ae4dcf8-12b1-47ae-955e-c9e6822ab369",
-                    "boundaryNum": 1,
-                    "name": "Azadnagar - Ward -15 RAMNAGAR DAKSHNI",
-                    "localname": "Azadnagar - Ward -15 RAMNAGAR DAKSHNI",
-                    "longitude": null,
-                    "latitude": null,
-                    "label": "Locality",
-                    "code": "M0029",
-                    "area": "AREA1",
-                    "children": []
-                  }
-                ]
-              },
-              {
-                "id": "b2c09379-7269-43c8-90bb-240fd0f7ee94",
-                "boundaryNum": 1,
-                "name": "Ward -16 MAHIGRAN",
-                "localname": "Ward -16 MAHIGRAN",
-                "longitude": null,
-                "latitude": null,
-                "label": "Block",
-                "code": "W11688",
-                "children": [
-                  {
-                    "id": "118d6af3-0820-4e58-ad64-3ee578252df0",
-                    "boundaryNum": 1,
-                    "name": "Mahigran - Ward -16 MAHIGRAN",
-                    "localname": "Mahigran - Ward -16 MAHIGRAN",
-                    "longitude": null,
-                    "latitude": null,
-                    "label": "Locality",
-                    "code": "M0030",
-                    "area": "AREA1",
-                    "children": []
-                  }
-                ]
-              },
-              {
-                "id": "dc3cf88f-5725-4070-a963-f641b9d799b4",
-                "boundaryNum": 1,
-                "name": "Ward -17 RAJPUTTANA PASHCHIMI",
-                "localname": "Ward -17 RAJPUTTANA PASHCHIMI",
-                "longitude": null,
-                "latitude": null,
-                "label": "Block",
-                "code": "W11689",
-                "children": [
-                  {
-                    "id": "04576aaa-8215-4ed6-82f5-494f58b6f3ce",
-                    "boundaryNum": 1,
-                    "name": "Rajputana Paschimi - Ward -17 RAJPUTTANA PASHCHIMI",
-                    "localname": "Rajputana Paschimi - Ward -17 RAJPUTTANA PASHCHIMI",
-                    "longitude": null,
-                    "latitude": null,
-                    "label": "Locality",
-                    "code": "M0031",
-                    "area": "AREA1",
-                    "children": []
-                  },
-                  {
-                    "id": "0de9237a-25d4-4a78-9720-477863084bf2",
-                    "boundaryNum": 1,
-                    "name": "Rajputana Purvi - Ward -17 RAJPUTTANA PASHCHIMI",
-                    "localname": "Rajputana Purvi - Ward -17 RAJPUTTANA PASHCHIMI",
-                    "longitude": null,
-                    "latitude": null,
-                    "label": "Locality",
-                    "code": "M0032",
-                    "area": "AREA1",
-                    "children": []
-                  },
-                  {
-                    "id": "39d73164-f1c8-4b7e-bd20-a20a072eed43",
-                    "boundaryNum": 1,
-                    "name": "BT Gang - Ward -17 RAJPUTTANA PASHCHIMI",
-                    "localname": "BT Gang - Ward -17 RAJPUTTANA PASHCHIMI",
-                    "longitude": null,
-                    "latitude": null,
-                    "label": "Locality",
-                    "code": "M0033",
-                    "area": "AREA1",
-                    "children": []
-                  },
-                  {
-                    "id": "8451f764-d033-49b1-b9f8-a96571c40326",
-                    "boundaryNum": 1,
-                    "name": "Amber Talab Purvi Part-3 - Ward -17 RAJPUTTANA PASHCHIMI",
-                    "localname": "Amber Talab Purvi Part-3 - Ward -17 RAJPUTTANA PASHCHIMI",
-                    "longitude": null,
-                    "latitude": null,
-                    "label": "Locality",
-                    "code": "M0034",
-                    "area": "AREA1",
-                    "children": []
-                  }
-                ]
-              },
-              {
-                "id": "92669cb8-8a61-4158-bc60-9cd45840ea28",
-                "boundaryNum": 1,
-                "name": "Ward -18 RAMNAGAR UTTARI",
-                "localname": "Ward -18 RAMNAGAR UTTARI",
-                "longitude": null,
-                "latitude": null,
-                "label": "Block",
-                "code": "W11690",
-                "children": [
-                  {
-                    "id": "b0341b42-24d9-42ad-ba99-9a4e79495f85",
-                    "boundaryNum": 1,
-                    "name": "Ramanagar Part-2 - Ward -18 RAMNAGAR UTTARI",
-                    "localname": "Ramanagar Part-2 - Ward -18 RAMNAGAR UTTARI",
-                    "longitude": null,
-                    "latitude": null,
-                    "label": "Locality",
-                    "code": "M0035",
-                    "area": "AREA1",
-                    "children": []
-                  }
-                ]
-              },
-              {
-                "id": "b2c0bef1-77b9-4821-99e2-77f354aae502",
-                "boundaryNum": 1,
-                "name": "Ward -19 PURANI TEHSIL",
-                "localname": "Ward -19 PURANI TEHSIL",
-                "longitude": null,
-                "latitude": null,
-                "label": "Block",
-                "code": "W11691",
-                "children": [
-                  {
-                    "id": "bd970ccc-6091-4517-8a7e-5baba887c179",
-                    "boundaryNum": 1,
-                    "name": "Purani Tehshil - Ward -19 PURANI TEHSIL",
-                    "localname": "Purani Tehshil - Ward -19 PURANI TEHSIL",
-                    "longitude": null,
-                    "latitude": null,
-                    "label": "Locality",
-                    "code": "M0036",
-                    "area": "AREA1",
-                    "children": []
-                  }
-                ]
-              },
-              {
-                "id": "0ec6fd37-4fb0-47b0-a707-0eed7baebebe",
-                "boundaryNum": 1,
-                "name": "Ward -20 SATTI",
-                "localname": "Ward -20 SATTI",
-                "longitude": null,
-                "latitude": null,
-                "label": "Block",
-                "code": "W11692",
-                "children": [
-                  {
-                    "id": "ce38bd66-83e6-4dfe-8c33-4d305e1838b3",
-                    "boundaryNum": 1,
-                    "name": "Satti - Ward -20 SATTI",
-                    "localname": "Satti - Ward -20 SATTI",
-                    "longitude": null,
-                    "latitude": null,
-                    "label": "Locality",
-                    "code": "M0037",
-                    "area": "AREA1",
-                    "children": []
-                  }
-                ]
-              }
-            ]
-          }
-        ]
-      }
-    }
-  ]
+            }
+        }
+    ]
 }
- 
