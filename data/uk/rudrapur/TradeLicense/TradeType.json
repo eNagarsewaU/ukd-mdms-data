@@ -4239,6 +4239,32 @@
       "verificationDocument": [],
       "active": true,
       "type": "TL"
+    },
+    {
+      "code": "TRADE.HOTELS.OTH",
+      "uom": null,
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "AC009",
+            "AC016",
+            "OWNERPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "AC009",
+            "AC016",
+            "OWNERPHOTO",
+            "OLDLICENSENO"
+          ]
+        }
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL"
     }
   ]
 }
