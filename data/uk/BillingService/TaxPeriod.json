@@ -156,7 +156,7 @@
     },
     {
       "fromDate": 1396310399000,
-      "toDate": 1711929599000,
+      "toDate": 1743465599000,
       "periodCycle": "ANNUAL",
       "service": "ADMN.Election_rally_fees",
       "code": "ADMNELECTIONRALLYFEES",
@@ -164,7 +164,7 @@
     },
     {
       "fromDate": 1396310399000,
-      "toDate": 1711929599000,
+      "toDate": 1743465599000,
       "periodCycle": "ANNUAL",
       "service": "ADMN.Parking_during_election",
       "code": "ADMNPARKINGDURINGELECTION",
@@ -172,7 +172,7 @@
     },
     {
       "fromDate": 1396310399000,
-      "toDate": 1711929599000,
+      "toDate": 1743465599000,
       "periodCycle": "ANNUAL",
       "service": "ADMN.Road_show",
       "code": "ADMNROADSHOW",
@@ -180,7 +180,7 @@
     },
     {
       "fromDate": 1396310399000,
-      "toDate": 1711929599000,
+      "toDate": 1743465599000,
       "periodCycle": "ANNUAL",
       "service": "ADMN.other_show_fee",
       "code": "ADMNOTHERSHOWFEE",
@@ -188,7 +188,7 @@
     },
     {
       "fromDate": 1396310399000,
-      "toDate": 1711929599000,
+      "toDate": 1743465599000,
       "periodCycle": "ANNUAL",
       "service": "ADMN.RTI",
       "code": "ADMNRTI",
@@ -196,7 +196,7 @@
     },
     {
       "fromDate": 1396310399000,
-      "toDate": 1711929599000,
+      "toDate": 1743465599000,
       "periodCycle": "ANNUAL",
       "service": "ADMN.No_Due_Certificate_fees",
       "code": "ADMNNODUECERTIFICATEFEES",
@@ -204,7 +204,7 @@
     },
     {
       "fromDate": 1396310399000,
-      "toDate": 1711929599000,
+      "toDate": 1743465599000,
       "periodCycle": "ANNUAL",
       "service": "ADVT.Hoardings",
       "code": "ADVTHOARDINGS",
@@ -212,7 +212,7 @@
     },
     {
       "fromDate": 1396310399000,
-      "toDate": 1711929599000,
+      "toDate": 1743465599000,
       "periodCycle": "ANNUAL",
       "service": "ADVT.Unipolls",
       "code": "ADVTUNIPOLLS",
@@ -220,7 +220,7 @@
     },
     {
       "fromDate": 1396310399000,
-      "toDate": 1711929599000,
+      "toDate": 1743465599000,
       "periodCycle": "ANNUAL",
       "service": "ADVT.Wall _Paint _Advertisement",
       "code": "ADVTWALL PAINT ADVERTISEMENT",
@@ -228,7 +228,7 @@
     },
     {
       "fromDate": 1396310399000,
-      "toDate": 1711929599000,
+      "toDate": 1743465599000,
       "periodCycle": "ANNUAL",
       "service": "ADVT.Gas _Balloon _Advertisement",
       "code": "ADVTGAS BALLOON ADVERTISEMENT",
@@ -236,7 +236,7 @@
     },
     {
       "fromDate": 1396310399000,
-      "toDate": 1711929599000,
+      "toDate": 1743465599000,
       "periodCycle": "ANNUAL",
       "service": "CH.Rehri_Challan",
       "code": "CHREHRICHALLAN",
@@ -244,7 +244,7 @@
     },
     {
       "fromDate": 1396310399000,
-      "toDate": 1711929599000,
+      "toDate": 1743465599000,
       "periodCycle": "ANNUAL",
       "service": "CH.Cattle_Challan",
       "code": "CHCATTLECHALLAN",
@@ -252,7 +252,7 @@
     },
     {
       "fromDate": 1396310399000,
-      "toDate": 1711929599000,
+      "toDate": 1743465599000,
       "periodCycle": "ANNUAL",
       "service": "CH.Dairy_Animals_Challan",
       "code": "CHDAIRYANIMALSCHALLAN",
@@ -260,7 +260,7 @@
     },
     {
       "fromDate": 1396310399000,
-      "toDate": 1711929599000,
+      "toDate": 1743465599000,
       "periodCycle": "ANNUAL",
       "service": "FN.Leave_encashment_and_gratuity",
       "code": "FNLEAVEENCASHMENTANDGRATUITY",
@@ -268,7 +268,7 @@
     },
     {
       "fromDate": 1396310399000,
-      "toDate": 1711929599000,
+      "toDate": 1743465599000,
       "periodCycle": "ANNUAL",
       "service": "FN.Advance_Provident_Fund",
       "code": "FNADVANCEPROVIDENTFUND",
@@ -276,7 +276,7 @@
     },
     {
       "fromDate": 1396310399000,
-      "toDate": 1711929599000,
+      "toDate": 1743465599000,
       "periodCycle": "ANNUAL",
       "service": "FN.Recovery_employee_contractor",
       "code": "FNRECOVERYEMPLOYEECONTRACTOR",
@@ -284,7 +284,7 @@
     },
     {
       "fromDate": 1396310399000,
-      "toDate": 1711929599000,
+      "toDate": 1743465599000,
       "periodCycle": "ANNUAL",
       "service": "FN.Grants_cheque",
       "code": "FNGRANTSCHEQUE",
@@ -292,7 +292,7 @@
     },
     {
       "fromDate": 1396310399000,
-      "toDate": 1711929599000,
+      "toDate": 1743465599000,
       "periodCycle": "ANNUAL",
       "service": "FN.CPF_received_check",
       "code": "FNCPFRECEIVEDCHECK",
@@ -300,7 +300,7 @@
     },
     {
       "fromDate": 1396310399000,
-      "toDate": 1711929599000,
+      "toDate": 1743465599000,
       "periodCycle": "ANNUAL",
       "service": "FN.Tender_Form_Fee",
       "code": "FNTENDERFORMFEE",
@@ -308,7 +308,7 @@
     },
     {
       "fromDate": 1396310399000,
-      "toDate": 1711929599000,
+      "toDate": 1743465599000,
       "periodCycle": "ANNUAL",
       "service": "FN.Tender_Earnest_Money_Deposit",
       "code": "FNTENDEREARNESTMONEYDEPOSIT",
@@ -316,7 +316,7 @@
     },
     {
       "fromDate": 1396310399000,
-      "toDate": 1711929599000,
+      "toDate": 1743465599000,
       "periodCycle": "ANNUAL",
       "service": "FN.Tender_Security_Deposit_Fee",
       "code": "FNTENDERSECURITYDEPOSITFEE",
@@ -324,7 +324,7 @@
     },
     {
       "fromDate": 1396310399000,
-      "toDate": 1711929599000,
+      "toDate": 1743465599000,
       "periodCycle": "ANNUAL",
       "service": "NKS.Regularisation_of_Buildings",
       "code": "NKSREGULARISATIONOFBUILDINGS",
@@ -332,7 +332,7 @@
     },
     {
       "fromDate": 1396310399000,
-      "toDate": 1711929599000,
+      "toDate": 1743465599000,
       "periodCycle": "ANNUAL",
       "service": "OTHER.Misc_Challans",
       "code": "OTHERMISCCHALLANS",
@@ -340,7 +340,7 @@
     },
     {
       "fromDate": 1396310399000,
-      "toDate": 1711929599000,
+      "toDate": 1743465599000,
       "periodCycle": "ANNUAL",
       "service": "OTHER.Registery_and_bank_loan",
       "code": "OTHERREGISTERYANDBANKLOAN",
@@ -348,7 +348,7 @@
     },
     {
       "fromDate": 1396310399000,
-      "toDate": 1711929599000,
+      "toDate": 1743465599000,
       "periodCycle": "ANNUAL",
       "service": "RT.ULB_Shops_Rent",
       "code": "RTULBSHOPSRENT",
@@ -356,7 +356,7 @@
     },
     {
       "fromDate": 1396310399000,
-      "toDate": 1711929599000,
+      "toDate": 1743465599000,
       "periodCycle": "ANNUAL",
       "service": "RT.ULB_Land_Rent",
       "code": "RTULBLANDRENT",
@@ -364,7 +364,7 @@
     },
     {
       "fromDate": 1396310399000,
-      "toDate": 1711929599000,
+      "toDate": 1743465599000,
       "periodCycle": "ANNUAL",
       "service": "RT.Nazool_Land_Rent",
       "code": "RTNAZOOLLANDRENT",
@@ -372,7 +372,7 @@
     },
     {
       "fromDate": 1396310399000,
-      "toDate": 1711929599000,
+      "toDate": 1743465599000,
       "periodCycle": "ANNUAL",
       "service": "RT.ULB__Parking_Fee",
       "code": "RTULBPARKINGFEE",
@@ -380,7 +380,7 @@
     },
     {
       "fromDate": 1396310399000,
-      "toDate": 1711929599000,
+      "toDate": 1743465599000,
       "periodCycle": "ANNUAL",
       "service": "RT.Jamin_Theka",
       "code": "RTJAMINTHEKA",
@@ -388,7 +388,7 @@
     },
     {
       "fromDate": 1396310399000,
-      "toDate": 1711929599000,
+      "toDate": 1743465599000,
       "periodCycle": "ANNUAL",
       "service": "RT.Telecom_Tower_Annual_Rent",
       "code": "RTTELECOMTOWERANNUALRENT",
@@ -396,7 +396,7 @@
     },
     {
       "fromDate": 1396310399000,
-      "toDate": 1711929599000,
+      "toDate": 1743465599000,
       "periodCycle": "ANNUAL",
       "service": "RT.Community_Centre_Booking_Fee",
       "code": "RTCOMMUNITYCENTREBOOKINGFEE",
@@ -404,7 +404,7 @@
     },
     {
       "fromDate": 1396310399000,
-      "toDate": 1711929599000,
+      "toDate": 1743465599000,
       "periodCycle": "ANNUAL",
       "service": "RT.Commercial_Use_of_Municipal_Land",
       "code": "RTCOMMERCIALUSEOFMUNICIPALLAND",
@@ -412,7 +412,7 @@
     },
     {
       "fromDate": 1396310399000,
-      "toDate": 1711929599000,
+      "toDate": 1743465599000,
       "periodCycle": "ANNUAL",
       "service": "RT.Street_Vendor",
       "code": "RTSTREETVENDOR",
@@ -420,7 +420,7 @@
     },
     {
       "fromDate": 1396310399000,
-      "toDate": 1711929599000,
+      "toDate": 1743465599000,
       "periodCycle": "ANNUAL",
       "service": "HL.Licence_Pure_food",
       "code": "HLLICENCEPUREFOOD",
@@ -428,7 +428,7 @@
     },
     {
       "fromDate": 1396310399000,
-      "toDate": 1711929599000,
+      "toDate": 1743465599000,
       "periodCycle": "ANNUAL",
       "service": "HL.Dead_animals_contract",
       "code": "HLDEADANIMALSCONTRACT",
@@ -436,7 +436,7 @@
     },
     {
       "fromDate": 1396310399000,
-      "toDate": 1711929599000,
+      "toDate": 1743465599000,
       "periodCycle": "ANNUAL",
       "service": "HL.Sanitation_Tax",
       "code": "HLSANITATIONTAX",
@@ -444,7 +444,7 @@
     },
     {
       "fromDate": 1396310399000,
-      "toDate": 1711929599000,
+      "toDate": 1743465599000,
       "periodCycle": "ANNUAL",
       "service": "HL.Birth_Registration_Fees",
       "code": "HLBIRTHREGISTRATIONFEES",
@@ -452,7 +452,7 @@
     },
     {
       "fromDate": 1396310399000,
-      "toDate": 1711929599000,
+      "toDate": 1743465599000,
       "periodCycle": "ANNUAL",
       "service": "HL.Death_Registration_Fees",
       "code": "HLDEATHREGISTRATIONFEES",
@@ -460,7 +460,7 @@
     },
     {
       "fromDate": 1396310399000,
-      "toDate": 1711929599000,
+      "toDate": 1743465599000,
       "periodCycle": "ANNUAL",
       "service": "HL.Dumping_garbage_Challan",
       "code": "HLDUMPINGGARBAGECHALLAN",
@@ -468,7 +468,7 @@
     },
     {
       "fromDate": 1396310399000,
-      "toDate": 1711929599000,
+      "toDate": 1743465599000,
       "periodCycle": "ANNUAL",
       "service": "HL.Plastic_polythene_Challan",
       "code": "HLPLASTICPOLYTHENECHALLAN",
@@ -476,7 +476,7 @@
     },
     {
       "fromDate": 1396310399000,
-      "toDate": 1711929599000,
+      "toDate": 1743465599000,
       "periodCycle": "ANNUAL",
       "service": "HL.Dengue_Challan",
       "code": "HLDENGUECHALLAN",
@@ -484,7 +484,7 @@
     },
     {
       "fromDate": 1396310399000,
-      "toDate": 1711929599000,
+      "toDate": 1743465599000,
       "periodCycle": "ANNUAL",
       "service": "HL.Littering_Challan",
       "code": "HLLITTERINGCHALLAN",
@@ -492,7 +492,7 @@
     },
     {
       "fromDate": 1396310399000,
-      "toDate": 1711929599000,
+      "toDate": 1743465599000,
       "periodCycle": "ANNUAL",
       "service": "HL.Construction_Waste",
       "code": "HLCONSTRUCTIONWASTE",
@@ -500,7 +500,7 @@
     },
     {
       "fromDate": 1396310399000,
-      "toDate": 1711929599000,
+      "toDate": 1743465599000,
       "periodCycle": "ANNUAL",
       "service": "HL.Demolition_Waste",
       "code": "HLDEMOLITIONWASTE",
@@ -508,7 +508,7 @@
     },
     {
       "fromDate": 1396310399000,
-      "toDate": 1711929599000,
+      "toDate": 1743465599000,
       "periodCycle": "ANNUAL",
       "service": "TX.No_Dues_Certificate",
       "code": "TXNODUESCERTIFICATE",
@@ -516,7 +516,7 @@
     },
     {
       "fromDate": 1396310399000,
-      "toDate": 1711929599000,
+      "toDate": 1743465599000,
       "periodCycle": "ANNUAL",
       "service": "TX.Mutation_Fees",
       "code": "TXMUTATIONFEES",
@@ -524,7 +524,7 @@
     },
     {
       "fromDate": 1396310399000,
-      "toDate": 1711929599000,
+      "toDate": 1743465599000,
       "periodCycle": "ANNUAL",
       "service": "TX.Naqal_Fees",
       "code": "TXNAQALFEES",
@@ -532,7 +532,7 @@
     },
     {
       "fromDate": 1396310399000,
-      "toDate": 1711929599000,
+      "toDate": 1743465599000,
       "periodCycle": "ANNUAL",
       "service": "TX.Encroachment_Challan",
       "code": "TXENCROACHMENTCHALLAN",
@@ -540,7 +540,7 @@
     },
     {
       "fromDate": 1396310399000,
-      "toDate": 1711929599000,
+      "toDate": 1743465599000,
       "periodCycle": "ANNUAL",
       "service": "TB.Tehbazaari",
       "code": "TBTEHBAZAARI",
@@ -548,7 +548,7 @@
     },
     {
       "fromDate": 1396310399000,
-      "toDate": 1711929599000,
+      "toDate": 1743465599000,
       "periodCycle": "ANNUAL",
       "service": "TB.Challan_Under_section_156",
       "code": "TBCHALLANUNDERSECTION156",
@@ -556,7 +556,7 @@
     },
     {
       "fromDate": 1396310399000,
-      "toDate": 1711929599000,
+      "toDate": 1743465599000,
       "periodCycle": "ANNUAL",
       "service": "Cess.Cess",
       "code": "CESSCESS",
@@ -564,7 +564,7 @@
     },
     {
       "fromDate": 1396310399000,
-      "toDate": 1711929599000,
+      "toDate": 1743465599000,
       "periodCycle": "ANNUAL",
       "service": "ADVT.Wall_Paint_Advertisement",
       "code": "ADVTWALLPAINTADVERTISEMENT",
@@ -572,7 +572,7 @@
     },
     {
       "fromDate": 1396310399000,
-      "toDate": 1711929599000,
+      "toDate": 1743465599000,
       "periodCycle": "ANNUAL",
       "service": "ADVT.Gas_Balloon_Advertisement",
       "code": "ADVTGASBALLOONADVERTISEMENT",
@@ -580,7 +580,7 @@
     },
     {
       "fromDate": 1396310399000,
-      "toDate": 1711929599000,
+      "toDate": 1743465599000,
       "periodCycle": "ANNUAL",
       "service": "FN.PF_transfer_(Accounts)",
       "code": "FNPFTRANSFER(ACCOUNTS)",
@@ -588,7 +588,7 @@
     },
     {
       "fromDate": 1396310399000,
-      "toDate": 1711929599000,
+      "toDate": 1743465599000,
       "periodCycle": "ANNUAL",
       "service": "RT.Municipal_Shops_Rent",
       "code": "RTMUNICIPALSHOPSRENT",
@@ -596,7 +596,7 @@
     },
     {
       "fromDate": 1396310399000,
-      "toDate": 1711929599000,
+      "toDate": 1743465599000,
       "periodCycle": "ANNUAL",
       "service": "RT.Land_Rent",
       "code": "RTLANDRENT",
@@ -604,7 +604,7 @@
     },
     {
       "fromDate": 1396310399000,
-      "toDate": 1711929599000,
+      "toDate": 1743465599000,
       "periodCycle": "ANNUAL",
       "service": "RT.Tower_Rent",
       "code": "RTTOWERRENT",
@@ -612,7 +612,7 @@
     },
     {
       "fromDate": 1396310399000,
-      "toDate": 1711929599000,
+      "toDate": 1743465599000,
       "periodCycle": "ANNUAL",
       "service": "RT.Parking_Fee",
       "code": "RTPARKINGFEE",
@@ -620,7 +620,7 @@
     },
     {
       "fromDate": 1396310399000,
-      "toDate": 1711929599000,
+      "toDate": 1743465599000,
       "periodCycle": "ANNUAL",
       "service": "ST.Stationary_Not_Income",
       "code": "STSTATIONARYNOTINCOME",
@@ -628,7 +628,7 @@
     },
     {
       "fromDate": 1396310399000,
-      "toDate": 1711929599000,
+      "toDate": 1743465599000,
       "periodCycle": "ANNUAL",
       "service": "ST.Expenditure_santitation_Not_Income",
       "code": "STEXPENDITURESANTITATIONNOTINCOME",
@@ -636,7 +636,7 @@
     },
     {
       "fromDate": 1396310399000,
-      "toDate": 1711929599000,
+      "toDate": 1743465599000,
       "periodCycle": "ANNUAL",
       "service": "CH.Santitation_dumping_garbage",
       "code": "CHSANTITATIONDUMPINGGARBAGE",
@@ -644,7 +644,7 @@
     },
     {
       "fromDate": 1396310399000,
-      "toDate": 1711929599000,
+      "toDate": 1743465599000,
       "periodCycle": "ANNUAL",
       "service": "FTP.Telecom_tower_fees",
       "code": "FTPTELECOMTOWERFEES",
@@ -652,7 +652,7 @@
     },
     {
       "fromDate": 1396310399000,
-      "toDate": 1711929599000,
+      "toDate": 1743465599000,
       "periodCycle": "ANNUAL",
       "service": "TX.Electricity_Chungi",
       "code": "TXELECTRICITYCHUNGI",
@@ -660,7 +660,7 @@
     },
     {
       "fromDate": 1396310399000,
-      "toDate": 1711929599000,
+      "toDate": 1743465599000,
       "periodCycle": "ANNUAL",
       "service": "FTP.Draftsmen_fees",
       "code": "FTPDRAFTSMENFEES",
@@ -668,7 +668,7 @@
     },
     {
       "fromDate": 1396310399000,
-      "toDate": 1711929599000,
+      "toDate": 1743465599000,
       "periodCycle": "ANNUAL",
       "service": "FTP.Compremasing_fees",
       "code": "FTPCOMPREMASINGFEES",
@@ -676,7 +676,7 @@
     },
     {
       "fromDate": 1396310399000,
-      "toDate": 1711929599000,
+      "toDate": 1743465599000,
       "periodCycle": "ANNUAL",
       "service": "FTP.Building_planner_renew",
       "code": "FTPBUILDINGPLANNERRENEW",
@@ -684,7 +684,7 @@
     },
     {
       "fromDate": 1396310399000,
-      "toDate": 1711929599000,
+      "toDate": 1743465599000,
       "periodCycle": "ANNUAL",
       "service": "NKS.Naksha_samjota_fees",
       "code": "NKSNAKSHASAMJOTAFEES",
@@ -692,7 +692,7 @@
     },
     {
       "fromDate": 1396310399000,
-      "toDate": 1711929599000,
+      "toDate": 1743465599000,
       "periodCycle": "ANNUAL",
       "service": "NKS.Naksha_changes",
       "code": "NKSNAKSHACHANGES",
@@ -700,7 +700,7 @@
     },
     {
       "fromDate": 1396310399000,
-      "toDate": 1711929599000,
+      "toDate": 1743465599000,
       "periodCycle": "ANNUAL",
       "service": "FTP.License_fees_building_branch",
       "code": "FTPLICENSEFEESBUILDINGBRANCH",
@@ -708,7 +708,7 @@
     },
     {
       "fromDate": 1396310399000,
-      "toDate": 1711929599000,
+      "toDate": 1743465599000,
       "periodCycle": "ANNUAL",
       "service": "OM.Water_connection_disconnection_fees",
       "code": "OMWATERCONNECTIONDISCONNECTIONFEES",
@@ -716,7 +716,7 @@
     },
     {
       "fromDate": 1396310399000,
-      "toDate": 1711929599000,
+      "toDate": 1743465599000,
       "periodCycle": "ANNUAL",
       "service": "NKS.Naksha_renew_fees",
       "code": "NKSNAKSHARENEWFEES",
@@ -724,7 +724,7 @@
     },
     {
       "fromDate": 1396310399000,
-      "toDate": 1711929599000,
+      "toDate": 1743465599000,
       "periodCycle": "ANNUAL",
       "service": "NKS.NOC_Completion_of_building_approval",
       "code": "NKSNOCCOMPLETIONOFBUILDINGAPPROVAL",
@@ -732,7 +732,7 @@
     },
     {
       "fromDate": 1396310399000,
-      "toDate": 1711929599000,
+      "toDate": 1743465599000,
       "periodCycle": "ANNUAL",
       "service": "NKS.Alteration_additional_charge",
       "code": "NKSALTERATIONADDITIONALCHARGE",
@@ -740,7 +740,7 @@
     },
     {
       "fromDate": 1396310399000,
-      "toDate": 1711929599000,
+      "toDate": 1743465599000,
       "periodCycle": "ANNUAL",
       "service": "NKS.2_year_time_limit_of_Renewal_Building_Naksha",
       "code": "NKS2YEARTIMELIMITOFRENEWALBUILDINGNAKSHA",
@@ -748,7 +748,7 @@
     },
     {
       "fromDate": 1396310399000,
-      "toDate": 1711929599000,
+      "toDate": 1743465599000,
       "periodCycle": "ANNUAL",
       "service": "FTP.Leave_encashment_and_gratuty",
       "code": "FTPLEAVEENCASHMENTANDGRATUTY",
@@ -756,7 +756,7 @@
     },
     {
       "fromDate": 1396310399000,
-      "toDate": 1711929599000,
+      "toDate": 1743465599000,
       "periodCycle": "ANNUAL",
       "service": "CH.Plastic_Challan",
       "code": "CHPLASTICCHALLAN",
@@ -764,7 +764,7 @@
     },
     {
       "fromDate": 1396310399000,
-      "toDate": 1711929599000,
+      "toDate": 1743465599000,
       "periodCycle": "ANNUAL",
       "service": "CH.Challan_for_Misuse_of_Water",
       "code": "CHCHALLANFORMISUSEOFWATER",
@@ -772,7 +772,7 @@
     },
     {
       "fromDate": 1396310399000,
-      "toDate": 1711929599000,
+      "toDate": 1743465599000,
       "periodCycle": "ANNUAL",
       "service": "CH.Dengue_Challan",
       "code": "CHDENGUECHALLAN",
@@ -780,7 +780,7 @@
     },
     {
       "fromDate": 1396310399000,
-      "toDate": 1711929599000,
+      "toDate": 1743465599000,
       "periodCycle": "ANNUAL",
       "service": "CH.Littering_Challan",
       "code": "CHLITTERINGCHALLAN",
@@ -788,7 +788,7 @@
     },
     {
       "fromDate": 1396310399000,
-      "toDate": 1711929599000,
+      "toDate": 1743465599000,
       "periodCycle": "ANNUAL",
       "service": "SNT.Licence_Pure_food",
       "code": "SNTLICENCEPUREFOOD",
@@ -796,7 +796,7 @@
     },
     {
       "fromDate": 1396310399000,
-      "toDate": 1711929599000,
+      "toDate": 1743465599000,
       "periodCycle": "ANNUAL",
       "service": "WF.Contractor_Enlistment",
       "code": "WFCONTRACTORENLISTMENT",
@@ -804,7 +804,7 @@
     },
     {
       "fromDate": 1396310399000,
-      "toDate": 1711929599000,
+      "toDate": 1743465599000,
       "periodCycle": "ANNUAL",
       "service": "WF.Tender Form Fee",
       "code": "WFTENDER FORM FEE",
@@ -812,7 +812,7 @@
     },
     {
       "fromDate": 1396310399000,
-      "toDate": 1711929599000,
+      "toDate": 1743465599000,
       "periodCycle": "ANNUAL",
       "service": "TB.Advertisement_fee",
       "code": "TBADVERTISEMENTFEE",
@@ -820,7 +820,7 @@
     },
     {
       "fromDate": 1396310399000,
-      "toDate": 1711929599000,
+      "toDate": 1743465599000,
       "periodCycle": "ANNUAL",
       "service": "TX.TS1_copy_register_for_old_survey",
       "code": "TXTS1COPYREGISTERFOROLDSURVEY",
@@ -828,7 +828,7 @@
     },
     {
       "fromDate": 1396310399000,
-      "toDate": 1711929599000,
+      "toDate": 1743465599000,
       "periodCycle": "ANNUAL",
       "service": "TX.Transfer_Property_Fees",
       "code": "TXTRANSFERPROPERTYFEES",
@@ -836,7 +836,7 @@
     },
     {
       "fromDate": 1396310399000,
-      "toDate": 1711929599000,
+      "toDate": 1743465599000,
       "periodCycle": "ANNUAL",
       "service": "ADMN.No_Dues_Certificate",
       "code": "ADMNNODUESCERTIFICATE",
@@ -844,7 +844,7 @@
     },
     {
       "fromDate": 1396310399000,
-      "toDate": 1711929599000,
+      "toDate": 1743465599000,
       "periodCycle": "ANNUAL",
       "service": "FTP.Architect_license_fee",
       "code": "FTPARCHITECTLICENSEFEE",
@@ -852,7 +852,7 @@
     },
     {
       "fromDate": 1396310399000,
-      "toDate": 1711929599000,
+      "toDate": 1743465599000,
       "periodCycle": "ANNUAL",
       "service": "OTHER.No_due_certificate_electricity",
       "code": "OTHERNODUECERTIFICATEELECTRICITY",
@@ -860,7 +860,7 @@
     },
     {
       "fromDate": 1396310399000,
-      "toDate": 1711929599000,
+      "toDate": 1743465599000,
       "periodCycle": "ANNUAL",
       "service": "CH.SBM_garbage_plastic_polythene_challan",
       "code": "CHSBMGARBAGEPLASTICPOLYTHENECHALLAN",
@@ -868,7 +868,7 @@
     },
     {
       "fromDate": 1396310399000,
-      "toDate": 1711929599000,
+      "toDate": 1743465599000,
       "periodCycle": "ANNUAL",
       "service": "SNT.Dead_animals_contract",
       "code": "SNTDEADANIMALSCONTRACT",
@@ -876,7 +876,7 @@
     },
     {
       "fromDate": 1396310399000,
-      "toDate": 1711929599000,
+      "toDate": 1743465599000,
       "periodCycle": "ANNUAL",
       "service": "FN.GPF",
       "code": "FNGPF",
@@ -884,7 +884,7 @@
     },
     {
       "fromDate": 1396310399000,
-      "toDate": 1711929599000,
+      "toDate": 1743465599000,
       "periodCycle": "ANNUAL",
       "service": "RT.Tower_Installation",
       "code": "RTTOWERINSTALLATION",
@@ -892,7 +892,7 @@
     },
     {
       "fromDate": 1396310399000,
-      "toDate": 1711929599000,
+      "toDate": 1743465599000,
       "periodCycle": "ANNUAL",
       "service": "RT.Tower_Annual_Rent",
       "code": "RTTOWERANNUALRENT",
@@ -900,7 +900,7 @@
     },
     {
       "fromDate": 1396310399000,
-      "toDate": 1711929599000,
+      "toDate": 1743465599000,
       "periodCycle": "ANNUAL",
       "service": "CSS.cow_cess",
       "code": "CSSCOWCESS",
@@ -908,7 +908,7 @@
     },
     {
       "fromDate": 1396310399000,
-      "toDate": 1711929599000,
+      "toDate": 1743465599000,
       "periodCycle": "ANNUAL",
       "service": "TB.Rehri_Challan",
       "code": "TBREHRICHALLAN",
@@ -916,7 +916,7 @@
     },
     {
       "fromDate": 1396310399000,
-      "toDate": 1711929599000,
+      "toDate": 1743465599000,
       "periodCycle": "ANNUAL",
       "service": "LCF.Manual_Rikshaw",
       "code": "LCFMANUALRIKSHAW",
@@ -924,7 +924,7 @@
     },
     {
       "fromDate": 1396310399000,
-      "toDate": 1711929599000,
+      "toDate": 1743465599000,
       "periodCycle": "ANNUAL",
       "service": "CH.Bidi_And_Cigrette_Challan",
       "code": "CHBIDIANDCIGRETTECHALLAN",
@@ -932,7 +932,7 @@
     },
     {
       "fromDate": 1396310399000,
-      "toDate": 1711929599000,
+      "toDate": 1743465599000,
       "periodCycle": "ANNUAL",
       "service": "FTP.Construction_Waste",
       "code": "FTPCONSTRUCTIONWASTE",
@@ -940,7 +940,7 @@
     },
     {
       "fromDate": 1396310399000,
-      "toDate": 1711929599000,
+      "toDate": 1743465599000,
       "periodCycle": "ANNUAL",
       "service": "FTP.Demolition_Waste",
       "code": "FTPDEMOLITIONWASTE",
@@ -948,7 +948,7 @@
     },
     {
       "fromDate": 1396310399000,
-      "toDate": 1711929599000,
+      "toDate": 1743465599000,
       "periodCycle": "ANNUAL",
       "service": "SNT.clean_safai_sanitation",
       "code": "SNTCLEANSAFAISANITATION",
@@ -956,7 +956,7 @@
     },
     {
       "fromDate": 1396310399000,
-      "toDate": 1711929599000,
+      "toDate": 1743465599000,
       "periodCycle": "ANNUAL",
       "service": "OM.Plumber_License_Fee",
       "code": "OMPLUMBERLICENSEFEE",
@@ -964,7 +964,7 @@
     },
     {
       "fromDate": 1396310399000,
-      "toDate": 1711929599000,
+      "toDate": 1743465599000,
       "periodCycle": "ANNUAL",
       "service": "ADVT.Light_Wala_Board",
       "code": "ADVTLIGHTWALABOARD",
@@ -972,7 +972,7 @@
     },
     {
       "fromDate": 1396310399000,
-      "toDate": 1711929599000,
+      "toDate": 1743465599000,
       "periodCycle": "ANNUAL",
       "service": "TX.House_Tax",
       "code": "TXHOUSETAX",
@@ -980,7 +980,7 @@
     },
     {
       "fromDate": 1396310399000,
-      "toDate": 1711929599000,
+      "toDate": 1743465599000,
       "periodCycle": "ANNUAL",
       "service": "NKS.Hadud_Certificate_fees",
       "code": "NKSHADUDCERTIFICATEFEES",
@@ -988,7 +988,7 @@
     },
     {
       "fromDate": 1396310399000,
-      "toDate": 1711929599000,
+      "toDate": 1743465599000,
       "periodCycle": "ANNUAL",
       "service": "NKS.No_Due_Certificate_fees",
       "code": "NKSNODUECERTIFICATEFEES",
@@ -996,7 +996,7 @@
     },
     {
       "fromDate": 1396310399000,
-      "toDate": 1711929599000,
+      "toDate": 1743465599000,
       "periodCycle": "ANNUAL",
       "service": "NKS.Colony_Sambandhi_fees",
       "code": "NKSCOLONYSAMBANDHIFEES",
@@ -1004,7 +1004,7 @@
     },
     {
       "fromDate": 1396310399000,
-      "toDate": 1711929599000,
+      "toDate": 1743465599000,
       "periodCycle": "ANNUAL",
       "service": "NKS.Naksha_fees",
       "code": "NKSNAKSHAFEES",
@@ -1012,7 +1012,7 @@
     },
     {
       "fromDate": 1396310399000,
-      "toDate": 1711929599000,
+      "toDate": 1743465599000,
       "periodCycle": "ANNUAL",
       "service": "WF.OFC_Permission_fees",
       "code": "WFOFCPERMISSIONFEES",
@@ -1020,7 +1020,7 @@
     },
     {
       "fromDate": 1396310399000,
-      "toDate": 1711929599000,
+      "toDate": 1743465599000,
       "periodCycle": "ANNUAL",
       "service": "NKS.Building_fees",
       "code": "NKSBUILDINGFEES",
@@ -1028,7 +1028,7 @@
     },
     {
       "fromDate": 1396310399000,
-      "toDate": 1711929599000,
+      "toDate": 1743465599000,
       "periodCycle": "ANNUAL",
       "service": "NKS.Boundary_wall_fees",
       "code": "NKSBOUNDARYWALLFEES",
@@ -1036,7 +1036,7 @@
     },
     {
       "fromDate": 1396310399000,
-      "toDate": 1711929599000,
+      "toDate": 1743465599000,
       "periodCycle": "ANNUAL",
       "service": "NKS.Malba_fees",
       "code": "NKSMALBAFEES",
@@ -1044,7 +1044,7 @@
     },
     {
       "fromDate": 1396310399000,
-      "toDate": 1711929599000,
+      "toDate": 1743465599000,
       "periodCycle": "ANNUAL",
       "service": "NKS.Development_fees",
       "code": "NKSDEVELOPMENTFEES",
@@ -1052,7 +1052,7 @@
     },
     {
       "fromDate": 1396310399000,
-      "toDate": 1711929599000,
+      "toDate": 1743465599000,
       "periodCycle": "ANNUAL",
       "service": "NKS.Change_of_land_use_fees",
       "code": "NKSCHANGEOFLANDUSEFEES",
@@ -1060,7 +1060,7 @@
     },
     {
       "fromDate": 1396310399000,
-      "toDate": 1711929599000,
+      "toDate": 1743465599000,
       "periodCycle": "ANNUAL",
       "service": "NKS.Under_development_fees",
       "code": "NKSUNDERDEVELOPMENTFEES",
@@ -1068,7 +1068,7 @@
     },
     {
       "fromDate": 1396310399000,
-      "toDate": 1711929599000,
+      "toDate": 1743465599000,
       "periodCycle": "ANNUAL",
       "service": "OTHER.Water_Charges",
       "code": "OTHERWATERCHARGES",
@@ -1076,7 +1076,7 @@
     },
     {
       "fromDate": 1396310399000,
-      "toDate": 1711929599000,
+      "toDate": 1743465599000,
       "periodCycle": "ANNUAL",
       "service": "OTHER.Others_fee",
       "code": "OTHEROTHERSFEE",
@@ -1084,7 +1084,7 @@
     },
     {
       "fromDate": 1396310399000,
-      "toDate": 1711929599000,
+      "toDate": 1743465599000,
       "periodCycle": "ANNUAL",
       "service": "CSS.labor_cess",
       "code": "CSSLABORCESS",
@@ -1092,7 +1092,7 @@
     },
     {
       "fromDate": 1396310399000,
-      "toDate": 1711929599000,
+      "toDate": 1743465599000,
       "periodCycle": "ANNUAL",
       "service": "FN.Provident_Fund_Processing_Fees",
       "code": "FNPROVIDENTFUNDPROCESSINGFEES",
@@ -1100,7 +1100,7 @@
     },
     {
       "fromDate": 1396310399000,
-      "toDate": 1711929599000,
+      "toDate": 1743465599000,
       "periodCycle": "ANNUAL",
       "service": "OM.Sewerage_disconnection_connection_fees",
       "code": "OMSEWERAGEDISCONNECTIONCONNECTIONFEES",
@@ -1108,7 +1108,7 @@
     },
     {
       "fromDate": 1396310399000,
-      "toDate": 1711929599000,
+      "toDate": 1743465599000,
       "periodCycle": "ANNUAL",
       "service": "NKS.Economics_Weaker_Section_Scheme_Charges",
       "code": "NKSECONOMICSWEAKERSECTIONSCHEMECHARGES",
@@ -1116,7 +1116,7 @@
     },
     {
       "fromDate": 1396310399000,
-      "toDate": 1711929599000,
+      "toDate": 1743465599000,
       "periodCycle": "ANNUAL",
       "service": "NKS.Economics_Weaker_Section_Projects_Fees",
       "code": "NKSECONOMICSWEAKERSECTIONPROJECTSFEES",
@@ -1124,7 +1124,7 @@
     },
     {
       "fromDate": 1396310399000,
-      "toDate": 1711929599000,
+      "toDate": 1743465599000,
       "periodCycle": "ANNUAL",
       "service": "OM.Road_cut_fees",
       "code": "OMROADCUTFEES",
@@ -1132,7 +1132,7 @@
     },
     {
       "fromDate": 1396310399000,
-      "toDate": 1711929599000,
+      "toDate": 1743465599000,
       "periodCycle": "ANNUAL",
       "service": "ADMN.Parking_booking_fee",
       "code": "ADMNPARKINGBOOKINGFEE",
@@ -1140,7 +1140,7 @@
     },
     {
       "fromDate": 1396310399000,
-      "toDate": 1711929599000,
+      "toDate": 1743465599000,
       "periodCycle": "ANNUAL",
       "service": "ADVT.Canopy_Fee",
       "code": "ADVTCANOPYFEE",
@@ -1148,7 +1148,7 @@
     },
     {
       "fromDate": 1396310399000,
-      "toDate": 1711929599000,
+      "toDate": 1743465599000,
       "periodCycle": "ANNUAL",
       "service": "ADVT.Outdoor_Media_Display_Fee",
       "code": "ADVTOUTDOORMEDIADISPLAYFEE",
@@ -1156,7 +1156,7 @@
     },
     {
       "fromDate": 1396310399000,
-      "toDate": 1711929599000,
+      "toDate": 1743465599000,
       "periodCycle": "ANNUAL",
       "service": "TX.Property_Tax_2013-14",
       "code": "TXPROPERTYTAX2013-14",
@@ -1164,7 +1164,7 @@
     },
     {
       "fromDate": 1396310399000,
-      "toDate": 1711929599000,
+      "toDate": 1743465599000,
       "periodCycle": "ANNUAL",
       "service": "OTHER.Noc_fee",
       "code": "OTHERNOCFEE",
@@ -1172,7 +1172,7 @@
     },
     {
       "fromDate": 1396310399000,
-      "toDate": 1711929599000,
+      "toDate": 1743465599000,
       "periodCycle": "ANNUAL",
       "service": "OTHER.Fire_Noc_fee",
       "code": "OTHERFIRENOCFEE",
@@ -1180,7 +1180,7 @@
     },
     {
       "fromDate": 1396310399000,
-      "toDate": 1711929599000,
+      "toDate": 1743465599000,
       "periodCycle": "ANNUAL",
       "service": "OTHER.Fire_Tender_fee",
       "code": "OTHERFIRETENDERFEE",
@@ -1188,7 +1188,7 @@
     },
     {
       "fromDate": 1396310399000,
-      "toDate": 1711929599000,
+      "toDate": 1743465599000,
       "periodCycle": "ANNUAL",
       "service": "OTHER.Fire_Call_Report_fee",
       "code": "OTHERFIRECALLREPORTFEE",
@@ -1196,7 +1196,7 @@
     },
     {
       "fromDate": 1396310399000,
-      "toDate": 1711929599000,
+      "toDate": 1743465599000,
       "periodCycle": "ANNUAL",
       "service": "OTHER.Bus_Adda_fee",
       "code": "OTHERBUSADDAFEE",
@@ -1204,7 +1204,7 @@
     },
     {
       "fromDate": 1396310399000,
-      "toDate": 1711929599000,
+      "toDate": 1743465599000,
       "periodCycle": "ANNUAL",
       "service": "NKS.Rain_Harvesting_charges",
       "code": "NKSRAINHARVESTINGCHARGES",
@@ -1212,7 +1212,7 @@
     },
     {
       "fromDate": 1396310399000,
-      "toDate": 1711929599000,
+      "toDate": 1743465599000,
       "periodCycle": "ANNUAL",
       "service": "FN.Security_Deposit_Fee",
       "code": "FNSECURITYDEPOSITFEE",
@@ -1220,7 +1220,7 @@
     },
     {
       "fromDate": 1396310399000,
-      "toDate": 1711929599000,
+      "toDate": 1743465599000,
       "periodCycle": "ANNUAL",
       "service": "OTHER.Dispensary_fee",
       "code": "OTHERDISPENSARYFEE",
@@ -1228,7 +1228,7 @@
     },
     {
       "fromDate": 1396310399000,
-      "toDate": 1711929599000,
+      "toDate": 1743465599000,
       "periodCycle": "ANNUAL",
       "service": "RT.Sale_of_land",
       "code": "RTSALEOFLAND",
@@ -1236,7 +1236,7 @@
     },
     {
       "fromDate": 1396310399000,
-      "toDate": 1711929599000,
+      "toDate": 1743465599000,
       "periodCycle": "ANNUAL",
       "service": "OTHER.License_fee",
       "code": "OTHERLICENSEFEE",
@@ -1244,7 +1244,7 @@
     },
     {
       "fromDate": 1396310399000,
-      "toDate": 1711929599000,
+      "toDate": 1743465599000,
       "periodCycle": "ANNUAL",
       "service": "OTHER.Candy_fee",
       "code": "OTHERCANDYFEE",
@@ -1252,7 +1252,7 @@
     },
     {
       "fromDate": 1396310399000,
-      "toDate": 1711929599000,
+      "toDate": 1743465599000,
       "periodCycle": "ANNUAL",
       "service": "OTHER.Conservancy_fee",
       "code": "OTHERCONSERVANCYFEE",
@@ -1260,7 +1260,7 @@
     },
     {
       "fromDate": 1396310399000,
-      "toDate": 1711929599000,
+      "toDate": 1743465599000,
       "periodCycle": "ANNUAL",
       "service": "NKS.Sub_division_charges",
       "code": "NKSSUBDIVISIONCHARGES",
@@ -1268,7 +1268,7 @@
     },
     {
       "fromDate": 1396310399000,
-      "toDate": 1711929599000,
+      "toDate": 1743465599000,
       "periodCycle": "ANNUAL",
       "service": "NKS.Information_certificate_fees",
       "code": "NKSINFORMATIONCERTIFICATEFEES",
@@ -1276,7 +1276,7 @@
     },
     {
       "fromDate": 1396310399000,
-      "toDate": 1711929599000,
+      "toDate": 1743465599000,
       "periodCycle": "ANNUAL",
       "service": "NKS.Building_safety_certificate",
       "code": "NKSBUILDINGSAFETYCERTIFICATE",
@@ -1284,7 +1284,7 @@
     },
     {
       "fromDate": 1396310399000,
-      "toDate": 1711929599000,
+      "toDate": 1743465599000,
       "periodCycle": "ANNUAL",
       "service": "OTHER.Street_light_pole_transfer_fee",
       "code": "OTHERSTREETLIGHTPOLETRANSFERFEE",
@@ -1292,7 +1292,7 @@
     },
     {
       "fromDate": 1396310399000,
-      "toDate": 1711929599000,
+      "toDate": 1743465599000,
       "periodCycle": "ANNUAL",
       "service": "CH.Collection_and_demolition_waste_challan",
       "code": "CHCOLLECTIONANDDEMOLITIONWASTECHALLAN",
@@ -1300,7 +1300,7 @@
     },
     {
       "fromDate": 1396310399000,
-      "toDate": 1711929599000,
+      "toDate": 1743465599000,
       "periodCycle": "ANNUAL",
       "service": "CH.Burning_of_waste_challan",
       "code": "CHBURNINGOFWASTECHALLAN",
@@ -1364,7 +1364,7 @@
     },
     {
       "fromDate": 1396310399000,
-      "toDate": 1711929599000,
+      "toDate": 1743465599000,
       "periodCycle": "ANNUAL",
       "service": "TX.Hoarding_Unipoll_Wallpaint_Gasballoon_Polekiosk_Gateentry_Other",
       "code": "TXHOARDINGUNIPOLLWALLPAINTGASBALLOONPOLEKIOSKGATEENTRYOTHER",
@@ -1372,7 +1372,7 @@
     },
     {
       "fromDate": 1396310399000,
-      "toDate": 1711929599000,
+      "toDate": 1743465599000,
       "periodCycle": "ANNUAL",
       "service": "TX.Show_Tax",
       "code": "TXSHOWTAX",
@@ -1380,7 +1380,7 @@
     },
     {
       "fromDate": 1396310399000,
-      "toDate": 1711929599000,
+      "toDate": 1743465599000,
       "periodCycle": "ANNUAL",
       "service": "TX.G_S_T",
       "code": "TXGST",
@@ -1388,7 +1388,7 @@
     },
     {
       "fromDate": 1396310399000,
-      "toDate": 1711929599000,
+      "toDate": 1743465599000,
       "periodCycle": "ANNUAL",
       "service": "RT.Park_Rent",
       "code": "RTPARKRENT",
@@ -1396,7 +1396,7 @@
     },
     {
       "fromDate": 1396310399000,
-      "toDate": 1711929599000,
+      "toDate": 1743465599000,
       "periodCycle": "ANNUAL",
       "service": "OTFF.Copy_Fee",
       "code": "OTFFCOPYFEE",
@@ -1404,7 +1404,7 @@
     },
     {
       "fromDate": 1396310399000,
-      "toDate": 1711929599000,
+      "toDate": 1743465599000,
       "periodCycle": "ANNUAL",
       "service": "OTFF.File_Observation_Fee",
       "code": "OTFFFILEOBSERVATIONFEE",
@@ -1412,7 +1412,7 @@
     },
     {
       "fromDate": 1396310399000,
-      "toDate": 1711929599000,
+      "toDate": 1743465599000,
       "periodCycle": "ANNUAL",
       "service": "OTFF.Vehicle_Parking_Fee",
       "code": "OTFFVEHICLEPARKINGFEE",
@@ -1420,7 +1420,7 @@
     },
     {
       "fromDate": 1396310399000,
-      "toDate": 1711929599000,
+      "toDate": 1743465599000,
       "periodCycle": "ANNUAL",
       "service": "OTFF.Contract_Registration_Fee",
       "code": "OTFFCONTRACTREGISTRATIONFEE",
@@ -1428,7 +1428,7 @@
     },
     {
       "fromDate": 1396310399000,
-      "toDate": 1711929599000,
+      "toDate": 1743465599000,
       "periodCycle": "ANNUAL",
       "service": "OTFF.Contract_Renewal_Fees",
       "code": "OTFFCONTRACTRENEWALFEES",
@@ -1436,7 +1436,7 @@
     },
     {
       "fromDate": 1396310399000,
-      "toDate": 1711929599000,
+      "toDate": 1743465599000,
       "periodCycle": "ANNUAL",
       "service": "OTFF.Development_Charges",
       "code": "OTFFDEVELOPMENTCHARGES",
@@ -1444,7 +1444,7 @@
     },
     {
       "fromDate": 1396310399000,
-      "toDate": 1711929599000,
+      "toDate": 1743465599000,
       "periodCycle": "ANNUAL",
       "service": "OTFF.Exhibition_Fee",
       "code": "OTFFEXHIBITIONFEE",
@@ -1452,7 +1452,7 @@
     },
     {
       "fromDate": 1396310399000,
-      "toDate": 1711929599000,
+      "toDate": 1743465599000,
       "periodCycle": "ANNUAL",
       "service": "OTFF.Animal_Slaughtering_Fees_Buffalo",
       "code": "OTFFANIMALSLAUGHTERINGFEESBUFFALO",
@@ -1460,7 +1460,7 @@
     },
     {
       "fromDate": 1396310399000,
-      "toDate": 1711929599000,
+      "toDate": 1743465599000,
       "periodCycle": "ANNUAL",
       "service": "OTFF.Animal_Slaughtering_Fees_Goat",
       "code": "OTFFANIMALSLAUGHTERINGFEESGOAT",
@@ -1468,7 +1468,7 @@
     },
     {
       "fromDate": 1396310399000,
-      "toDate": 1711929599000,
+      "toDate": 1743465599000,
       "periodCycle": "ANNUAL",
       "service": "OTFF.Amplifier_Fees",
       "code": "OTFFAMPLIFIERFEES",
@@ -1476,7 +1476,7 @@
     },
     {
       "fromDate": 1396310399000,
-      "toDate": 1711929599000,
+      "toDate": 1743465599000,
       "periodCycle": "ANNUAL",
       "service": "OTFF.Self_Assisment_Form_Fees",
       "code": "OTFFSELFASSISMENTFORMFEES",
@@ -1484,7 +1484,7 @@
     },
     {
       "fromDate": 1396310399000,
-      "toDate": 1711929599000,
+      "toDate": 1743465599000,
       "periodCycle": "ANNUAL",
       "service": "OTFF.Premium",
       "code": "OTFFPREMIUM",
@@ -1492,7 +1492,7 @@
     },
     {
       "fromDate": 1396310399000,
-      "toDate": 1711929599000,
+      "toDate": 1743465599000,
       "periodCycle": "ANNUAL",
       "service": "OTFF.Late_Fees",
       "code": "OTFFLATEFEES",
@@ -1500,7 +1500,7 @@
     },
     {
       "fromDate": 1396310399000,
-      "toDate": 1711929599000,
+      "toDate": 1743465599000,
       "periodCycle": "ANNUAL",
       "service": "OTFF.Tender_Form_Fee",
       "code": "OTFFTENDERFORMFEE",
@@ -1508,7 +1508,7 @@
     },
     {
       "fromDate": 1396310399000,
-      "toDate": 1711929599000,
+      "toDate": 1743465599000,
       "periodCycle": "ANNUAL",
       "service": "UC.Pay_And_Use_Toilets_Charges",
       "code": "UCPAYANDUSETOILETSCHARGES",
@@ -1516,7 +1516,7 @@
     },
     {
       "fromDate": 1396310399000,
-      "toDate": 1711929599000,
+      "toDate": 1743465599000,
       "periodCycle": "ANNUAL",
       "service": "UC.Garbage_Collection_Charges_Residential",
       "code": "UCGARBAGECOLLECTIONCHARGESRESIDENTIAL",
@@ -1524,7 +1524,7 @@
     },
     {
       "fromDate": 1396310399000,
-      "toDate": 1711929599000,
+      "toDate": 1743465599000,
       "periodCycle": "ANNUAL",
       "service": "UC.Garbage_Collection_Charges_Commercial",
       "code": "UCGARBAGECOLLECTIONCHARGESCOMMERCIAL",
@@ -1532,7 +1532,7 @@
     },
     {
       "fromDate": 1396310399000,
-      "toDate": 1711929599000,
+      "toDate": 1743465599000,
       "periodCycle": "ANNUAL",
       "service": "SLHC.Sale_Of_Forms_And_Publications",
       "code": "SLHCSALEOFFORMSANDPUBLICATIONS",
@@ -1540,7 +1540,7 @@
     },
     {
       "fromDate": 1396310399000,
-      "toDate": 1711929599000,
+      "toDate": 1743465599000,
       "periodCycle": "ANNUAL",
       "service": "SLHC.Sale_Of_Stores_Scrap",
       "code": "SLHCSALEOFSTORESSCRAP",
@@ -1548,7 +1548,7 @@
     },
     {
       "fromDate": 1396310399000,
-      "toDate": 1711929599000,
+      "toDate": 1743465599000,
       "periodCycle": "ANNUAL",
       "service": "GTINER.Interest_From_Sb_Accounts",
       "code": "GTINERINTERESTFROMSBACCOUNTS",
@@ -1556,7 +1556,7 @@
     },
     {
       "fromDate": 1396310399000,
-      "toDate": 1711929599000,
+      "toDate": 1743465599000,
       "periodCycle": "ANNUAL",
       "service": "OTHERS.Profit_On_Disposal_Of_Fixed_Assets",
       "code": "OTHERSPROFITONDISPOSALOFFIXEDASSETS",
@@ -1564,7 +1564,7 @@
     },
     {
       "fromDate": 1396310399000,
-      "toDate": 1711929599000,
+      "toDate": 1743465599000,
       "periodCycle": "ANNUAL",
       "service": "OTHERS.Recovery_From_Employees_Or_Contracters",
       "code": "OTHERSRECOVERYFROMEMPLOYEESORCONTRACTERS",
@@ -1572,7 +1572,7 @@
     },
     {
       "fromDate": 1396310399000,
-      "toDate": 1711929599000,
+      "toDate": 1743465599000,
       "periodCycle": "ANNUAL",
       "service": "TX.Compounding_Fee",
       "code": "TXCOMPOUNDINGFEE",
@@ -1580,7 +1580,7 @@
     },
     {
       "fromDate": 1396310399000,
-      "toDate": 1711929599000,
+      "toDate": 1743465599000,
       "periodCycle": "ANNUAL",
       "service": "TX.Information_Fee",
       "code": "TXINFORMATIONFEE",
@@ -1588,7 +1588,7 @@
     },
     {
       "fromDate": 1396310399000,
-      "toDate": 1711929599000,
+      "toDate": 1743465599000,
       "periodCycle": "ANNUAL",
       "service": "TX.Self_Assessment_Form_Fee",
       "code": "TXSELFASSESSMENTFORMFEE",
@@ -1596,7 +1596,7 @@
     },
     {
       "fromDate": 1396310399000,
-      "toDate": 1711929599000,
+      "toDate": 1743465599000,
       "periodCycle": "ANNUAL",
       "service": "TX.Assessment_Copy_Fee",
       "code": "TXASSESSMENTCOPYFEE",
@@ -1604,7 +1604,7 @@
     },
     {
       "fromDate": 1396310399000,
-      "toDate": 1711929599000,
+      "toDate": 1743465599000,
       "periodCycle": "ANNUAL",
       "service": "TX.Publication_Fee",
       "code": "TXPUBLICATIONFEE",
