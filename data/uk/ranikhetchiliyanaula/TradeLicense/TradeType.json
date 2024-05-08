@@ -4525,6 +4525,32 @@
       "verificationDocument": [],
       "active": true,
       "type": "TL"
-    }
+    },
+	  {
+      "code": "TRADE.SHOP.CIGTB",
+      "uom": null,
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "AC089",
+            "AC028",
+            "OWNERPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "AC089",
+            "AC028",
+            "OWNERPHOTO",
+            "OLDLICENSENO"
+          ]
+        }
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL"
+    } 
      ]
 	 }
