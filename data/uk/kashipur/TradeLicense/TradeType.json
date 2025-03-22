@@ -7075,7 +7075,7 @@
       "type": "TL"
     },
     {
-      "code": "TRADE.LIVESTOCK.KABS",
+      "code": "TRADE.LIVESTOCK.BMEAT",
       "uom": null,
       "applicationDocument": [
         {
