@@ -49,6 +49,15 @@
       "fromFY": "2024-25",
       "startingDay": 1711929601000,
       "endingDay": 1742515199000
+    },
+    {
+      "rate": 0,
+      "maxAmount": null,
+      "flatAmount": null,
+      "fromFY": "2025-26",
+      "startingDay": 1743508801000,
+      "endingDay": 1775001541000
     }
+    
   ]
 }
