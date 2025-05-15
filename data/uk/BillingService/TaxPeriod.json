@@ -3,7 +3,7 @@
   "moduleName": "BillingService",
   "TaxPeriod": [
      {
-      "fromDate": 1743465601000,
+      "fromDate": 1743465600000,
       "toDate": 1775001599000,
       "periodCycle": "ANNUAL",
       "service": "PT",
@@ -99,7 +99,7 @@
       "financialYear": "2014-15"
     },
      {
-      "fromDate": 1743465601000,
+      "fromDate": 1743465600000,
       "toDate": 1775001599000,
       "periodCycle": "ANNUAL",
       "service": "TL",
