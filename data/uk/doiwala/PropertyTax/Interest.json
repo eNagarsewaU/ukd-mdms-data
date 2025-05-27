@@ -38,10 +38,17 @@
       "rate": 0,
       "financialYear": "2022-23"
     },
-    
     {
       "rate": 0,
       "financialYear": "2023-24"
+    },
+    {
+      "rate": 0,
+      "financialYear": "2024-25"
+    },
+    {
+      "rate": 0,
+      "financialYear": "2025-26"
     }
   ]
 }
