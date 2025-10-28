@@ -28,6 +28,7 @@
       "active": true,
       "type": "TL"
     },
+
 {
     "code":"TRADE.HOTELS.HT10B",
     "uom": null,
@@ -393,7 +394,7 @@
     "type": "TL"
   },
 {
-    "code":"TRADE.HOTELS.OTH",
+    "code":"TRADE.HOTELS.OTHS",
     "uom": null,
     "applicationDocument": [
       {
@@ -887,7 +888,7 @@
     "type": "TL"
   },
 {
-    "code":"TRADE.HEALTH.OTH",
+    "code":"TRADE.HEALTH.OTHS",
     "uom": null,
     "applicationDocument": [
       {
@@ -2343,7 +2344,7 @@
     "type": "TL"
   },
 {
-    "code":"TRADE.SHOP.OTH",
+    "code":"TRADE.SHOP.OTHS",
     "uom": null,
     "applicationDocument": [
       {
