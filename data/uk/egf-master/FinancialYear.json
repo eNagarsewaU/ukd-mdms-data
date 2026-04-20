@@ -295,6 +295,35 @@
       "isClosed": false,
       "transferClosingBalance": false,
       "module": "TL"
+    },
+      {
+      "id": "21",
+      "tenantId": "uk",
+      "finYearRange": "2025-26",
+      "name": "2026-27",
+      "code": "2026-27",
+      "startingDate": 1775001600000,
+      "endingDate": 1806537599000,
+      "active": true,
+      "isActiveForPosting": true,
+      "isClosed": false,
+      "transferClosingBalance": false,
+      "module": "PT"
+    },
+    {
+      "id": "22",
+      "tenantId": "uk",
+      "finYearRange": "2025-26",
+      "name": "2026-27",
+      "code": "2026-27",
+      "startingDate": 1775001600000,
+      "endingDate": 1806537599000,
+      "active": true,
+      "isActiveForPosting": true,
+      "isClosed": false,
+      "transferClosingBalance": false,
+      "module": "TL"
     }
+
   ]
 }
