@@ -2,7 +2,15 @@
   "tenantId": "uk",
   "moduleName": "BillingService",
   "TaxPeriod": [
-     {
+    {
+      "fromDate": 1775001600000,
+      "toDate": 1806537599000,
+      "periodCycle": "ANNUAL",
+      "service": "PT",
+      "code": "PTAN2026",
+      "financialYear": "2026-27"
+    }, 
+    {
       "fromDate": 1743465600000,
       "toDate": 1775001599000,
       "periodCycle": "ANNUAL",
@@ -97,6 +105,14 @@
       "service": "PT",
       "code": "PTAN2014",
       "financialYear": "2014-15"
+    },
+     {
+      "fromDate": 1775001600000,
+      "toDate": 1806537599000,
+      "periodCycle": "ANNUAL",
+      "service": "TL",
+      "code": "TLAN2026",
+      "financialYear": "2026-27"
     },
      {
       "fromDate": 1743465600000,
