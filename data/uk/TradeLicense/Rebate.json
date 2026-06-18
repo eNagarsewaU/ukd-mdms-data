@@ -23,6 +23,13 @@
       "flatAmount": 0.0,
       "fromFY": "2021-22",
       "endingDay": "31/03/2021"
+    },
+    {
+      "rate": 0,
+      "maxAmount": null,
+      "flatAmount": 0.0,
+      "fromFY": "2026-27",
+      "endingDay": "31/03/2026"
     }
   ]
 }
